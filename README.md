@@ -108,51 +108,6 @@ classe centro_x centro_y largura altura
 
 As coordenadas são normalizadas, ou seja, seus valores ficam entre `0` e `1`.
 
-## Relação entre `_darknet.labels` e os arquivos `.txt`
-
-O arquivo `_darknet.labels` e os arquivos `.txt` trabalham em conjunto.
-
-O `_darknet.labels` informa:
-
-```text
-ID → Nome da classe
-```
-
-Enquanto o `.txt` informa:
-
-```text
-ID → Objeto encontrado na imagem + posição do objeto
-```
-
-Por exemplo, considerando:
-
-```text
-_darknet.labels
-
-...
-
-51 -R-1- Pare
-52 ...
-...
-61 -A-12- Intersecao em circulo
-```
-
-e uma anotação:
-
-```text
-61 0.731891 0.266134 0.302702 0.445979
-51 0.728918 0.725567 0.312200 0.453711
-```
-
-podemos interpretar que a imagem possui dois objetos:
-
-```text
-Classe 61 → A-12- Intersecao em circulo
-Classe 51 → R-1- Pare
-```
-
-A associação é feita exclusivamente pelo ID da classe.
-
 ## Uma imagem pode possuir várias classes
 
 Uma mesma imagem pode conter mais de um objeto e, consequentemente, mais de uma classe.
@@ -245,6 +200,56 @@ R-1_Pare
 ```
 
 Essa reorganização não altera o dataset original.
+
+### Imagens sem anotação
+
+Algumas imagens podem possuir um arquivo `.txt` vazio. Isso significa que não há nenhuma classe anotada para aquela imagem.
+
+Nesse caso, a imagem **não é copiada para nenhuma pasta de classe**, pois não existe uma classe que possa ser associada a ela.
+
+O arquivo original permanece no dataset de origem.
+
+## Contagem de arquivos
+
+O projeto também possui um script destinado à conferência da quantidade de arquivos após a reorganização do dataset.
+
+O script percorre as pastas `train`, `valid` e `test` dentro de `placas_organizadas` e contabiliza os arquivos existentes em cada pasta de classe.
+
+O resultado é exibido no terminal e também salvo em um arquivo:
+
+```text
+contagem_arquivos.txt
+```
+
+O relatório apresenta a quantidade de arquivos por classe e os totais de cada divisão:
+
+```text
+[TRAIN]
+------------------------------------------------------------
+A-12_Intersecao_em_circulo: 145 arquivos
+A-13a_Confluencia_a_esquerda: 98 arquivos
+R-1_Pare: 237 arquivos
+
+TOTAL TRAIN: 480 arquivos
+
+[VALID]
+------------------------------------------------------------
+A-12_Intersecao_em_circulo: 32 arquivos
+R-1_Pare: 51 arquivos
+
+TOTAL VALID: 83 arquivos
+
+[TEST]
+------------------------------------------------------------
+A-12_Intersecao_em_circulo: 35 arquivos
+R-1_Pare: 56 arquivos
+
+TOTAL TEST: 91 arquivos
+```
+
+Esse relatório pode ser utilizado para verificar a organização e identificar possíveis inconsistências na quantidade de arquivos.
+
+É importante observar que o **total de arquivos nas pastas de classes pode ser maior que a quantidade de imagens originais**. Isso ocorre porque uma mesma imagem pode possuir objetos de várias classes e, nesse caso, é copiada para cada uma das classes correspondentes.
 
 ## Fluxo dos dados
 
