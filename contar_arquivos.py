@@ -87,14 +87,18 @@ def gerar_relatorio():
         # Percorre as subpastas da divisão
         # ----------------------------------------------------
 
-        subpastas = sorted(
-            [
-                item
-                for item in pasta_divisao.iterdir()
-                if item.is_dir()
-            ],
-            key=lambda caminho: caminho.name.lower()
-        )
+        subpastas = [
+            item
+            for item in pasta_divisao.iterdir()
+            if item.is_dir()
+        ]
+
+        # ----------------------------------------------------
+        # Conta os arquivos de cada classe
+        # e ordena do MAIOR para o MENOR
+        # ----------------------------------------------------
+
+        resultados = []
 
         for pasta_classe in subpastas:
 
@@ -102,8 +106,24 @@ def gerar_relatorio():
                 pasta_classe
             )
 
+            resultados.append(
+                (pasta_classe.name, quantidade)
+            )
+
+        resultados.sort(
+            key=lambda resultado: resultado[1],
+            reverse=True
+        )
+
+        # ----------------------------------------------------
+        # Adiciona as classes ao relatório
+        # já ordenadas
+        # ----------------------------------------------------
+
+        for nome_classe, quantidade in resultados:
+
             linhas_relatorio.append(
-                f"{pasta_classe.name}: {quantidade} arquivos"
+                f"{nome_classe}: {quantidade} arquivos"
             )
 
             total_divisao += quantidade
@@ -164,3 +184,4 @@ def gerar_relatorio():
 
 if __name__ == "__main__":
     gerar_relatorio()
+    
