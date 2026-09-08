@@ -1,0 +1,38 @@
+Preciso de um script em Python para reorganizar localmente um dataset de visão computacional (Placas de Trânsito) que baixei do Roboflow. O objetivo final é separar as imagens físicas em pastas com os nomes reais das classes (ex: uma pasta chamada "Pare", outra "Lombada").
+
+Aqui estão os detalhes técnicos ATUALIZADOS do meu cenário:
+
+1. ESTRUTURA DE PASTAS ATUAL DO DATASET:
+Na raiz do meu projeto existem apenas dois arquivos .txt gerais. O dataset real está dividido em três pastas na raiz:
+- /train
+- /valid
+- /test
+
+Dentro de CADA UMA dessas três pastas, existem os arquivos de imagem (.jpg), seus respectivos arquivos de anotação (.txt) com o mesmo nome da imagem, e um arquivo de texto idêntico chamado exatamente:
+_darknet.labels
+
+2. FORMATO DO ARQUIVO _darknet.labels:
+Este arquivo contém a lista pura de todas as classes, uma por linha, exatamente na ordem correta dos IDs (indexação baseada em zero).
+Exemplo do conteúdo interno do _darknet.labels:
+-A-12- Intersecao em circulo
+-A-13a- Confluencia a esquerda
+...
+-R-1- Pare
+...
+
+3. FORMATO DAS ANOTAÇÕES (YOLO / Darknet):
+Cada imagem possui um arquivo .txt correspondente. Uma imagem pode conter mais de um objeto anotado (mais de uma linha).
+Exemplo de um arquivo .txt de imagem:
+61 0.731891 0.266134 0.302702 0.445979
+51 0.728918 0.725567 0.312200 0.453711
+
+Onde o primeiro número de cada linha (ex: 61 e 51) representa o ID da classe que corresponde à linha correspondente no arquivo '_darknet.labels'.
+
+O QUE O SCRIPT PYTHON DEVE FAZER:
+1. Iterar pelas três pastas principais: 'train', 'valid' e 'test'.
+2. Para cada pasta, ler o arquivo '_darknet.labels' local para carregar o mapeamento de IDs para nomes textuais de classes. Limpar o nome das classes removendo hífens extras e substituindo espaços por underscores (_) para criar nomes de pastas limpos e válidos.
+3. Varrer todas as imagens da pasta. Para cada imagem, abrir seu arquivo .txt correspondente.
+4. ATENÇÃO: Como uma imagem pode ter múltiplos objetos (múltiplas linhas no .txt), o script deve ler TODAS as linhas do .txt. Se uma imagem contiver a classe 51 e a classe 61, ela deve ser COPIADA para dentro da pasta da classe 51 e TAMBÉM para dentro da pasta da classe 61. Dessa forma, processaremos todas as mais de 5 mil imagens sem perder nenhuma ocorrência de classe.
+5. A estrutura de saída deve preservar as divisões originais. Exemplo de caminho final: /placas_organizadas/[train ou valid ou test]/[Nome_Da_Classe_Limpo]/[nome-da-imagem].jpg
+
+Por favor, gere o código Python completo, robusto e comentado para que eu possa executar no meu ambiente local.
