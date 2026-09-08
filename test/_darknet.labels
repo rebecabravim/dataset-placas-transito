@@ -1,0 +1,75 @@
+-A-12- Intersecao em circulo
+-A-13a- Confluencia a esquerda
+-A-13b- Confluencia a direita
+-A-14- Semaforo a frente
+-A-18- Lombada
+-A-1a- Curva acentuada a esquerda
+-A-1b- Curva acentuada a direita
+-A-20a- Declive acentuado
+-A-21b- Estreitamento de pista a esquerda
+-A-21c- Estreitamento de pista a direita
+-A-21e- Alargamento de pista a direita
+-A-24- Obras
+-A-25- Mao dupla adiante
+-A-2a- Curva a esquerda
+-A-2b- Curva a direita
+-A-30a- Transito de ciclistas
+-A-30b- Passagem sinalizada de ciclistas
+-A-32a- Transito de pedestres
+-A-32b- Passagem sinalizada de pedestres
+-A-33a- Area escolar
+-A-33b- Passagem sinalizada de escolares
+-A-35- Animais
+-A-36- Animais selvagens
+-A-37- Altura Limitada
+-A-3a- Pista sinuosa a esquerda
+-A-46- Peso bruto total limitado
+-A-4b- Curva acentuada em -S- a direita
+-A-5a- Curva em -S- a esquerda
+-A-5b- Curva em -S- a direita
+-A-7a- Via lateral a esquerda
+-A-7b- Via lateral a direita
+-MA- Marcador de alinhamento
+-MP-1- Passagem pela direita
+-MP-2- Passagem pela esquerda
+-MP-3- Passagem dupla
+-R-1- Pare
+-R-12- Proibido transito de bicicletas
+-R-15- Altura maxima
+-R-19- 100km-h
+-R-19- 10km-h
+-R-19- 110km-h
+-R-19- 120km-h
+-R-19- 20 km-h
+-R-19- 30km-h
+-R-19- 40km-h
+-R-19- 50km-h
+-R-19- 60km-h
+-R-19- 70km-h
+-R-19- 80km-h
+-R-19- 90km-h
+-R-2- De a preferencia
+-R-24a- Sentido unico
+-R-24b- Passagem obrigatoria
+-R-25a- Vire a esquerda
+-R-25b- Vire a direita
+-R-25c- Siga em frente ou a esquerda
+-R-25d- Siga em frente ou a direita
+-R-26- Siga em frente
+-R-27- Veiculos lentos usem faixa da direita
+-R-28- Duplo sentido
+-R-29- Proibido transito de pedestres
+-R-3- Sentido proibido
+-R-32- Circulacao exclusiva de Onibus
+-R-33- Sentido de circulacao na rotatoria
+-R-34- Circulacao de bicicleta
+-R-4a- Proibido virar a esquerda
+-R-4b- Proibido virar a direita
+-R-5a- Proibido retornar a esquerda
+-R-5b- Proibido retornar a direita
+-R-6a- Proibido estacionar
+-R-6b- Estacionamento
+-R-6c- Proibido parar e estacionar
+-R-7- Proibido ultrapassar
+-R-8a- Proibido mudar de faixa da esquerda para a direita
+-R-9- Proibido caminhoes
