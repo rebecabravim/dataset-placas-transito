@@ -6,10 +6,13 @@ O dataset foi obtido a partir do Roboflow no formato YOLO/Darknet. As imagens es
 
 ## Estrutura do dataset
 
-O dataset está dividido em três conjuntos:
+O dataset original está dividido em três conjuntos: `train`, `valid` e `test`. Além dessas pastas, o projeto possui a pasta `placas_organizadas`, gerada pelo script de reorganização das imagens por classe.
+
+A estrutura geral do projeto é:
 
 ```text
 dataset/
+
 │
 ├── train/
 │   ├── _darknet.labels
@@ -25,20 +28,47 @@ dataset/
 │   ├── imagem_101.txt
 │   └── ...
 │
-└── test/
-    ├── _darknet.labels
-    ├── imagem_201.jpg
-    ├── imagem_201.txt
-    └── ...
+├── test/
+│   ├── _darknet.labels
+│   ├── imagem_201.jpg
+│   ├── imagem_201.txt
+│   └── ...
+│
+└── placas_organizadas/
+    │
+    ├── train/
+    │   ├── Classe_1/
+    │   │   ├── imagem_001.jpg
+    │   │   └── ...
+    │   ├── Classe_2/
+    │   │   ├── imagem_002.jpg
+    │   │   └── ...
+    │   └── ...
+    │
+    ├── valid/
+    │   ├── Classe_1/
+    │   ├── Classe_2/
+    │   └── ...
+    │
+    └── test/
+        ├── Classe_1/
+        ├── Classe_2/
+        └── ...
 ```
 
-As três pastas possuem a mesma estrutura:
+As pastas `train`, `valid` e `test` correspondem ao dataset original:
 
 * `train`: imagens utilizadas para treinamento do modelo.
 * `valid`: imagens utilizadas para validação durante o desenvolvimento.
 * `test`: imagens utilizadas para avaliação final do modelo.
 
-Cada conjunto possui seu próprio arquivo `_darknet.labels`.
+Cada conjunto possui seu próprio arquivo `_darknet.labels`, além dos arquivos `.txt` correspondentes às imagens.
+
+A pasta `placas_organizadas` é uma estrutura derivada do dataset original. Ela é utilizada para organizar as imagens de acordo com as classes encontradas nas anotações. Essa organização facilita etapas posteriores de análise e processamento do dataset.
+
+A pasta `placas_organizadas` mantém a separação entre `train`, `valid` e `test`, de modo que uma imagem pertencente ao conjunto de treinamento continue dentro de `train`, uma imagem de validação continue dentro de `valid` e uma imagem de teste continue dentro de `test`.
+
+A reorganização não substitui nem modifica o dataset original. As imagens são copiadas para as respectivas pastas de classe.
 
 ## Arquivo `_darknet.labels`
 
@@ -221,33 +251,9 @@ O resultado é exibido no terminal e também salvo em um arquivo:
 contagem_arquivos.txt
 ```
 
-O relatório apresenta a quantidade de arquivos por classe e os totais de cada divisão:
+O relatório apresenta a quantidade de arquivos por classe e os totais de cada divisão.
 
-```text
-[TRAIN]
-------------------------------------------------------------
-A-12_Intersecao_em_circulo: 145 arquivos
-A-13a_Confluencia_a_esquerda: 98 arquivos
-R-1_Pare: 237 arquivos
-
-TOTAL TRAIN: 480 arquivos
-
-[VALID]
-------------------------------------------------------------
-A-12_Intersecao_em_circulo: 32 arquivos
-R-1_Pare: 51 arquivos
-
-TOTAL VALID: 83 arquivos
-
-[TEST]
-------------------------------------------------------------
-A-12_Intersecao_em_circulo: 35 arquivos
-R-1_Pare: 56 arquivos
-
-TOTAL TEST: 91 arquivos
-```
-
-Esse relatório pode ser utilizado para verificar a organização e identificar possíveis inconsistências na quantidade de arquivos.
+As classes são apresentadas em **ordem decrescente de quantidade de arquivos**, facilitando a identificação das classes com maior e menor quantidade de imagens.
 
 É importante observar que o **total de arquivos nas pastas de classes pode ser maior que a quantidade de imagens originais**. Isso ocorre porque uma mesma imagem pode possuir objetos de várias classes e, nesse caso, é copiada para cada uma das classes correspondentes.
 
@@ -338,6 +344,42 @@ test/
     ├── _darknet.labels
     ├── imagem.jpg
     └── imagem.txt
+```
+
+Após a reorganização, é criada uma estrutura adicional:
+
+```text
+placas_organizadas/
+
+    │
+
+    ├── train/
+
+    │   ├── Classe_1/
+
+    │   ├── Classe_2/
+
+    │   └── ...
+
+    │
+
+    ├── valid/
+
+    │   ├── Classe_1/
+
+    │   ├── Classe_2/
+
+    │   └── ...
+
+    │
+
+    └── test/
+
+        ├── Classe_1/
+
+        ├── Classe_2/
+
+        └── ...
 ```
 
 A correspondência é:
