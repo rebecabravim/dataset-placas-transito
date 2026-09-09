@@ -1,5 +1,5 @@
 R-19-_60km-h: 315 arquivos 0
-A-32b-_Passagem_sinalizada_de_pedestres: 299 arquivos 1
+A-32b-_Passagem_sinalizada_de_pedestres: 104 arquivos 1
 R-24a-_Sentido_unico: 270 (agora 89) arquivos 2
 R-6a-_Proibido_estacionar: 165 arquivos 3
 R-6c-_Proibido_parar_e_estacionar: 127 arquivos 4
