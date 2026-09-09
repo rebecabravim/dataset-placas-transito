@@ -36,3 +36,26 @@ O QUE O SCRIPT PYTHON DEVE FAZER:
 5. A estrutura de saída deve preservar as divisões originais. Exemplo de caminho final: /placas_organizadas/[train ou valid ou test]/[Nome_Da_Classe_Limpo]/[nome-da-imagem].jpg
 
 Por favor, gere o código Python completo, robusto e comentado para que eu possa executar no meu ambiente local.
+
+========================================================================================
+Agora, quero um script que retorne o total de arquivos dentro de cada pasta e salve isso num txt de forma decrescente
+
+========================================================================================
+Precisamos criar outro script. Voce deve mover todas as imagens duplicadas da pasta placas_organizadas/train para uma pasta dentro do diretorio placas_organizadas com o nome imagens_duplicadas_train_somente_das_labels_escolhidas. Porém você só irá tocar nas seguintes pastas, que foram as escolhidas:
+R-19-_60km-h
+A-32b-_Passagem_sinalizada_de_pedestres 
+R-24a-_Sentido_unico 
+R-6a-_Proibido_estacionar 
+R-6c-_Proibido_parar_e_estacionar 
+A-18-_Lombada 
+A-2b-_Curva_a_direita 
+R-1-_Pare 
+R-2-_De_a_preferencia 
+A-32a-_Transito_de_pedestres 
+A-2a-_Curva_a_esquerda 
+R-4a-_Proibido_virar_a_esquerda 
+R-5a-_Proibido_retornar_a_esquerda 
+R-15-_Altura_maxima
+Dentro da pasta imagens_duplicadas_train_somente_das_labels_escolhidas você deve manter somente 1 imagem de cada, não todas as repetidas. 
+===========================================================================================
+Agora, tenho 3 pastas com alguns txts. O nome do txt é igual o nome da imagem. Quero um outro script que verifique o nome do txt e se tem alguma imagem dentro das pasta das imagens duplicadas que coinicida. Se ele achar, quero que ele me retorne a qtde de txts encontrados, o nome do txt e em qual pasta o txt foi encontrado. O nome das 3 pastas vou setar em variaveis dentro do script.
