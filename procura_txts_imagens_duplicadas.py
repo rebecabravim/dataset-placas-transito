@@ -11,10 +11,18 @@ PASTA_IMAGENS = Path(
     "imagens_duplicadas_train_somente_das_labels_escolhidas"
 )
 
-# Informe aqui as 3 pastas que contêm os arquivos TXT
-PASTA_TXT_1 = Path("placas_organizadas/imagens_ja_feitas_train/proibido_estacionar")
-PASTA_TXT_2 = Path("placas_organizadas/imagens_ja_feitas_train/placa_pedestre")
-PASTA_TXT_3 = Path("placas_organizadas/imagens_ja_feitas_train/r_19_60_km")
+# Pastas que contêm os arquivos TXT
+PASTA_TXT_1 = Path(
+    "placas_organizadas/imagens_ja_feitas_train/proibido_estacionar"
+)
+
+PASTA_TXT_2 = Path(
+    "placas_organizadas/imagens_ja_feitas_train/placa_pedestre"
+)
+
+PASTA_TXT_3 = Path(
+    "placas_organizadas/imagens_ja_feitas_train/r_19_60_km"
+)
 
 PASTAS_TXT = [
     PASTA_TXT_1,
@@ -36,7 +44,7 @@ EXTENSOES_IMAGEM = {
 # PROCESSAMENTO
 # ============================================================
 
-def verificar_txts():
+def verificar_e_remover_txts():
 
     if not PASTA_IMAGENS.exists():
         print("ERRO: a pasta de imagens não foi encontrada:")
@@ -93,7 +101,8 @@ def verificar_txts():
                 txts_encontrados.append(
                     (
                         arquivo_txt.name,
-                        pasta_txt.name
+                        pasta_txt.name,
+                        arquivo_txt
                     )
                 )
 
@@ -114,20 +123,33 @@ def verificar_txts():
 
     print()
 
-    if txts_encontrados:
-
-        print("TXT encontrados:")
-
-        for nome_txt, nome_pasta in sorted(txts_encontrados):
-            print(
-                f"{nome_txt} → {nome_pasta}"
-            )
-
-    else:
+    if not txts_encontrados:
 
         print(
             "Nenhum TXT possui uma imagem correspondente."
         )
+        return
+
+    print("TXT encontrados:")
+
+    for nome_txt, nome_pasta, caminho_txt in sorted(
+        txts_encontrados
+    ):
+
+        print(
+            f"{nome_txt} → {nome_pasta}"
+        )
+
+        # ----------------------------------------------------
+        # Remove o TXT
+        # ----------------------------------------------------
+
+        caminho_txt.unlink()
+
+    print()
+    print(
+        f"TXT removidos: {len(txts_encontrados)}"
+    )
 
 
 # ============================================================
@@ -135,4 +157,4 @@ def verificar_txts():
 # ============================================================
 
 if __name__ == "__main__":
-    verificar_txts()
+    verificar_e_remover_txts()
