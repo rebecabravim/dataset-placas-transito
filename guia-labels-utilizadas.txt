@@ -6,7 +6,7 @@ R-6c-_Proibido_parar_e_estacionar: 127 arquivos 4
 A-18-_Lombada: 203 (agora 91) arquivos 5
 A-2b-_Curva_a_direita: 170 (agora 73) arquivos 6
 R-1-_Pare: 167 (agora 65) arquivos 7
-R-2-_De_a_preferencia: 152 arquivos 8 
+R-2-_De_a_preferencia: 152 (agora 49) arquivos 8 
 A-32a-_Transito_de_pedestres: 136 arquivos 9
 A-2a-_Curva_a_esquerda: 121 arquivos 10
 R-4a-_Proibido_virar_a_esquerda: 112 arquivos 11
