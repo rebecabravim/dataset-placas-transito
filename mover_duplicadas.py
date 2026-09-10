@@ -7,12 +7,17 @@ import shutil
 # ============================================================
 
 # Pasta principal do conjunto de treinamento
-PASTA_TRAIN = Path("placas_organizadas/train")
+# PASTA_ENTRADA = Path("placas_organizadas/train")
+PASTA_ENTRADA = Path("placas_organizadas/valid")
 
 # Pasta onde serão armazenadas as imagens duplicadas
+# PASTA_SAIDA = Path(
+#     "placas_organizadas/"
+#     "imagens_duplicadas_train_somente_das_labels_escolhidas"
+# )
 PASTA_SAIDA = Path(
     "placas_organizadas/"
-    "imagens_duplicadas_train_somente_das_labels_escolhidas"
+    "imagens_duplicadas_valid_somente_das_labels_escolhidas"
 )
 
 # ------------------------------------------------------------
@@ -52,9 +57,9 @@ EXTENSOES_IMAGEM = {
 
 def encontrar_e_mover_imagens_duplicadas():
 
-    if not PASTA_TRAIN.exists():
+    if not PASTA_ENTRADA.exists():
         print(
-            f"ERRO: a pasta '{PASTA_TRAIN}' não foi encontrada."
+            f"ERRO: a pasta '{PASTA_ENTRADA}' não foi encontrada."
         )
         return
 
@@ -69,7 +74,7 @@ def encontrar_e_mover_imagens_duplicadas():
 
     for nome_classe in CLASSES_SELECIONADAS:
 
-        pasta_classe = PASTA_TRAIN / nome_classe
+        pasta_classe = PASTA_ENTRADA / nome_classe
 
         if not pasta_classe.exists():
             classes_inexistentes.append(nome_classe)
@@ -98,7 +103,7 @@ def encontrar_e_mover_imagens_duplicadas():
 
     for nome_classe in sorted(CLASSES_SELECIONADAS):
 
-        pasta_classe = PASTA_TRAIN / nome_classe
+        pasta_classe = PASTA_ENTRADA / nome_classe
 
         if not pasta_classe.exists():
             continue
