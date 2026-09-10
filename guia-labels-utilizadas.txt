@@ -12,3 +12,6 @@ A-2a-_Curva_a_esquerda: 116 arquivos 10
 R-4a-_Proibido_virar_a_esquerda: 39 arquivos 11 V
 R-5a-_Proibido_retornar_a_esquerda: 30 arquivos 12
 R-15-_Altura_maxima: 17 arquivos 13
+
+rotular imagens que tem mais de 1 placa:
+"placas organizadas/imagens_com_2_placas_train_somente_das_labels_escolhidas"
