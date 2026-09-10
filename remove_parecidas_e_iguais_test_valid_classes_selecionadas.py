@@ -8,11 +8,8 @@ from pathlib import Path
 PASTA_PLACAS = Path("placas_organizadas")
 
 ARQUIVO_RELATORIO = Path(
-    "relatorio_imagens_duplicadas_classes_selecionadas.txt"
+    "relatorio_imagens_parecidas_por_phash_classes_selecionadas.txt"
 )
-
-# Esta classe nunca será alterada
-CLASSE_PROTEGIDA = "R-19-_60km-h"
 
 
 # ============================================================
@@ -25,7 +22,8 @@ def obter_imagens_para_apagar():
 
     Imagens de train são completamente ignoradas.
 
-    A classe R-19-_60km-h nunca será alterada.
+    Todas as classes podem ser alteradas, inclusive:
+    R-19-_60km-h
     """
 
     imagens_para_apagar = []
@@ -50,12 +48,9 @@ def obter_imagens_para_apagar():
         linha = linha.strip()
 
         # ----------------------------------------------------
-        # SEGURANÇA:
+        # Somente caminhos de valid e test são considerados.
         #
-        # Somente linhas começando com valid\ ou test\
-        # podem ser consideradas.
-        #
-        # Qualquer linha começando com train\ é ignorada.
+        # Caminhos de train são ignorados.
         # ----------------------------------------------------
 
         if linha.startswith("valid\\"):
@@ -75,27 +70,16 @@ def obter_imagens_para_apagar():
         #
         # Exemplo:
         #
-        # valid\A-18-_Lombada\arquivo.jpg
+        # valid\R-19-_60km-h\arquivo.jpg
         #
         # partes[0] = valid
-        # partes[1] = A-18-_Lombada
+        # partes[1] = R-19-_60km-h
         # partes[2] = arquivo.jpg
         # ----------------------------------------------------
 
         partes = linha.split("\\")
 
         if len(partes) < 3:
-            continue
-
-        classe = partes[1]
-
-        # ----------------------------------------------------
-        # SEGURANÇA:
-        #
-        # Nunca alterar R-19-_60km-h
-        # ----------------------------------------------------
-
-        if classe == CLASSE_PROTEGIDA:
             continue
 
         # ----------------------------------------------------
@@ -120,10 +104,7 @@ def mostrar_imagens(imagens):
     """
 
     for imagem in imagens:
-
-        print(
-            f"  {imagem}"
-        )
+        print(f"  {imagem}")
 
 
 def remover_imagens(imagens):
@@ -191,44 +172,50 @@ def main():
     print()
     print("REGRAS:")
     print()
-    print("- VALID: APAGAR")
-    print("- TEST: APAGAR")
+    print("- VALID: APAGAR DUPLICADAS")
+    print("- TEST: APAGAR DUPLICADAS")
     print("- TRAIN: MANTER")
-    print(
-        f"- {CLASSE_PROTEGIDA}: NÃO ALTERAR"
-    )
+    print("- TODAS AS CLASSES PODEM SER ALTERADAS")
 
     # --------------------------------------------------------
     # Lê o relatório
     # --------------------------------------------------------
 
     print()
-    print(
-        "Lendo relatório..."
-    )
+    print("Lendo relatório...")
 
     imagens = obter_imagens_para_apagar()
 
-    # Remove duplicações
+    # Remove possíveis repetições do próprio relatório
     imagens = list(
         dict.fromkeys(imagens)
     )
 
     # --------------------------------------------------------
-    # Separa por conjunto
+    # Separa por conjunto usando o caminho
     # --------------------------------------------------------
 
-    imagens_valid = [
-        imagem
-        for imagem in imagens
-        if "\\valid\\" in str(imagem)
-    ]
+    imagens_valid = []
+    imagens_test = []
 
-    imagens_test = [
-        imagem
-        for imagem in imagens
-        if "\\test\\" in str(imagem)
-    ]
+    for imagem in imagens:
+
+        partes = imagem.relative_to(
+            PASTA_PLACAS
+        ).parts
+
+        if len(partes) < 1:
+            continue
+
+        conjunto = partes[0]
+
+        if conjunto == "valid":
+
+            imagens_valid.append(imagem)
+
+        elif conjunto == "test":
+
+            imagens_test.append(imagem)
 
     # --------------------------------------------------------
     # Resumo
@@ -308,9 +295,7 @@ def main():
 
     print()
     print("=" * 70)
-    print(
-        "ATENÇÃO"
-    )
+    print("ATENÇÃO")
     print("=" * 70)
 
     print()
@@ -323,7 +308,7 @@ def main():
     )
 
     print(
-        f"A classe '{CLASSE_PROTEGIDA}' será preservada."
+        "A classe R-19-_60km-h também poderá ser alterada."
     )
 
     confirmacao = input(
@@ -333,9 +318,7 @@ def main():
     if confirmacao != "SIM":
 
         print()
-        print(
-            "Operação cancelada."
-        )
+        print("Operação cancelada.")
 
         return
 
@@ -344,9 +327,7 @@ def main():
     # --------------------------------------------------------
 
     print()
-    print(
-        "Removendo imagens..."
-    )
+    print("Removendo imagens...")
     print()
 
     (
@@ -363,9 +344,7 @@ def main():
 
     print()
     print("=" * 70)
-    print(
-        "PROCESSAMENTO CONCLUÍDO"
-    )
+    print("PROCESSAMENTO CONCLUÍDO")
     print("=" * 70)
 
     print()
