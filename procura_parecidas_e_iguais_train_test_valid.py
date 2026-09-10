@@ -10,7 +10,8 @@ from PIL import Image
 PASTA_PLACAS = Path("placas_organizadas")
 
 ARQUIVO_RELATORIO = Path(
-    "relatorio_imagens_duplicadas_classes_selecionadas.txt"
+    "relatorio_imagens_parecidas_iguais" \
+    "_por_phash_classes_selecionadas.txt"
 )
 
 # ------------------------------------------------------------

@@ -663,66 +663,30 @@ Quantidade de ocorrências: 2
 
 GRUPO 50
 Hash: c1d1bf3f210190fe
-Quantidade de ocorrências: 6
+Quantidade de ocorrências: 2
 
-  train\R-19-_60km-h\1476_jpg.rf.bf32180fbfdd642d4c86d66449220fa1.jpg
+  train\R-19-_60km-h\1475_jpg.rf.18828054d22a40438e634e358ba6863e.jpg
     Conjunto: train
     Classe: R-19-_60km-h
-  train\R-19-_60km-h\1477_jpg.rf.607996b344dd2c79ed3677731c681bed.jpg
+  train\R-19-_60km-h\1481_jpg.rf.fc0b406ec4f808389be18232780f67d5.jpg
     Conjunto: train
-    Classe: R-19-_60km-h
-  train\R-19-_60km-h\1478_jpg.rf.ae37a5cec5c5fbaa9a4236c6ece88dee.jpg
-    Conjunto: train
-    Classe: R-19-_60km-h
-  train\R-19-_60km-h\1480_jpg.rf.a4882dbfa028f2c7831dafdbefc3018f.jpg
-    Conjunto: train
-    Classe: R-19-_60km-h
-  valid\R-19-_60km-h\1475_jpg.rf.18828054d22a40438e634e358ba6863e.jpg
-    Conjunto: valid
-    Classe: R-19-_60km-h
-  valid\R-19-_60km-h\1481_jpg.rf.fc0b406ec4f808389be18232780f67d5.jpg
-    Conjunto: valid
     Classe: R-19-_60km-h
 ------------------------------------------------------------------------------------------
 
 GRUPO 51
-Hash: c0c3bf7f210194de
-Quantidade de ocorrências: 2
-
-  train\R-19-_60km-h\1479_jpg.rf.e2224aac3a3fe1cbb52ec5e68cb54d52.jpg
-    Conjunto: train
-    Classe: R-19-_60km-h
-  train\R-19-_60km-h\1482_jpg.rf.5c33d436235e64bb49b694e569fced0b.jpg
-    Conjunto: train
-    Classe: R-19-_60km-h
-------------------------------------------------------------------------------------------
-
-GRUPO 52
-Hash: ced6b75168d2b221
-Quantidade de ocorrências: 2
-
-  train\R-19-_60km-h\1560_jpg.rf.66d625e73d5191f2e2c30089a9e3cdb3.jpg
-    Conjunto: train
-    Classe: R-19-_60km-h
-  valid\R-19-_60km-h\1559_jpg.rf.df3dc7f0c43404114d1b1247b7184987.jpg
-    Conjunto: valid
-    Classe: R-19-_60km-h
-------------------------------------------------------------------------------------------
-
-GRUPO 53
-Hash: d6d6b3396852b223
+Hash: d6d6ab2968d2b321
 Quantidade de ocorrências: 2
 
   test\R-19-_60km-h\1562_jpg.rf.511c94174b9741700979858f69cd8792.jpg
     Conjunto: test
     Classe: R-19-_60km-h
-  train\R-19-_60km-h\1561_jpg.rf.d23c7af947600be62edcf8b88422ac7d.jpg
+  train\R-19-_60km-h\1563_jpg.rf.adde1ef8b22bfedba7269bd300553fbe.jpg
     Conjunto: train
     Classe: R-19-_60km-h
 ------------------------------------------------------------------------------------------
 
-GRUPO 54
-Hash: c5e5ae0e2671ccd8
+GRUPO 52
+Hash: d5e4ae0e2273ccd8
 Quantidade de ocorrências: 4
 
   test\R-19-_60km-h\1634_jpg.rf.9f16348ca17557e6304b10108dc8cd82.jpg
@@ -731,322 +695,163 @@ Quantidade de ocorrências: 4
   test\R-19-_60km-h\1635_jpg.rf.642e5bb18dfe6bbccc1f317b54c1563a.jpg
     Conjunto: test
     Classe: R-19-_60km-h
-  train\R-19-_60km-h\1633_jpg.rf.d0946d6130d42926e0719dbfbcddade2.jpg
+  train\R-19-_60km-h\1636_jpg.rf.82f46a3eb1591c9887c2703436ee2c45.jpg
     Conjunto: train
     Classe: R-19-_60km-h
-  valid\R-19-_60km-h\1636_jpg.rf.82f46a3eb1591c9887c2703436ee2c45.jpg
-    Conjunto: valid
+  train\R-19-_60km-h\1637_jpg.rf.dfaf117855a5001d080aa2b9e033be5b.jpg
+    Conjunto: train
+    Classe: R-19-_60km-h
+------------------------------------------------------------------------------------------
+
+GRUPO 53
+Hash: 89c9eef627058cc6
+Quantidade de ocorrências: 2
+
+  test\R-19-_60km-h\1671_jpg.rf.990c064b70b59c65f836ed122f0130dd.jpg
+    Conjunto: test
+    Classe: R-19-_60km-h
+  train\R-19-_60km-h\1673_jpg.rf.e5ae5bc331d8b8504d7218d8b8eda9c1.jpg
+    Conjunto: train
+    Classe: R-19-_60km-h
+------------------------------------------------------------------------------------------
+
+GRUPO 54
+Hash: e1f4b8323b5b9b10
+Quantidade de ocorrências: 2
+
+  train\R-19-_60km-h\2294_jpg.rf.532aae8515a5d24a9c204be470f5f7da.jpg
+    Conjunto: train
+    Classe: R-19-_60km-h
+  train\R-19-_60km-h\2295_jpg.rf.014bcc82a2abdbd4f15a2c3fcd624f63.jpg
+    Conjunto: train
     Classe: R-19-_60km-h
 ------------------------------------------------------------------------------------------
 
 GRUPO 55
-Hash: d5f5ac0e2263ccd8
+Hash: f9daa4442413f9f2
 Quantidade de ocorrências: 2
 
-  train\R-19-_60km-h\1638_jpg.rf.dba790b7a8875c46cc7bf1c376c0a41f.jpg
+  train\R-19-_60km-h\2464_jpg.rf.54970f95a53a506298dccde293f657fe.jpg
     Conjunto: train
     Classe: R-19-_60km-h
-  valid\R-19-_60km-h\1637_jpg.rf.dfaf117855a5001d080aa2b9e033be5b.jpg
+  valid\R-19-_60km-h\2464_jpg.rf.54970f95a53a506298dccde293f657fe.jpg
     Conjunto: valid
     Classe: R-19-_60km-h
 ------------------------------------------------------------------------------------------
 
 GRUPO 56
-Hash: e5e5ac0c2673c5d8
-Quantidade de ocorrências: 3
+Hash: c9e7bd1e3340a649
+Quantidade de ocorrências: 2
 
-  test\R-19-_60km-h\1641_jpg.rf.64883858ac252363308550c34eae756d.jpg
-    Conjunto: test
-    Classe: R-19-_60km-h
-  train\R-19-_60km-h\1640_jpg.rf.c2e966a4aa4745f6f00cc6b280409964.jpg
+  train\R-19-_60km-h\2581_jpg.rf.62648038255375ddd97efe97f1325657.jpg
     Conjunto: train
     Classe: R-19-_60km-h
-  train\R-19-_60km-h\1642_jpg.rf.c5645a9d3d9c8fe10042b78df05e4eab.jpg
+  train\R-6a-_Proibido_estacionar\2582_jpg.rf.4c2b38637a12c484b78db2962ba73f87.jpg
     Conjunto: train
-    Classe: R-19-_60km-h
+    Classe: R-6a-_Proibido_estacionar
 ------------------------------------------------------------------------------------------
 
 GRUPO 57
-Hash: e5c7b2172773a444
+Hash: b1b6362651d1bd0e
 Quantidade de ocorrências: 2
 
-  train\R-19-_60km-h\1652_jpg.rf.47e49b42c41199ec66ce3cc047b6de40.jpg
-    Conjunto: train
+  test\R-19-_60km-h\264_jpg.rf.df37656ca114473562aa0fbbe6f7e5a3.jpg
+    Conjunto: test
     Classe: R-19-_60km-h
-  train\R-19-_60km-h\1653_jpg.rf.12e7a54da5d1b071027f75c3a6a5cab6.jpg
+  train\R-19-_60km-h\263_jpg.rf.8e468812940379d8beac1b57541cb59c.jpg
     Conjunto: train
     Classe: R-19-_60km-h
 ------------------------------------------------------------------------------------------
 
 GRUPO 58
-Hash: c2c3b71627b3a54c
+Hash: f3b71c0c41f1b70c
 Quantidade de ocorrências: 2
 
-  train\R-19-_60km-h\1656_jpg.rf.fc90f5a06088b19d95b158dbf22d8b68.jpg
+  train\R-19-_60km-h\266_jpg.rf.b13df3b1cbbc8be9eb1e820738341ac9.jpg
     Conjunto: train
     Classe: R-19-_60km-h
-  train\R-19-_60km-h\1657_jpg.rf.04b247d7379e33696682e2d84fb990e5.jpg
+  train\R-19-_60km-h\267_jpg.rf.2a42bce70b3388a6784c5bb8cc5dee32.jpg
     Conjunto: train
     Classe: R-19-_60km-h
 ------------------------------------------------------------------------------------------
 
 GRUPO 59
-Hash: 80d0efff2f0f84c0
-Quantidade de ocorrências: 3
+Hash: 91b1b93167d5a135
+Quantidade de ocorrências: 2
 
-  test\R-19-_60km-h\1659_jpg.rf.f5941722e68b959b761e3f9ec8bd1eda.jpg
-    Conjunto: test
+  train\R-19-_60km-h\3137_jpg.rf.0912894b42577c522be7fad657cbffb1.jpg
+    Conjunto: train
     Classe: R-19-_60km-h
-  test\R-19-_60km-h\1660_jpg.rf.a6bb0dbf38ea59be73481bd3a3e63ae8.jpg
-    Conjunto: test
-    Classe: R-19-_60km-h
-  train\R-19-_60km-h\1661_jpg.rf.8a6c1fba2f1cfe22f429683834a15b9c.jpg
+  train\R-19-_60km-h\3139_jpg.rf.4a91d5ce94179f57479bd14aad0f27c8.jpg
     Conjunto: train
     Classe: R-19-_60km-h
 ------------------------------------------------------------------------------------------
 
 GRUPO 60
-Hash: 80d5edff2a0e84c5
+Hash: 8182b47d7f468db8
 Quantidade de ocorrências: 2
 
-  train\R-19-_60km-h\1662_jpg.rf.e3cdfc43a2687050a6f96b3b75ebd07e.jpg
+  train\R-19-_60km-h\3400_jpg.rf.1fea59ac86979fbf4891d8ee0b66697b.jpg
     Conjunto: train
     Classe: R-19-_60km-h
-  train\R-19-_60km-h\1663_jpg.rf.aee56fe42f325539e2f34284ae0ca68c.jpg
-    Conjunto: train
+  valid\R-19-_60km-h\3400_jpg.rf.1fea59ac86979fbf4891d8ee0b66697b.jpg
+    Conjunto: valid
     Classe: R-19-_60km-h
 ------------------------------------------------------------------------------------------
 
 GRUPO 61
-Hash: 85c1ebff371484c2
+Hash: dad2862531dcfc83
 Quantidade de ocorrências: 2
 
-  test\R-19-_60km-h\1665_jpg.rf.c7b2fb0975e7ed740e2cc48c94d2f946.jpg
-    Conjunto: test
-    Classe: R-19-_60km-h
-  train\R-19-_60km-h\1666_jpg.rf.3edcbbe02c062d3f3363cbd320e905a5.jpg
+  train\R-19-_60km-h\3430_jpg.rf.6c6d5794efc39afa0cd79f8e227196a6.jpg
     Conjunto: train
+    Classe: R-19-_60km-h
+  valid\R-19-_60km-h\3430_jpg.rf.6c6d5794efc39afa0cd79f8e227196a6.jpg
+    Conjunto: valid
     Classe: R-19-_60km-h
 ------------------------------------------------------------------------------------------
 
 GRUPO 62
-Hash: 89c9eafe171584ca
+Hash: 99a7a261701d9ee3
 Quantidade de ocorrências: 2
 
-  train\R-19-_60km-h\1668_jpg.rf.6462c7a170061e3a011b1e06a87060d1.jpg
+  train\R-19-_60km-h\3447_jpg.rf.62caaa739a141fe5f56f9a48d201972d.jpg
     Conjunto: train
     Classe: R-19-_60km-h
-  train\R-19-_60km-h\1669_jpg.rf.70d4434d6bdd99517cbd3e3cdca4a2b5.jpg
-    Conjunto: train
+  valid\R-19-_60km-h\3447_jpg.rf.62caaa739a141fe5f56f9a48d201972d.jpg
+    Conjunto: valid
     Classe: R-19-_60km-h
 ------------------------------------------------------------------------------------------
 
 GRUPO 63
-Hash: 89c9eaf637058cc6
-Quantidade de ocorrências: 5
+Hash: 92dee5ade8322e30
+Quantidade de ocorrências: 2
 
-  test\R-19-_60km-h\1671_jpg.rf.990c064b70b59c65f836ed122f0130dd.jpg
-    Conjunto: test
-    Classe: R-19-_60km-h
-  train\R-19-_60km-h\1670_jpg.rf.fe1a3ec76d9536a8f0b958b17cab72f4.jpg
+  train\R-19-_60km-h\3453_jpg.rf.21d702613f1db43b8d72e23e6bb32729.jpg
     Conjunto: train
     Classe: R-19-_60km-h
-  train\R-19-_60km-h\1672_jpg.rf.b7235ae6f32db3a255e361eabeb34dcb.jpg
-    Conjunto: train
-    Classe: R-19-_60km-h
-  train\R-19-_60km-h\1674_jpg.rf.06ba100a532a3d8708c7cd8656a37c01.jpg
-    Conjunto: train
-    Classe: R-19-_60km-h
-  valid\R-19-_60km-h\1673_jpg.rf.e5ae5bc331d8b8504d7218d8b8eda9c1.jpg
+  valid\R-19-_60km-h\3453_jpg.rf.21d702613f1db43b8d72e23e6bb32729.jpg
     Conjunto: valid
     Classe: R-19-_60km-h
 ------------------------------------------------------------------------------------------
 
 GRUPO 64
-Hash: 89c9e6f627138acc
+Hash: c0c0bc7c1dcfa339
 Quantidade de ocorrências: 2
 
-  train\R-19-_60km-h\1678_jpg.rf.0997251731fcaf8bab62e222ce08671c.jpg
+  train\R-19-_60km-h\681_jpg.rf.02ed3d90204a9725c3472b6aa2aaff6c.jpg
     Conjunto: train
     Classe: R-19-_60km-h
-  valid\R-19-_60km-h\1676_jpg.rf.17bc24a8b8734888bf3d015ef456dbe1.jpg
+  valid\R-19-_60km-h\681_jpg.rf.02ed3d90204a9725c3472b6aa2aaff6c.jpg
     Conjunto: valid
     Classe: R-19-_60km-h
 ------------------------------------------------------------------------------------------
 
 GRUPO 65
-Hash: e2e21d1da7a61e15
+Hash: e4e5b23126ecf819
 Quantidade de ocorrências: 2
 
-  test\R-19-_60km-h\2387_jpg.rf.e7bf9da99cdd493f29a91ff61dc0d6e4.jpg
-    Conjunto: test
-    Classe: R-19-_60km-h
-  train\R-19-_60km-h\2386_jpg.rf.2d6c4cc6b6f03ee21ecb5c27f93b5e3c.jpg
-    Conjunto: train
-    Classe: R-19-_60km-h
-------------------------------------------------------------------------------------------
-
-GRUPO 66
-Hash: e7e71a1b43a53c11
-Quantidade de ocorrências: 2
-
-  train\R-19-_60km-h\2389_jpg.rf.7b9c444919934363ae62c334a6d3a1ac.jpg
-    Conjunto: train
-    Classe: R-19-_60km-h
-  valid\R-19-_60km-h\2390_jpg.rf.65452bbf9a6324350d7ff6a79722c68c.jpg
-    Conjunto: valid
-    Classe: R-19-_60km-h
-------------------------------------------------------------------------------------------
-
-GRUPO 67
-Hash: e4ec3f3b63841c19
-Quantidade de ocorrências: 2
-
-  train\R-19-_60km-h\2396_jpg.rf.dc94a723aa38e7f7834976a7071aa8cd.jpg
-    Conjunto: train
-    Classe: R-19-_60km-h
-  train\R-19-_60km-h\2397_jpg.rf.7864dc6cde508756f07ffe4a1156d61a.jpg
-    Conjunto: train
-    Classe: R-19-_60km-h
-------------------------------------------------------------------------------------------
-
-GRUPO 68
-Hash: f8dca7522419f8e4
-Quantidade de ocorrências: 2
-
-  test\R-19-_60km-h\2461_jpg.rf.6c884f91bb635fd7645e3069d35e7e11.jpg
-    Conjunto: test
-    Classe: R-19-_60km-h
-  train\R-19-_60km-h\2460_jpg.rf.6dfbe09869953d1bb5d46435b03ca0db.jpg
-    Conjunto: train
-    Classe: R-19-_60km-h
-------------------------------------------------------------------------------------------
-
-GRUPO 69
-Hash: f9d8a6562411f8e6
-Quantidade de ocorrências: 2
-
-  test\R-19-_60km-h\2462_jpg.rf.a20084ccdbed37625412b0833809a339.jpg
-    Conjunto: test
-    Classe: R-19-_60km-h
-  train\R-19-_60km-h\2463_jpg.rf.e505a48fda733cc82bb2c1f317527d3d.jpg
-    Conjunto: train
-    Classe: R-19-_60km-h
-------------------------------------------------------------------------------------------
-
-GRUPO 70
-Hash: b4b6362740d9962f
-Quantidade de ocorrências: 3
-
-  train\R-19-_60km-h\254_jpg.rf.4748c56aa82e93f90f1b8e5e86c3c640.jpg
-    Conjunto: train
-    Classe: R-19-_60km-h
-  train\R-19-_60km-h\255_jpg.rf.8addff51de9420c319796b428141378d.jpg
-    Conjunto: train
-    Classe: R-19-_60km-h
-  train\R-19-_60km-h\257_jpg.rf.99712cb1559684cf308f132fd9377736.jpg
-    Conjunto: train
-    Classe: R-19-_60km-h
-------------------------------------------------------------------------------------------
-
-GRUPO 71
-Hash: f0b6362651d1962f
-Quantidade de ocorrências: 3
-
-  train\R-19-_60km-h\256_jpg.rf.498c04fa420cf1de0e785e1ec285a635.jpg
-    Conjunto: train
-    Classe: R-19-_60km-h
-  train\R-19-_60km-h\258_jpg.rf.37375a46c9dbe3f2e1168c4133ce4f49.jpg
-    Conjunto: train
-    Classe: R-19-_60km-h
-  train\R-19-_60km-h\259_jpg.rf.50ad91100188148bb0269ae041e6770f.jpg
-    Conjunto: train
-    Classe: R-19-_60km-h
-------------------------------------------------------------------------------------------
-
-GRUPO 72
-Hash: b5b6362641d19e2e
-Quantidade de ocorrências: 3
-
-  train\R-19-_60km-h\260_jpg.rf.f0b9770bfdb543fcc704cf90b12438ce.jpg
-    Conjunto: train
-    Classe: R-19-_60km-h
-  train\R-19-_60km-h\262_jpg.rf.8cc80a48d309552ed1843b66d8536542.jpg
-    Conjunto: train
-    Classe: R-19-_60km-h
-  valid\R-19-_60km-h\261_jpg.rf.0a4ccff60637e1f45a84b3f8b108d34e.jpg
-    Conjunto: valid
-    Classe: R-19-_60km-h
-------------------------------------------------------------------------------------------
-
-GRUPO 73
-Hash: 91b1bb315bd5a131
-Quantidade de ocorrências: 9
-
-  train\R-19-_60km-h\3133_jpg.rf.47e0ed0c4ba1038a982d3f489b05da49.jpg
-    Conjunto: train
-    Classe: R-19-_60km-h
-  train\R-19-_60km-h\3134_jpg.rf.1ec0d827f8f56b0fc7d2cb3e34a423af.jpg
-    Conjunto: train
-    Classe: R-19-_60km-h
-  train\R-19-_60km-h\3135_jpg.rf.b8a148175b9f7e32de843c989dd02e08.jpg
-    Conjunto: train
-    Classe: R-19-_60km-h
-  train\R-19-_60km-h\3136_jpg.rf.4a3ca62a52930460a79e2afa7b8a4b4e.jpg
-    Conjunto: train
-    Classe: R-19-_60km-h
-  train\R-19-_60km-h\3138_jpg.rf.c3d1f97755408e5affb790ab7c89883e.jpg
-    Conjunto: train
-    Classe: R-19-_60km-h
-  train\R-19-_60km-h\3140_jpg.rf.82db82686bc21df83866886ac9b76f21.jpg
-    Conjunto: train
-    Classe: R-19-_60km-h
-  train\R-19-_60km-h\3141_jpg.rf.63f2a5b14ea90610f4ae35add44fad06.jpg
-    Conjunto: train
-    Classe: R-19-_60km-h
-  train\R-19-_60km-h\3142_jpg.rf.bc6b827744bb15025176b4bbfcc44f08.jpg
-    Conjunto: train
-    Classe: R-19-_60km-h
-  valid\R-19-_60km-h\3139_jpg.rf.4a91d5ce94179f57479bd14aad0f27c8.jpg
-    Conjunto: valid
-    Classe: R-19-_60km-h
-------------------------------------------------------------------------------------------
-
-GRUPO 74
-Hash: dbdb921c64c6dc09
-Quantidade de ocorrências: 2
-
-  test\R-19-_60km-h\3423_jpg.rf.57708328112eab5bc28e4ce461e396bd.jpg
-    Conjunto: test
-    Classe: R-19-_60km-h
-  train\R-19-_60km-h\3422_jpg.rf.cc5880afebb2ea3b9522f91e18597c1f.jpg
-    Conjunto: train
-    Classe: R-19-_60km-h
-------------------------------------------------------------------------------------------
-
-GRUPO 75
-Hash: d2d69e0c3d61272e
-Quantidade de ocorrências: 2
-
-  train\R-19-_60km-h\536_jpg.rf.ceac9abebd778c05cb528c5b4c3a5580.jpg
-    Conjunto: train
-    Classe: R-19-_60km-h
-  valid\R-19-_60km-h\538_jpg.rf.8fef08f99f66c384c5dbf6193f32064b.jpg
-    Conjunto: valid
-    Classe: R-19-_60km-h
-------------------------------------------------------------------------------------------
-
-GRUPO 76
-Hash: e6e5b13126e8f819
-Quantidade de ocorrências: 4
-
-  train\R-19-_60km-h\61_jpg.rf.5f0446f25c6b373c73d9805de39b9f52.jpg
-    Conjunto: train
-    Classe: R-19-_60km-h
-  train\R-19-_60km-h\65_jpg.rf.c39f3d3604b8a2f259d1dfbd1b7adcf2.jpg
-    Conjunto: train
-    Classe: R-19-_60km-h
-  train\R-19-_60km-h\66_jpg.rf.6b028087c15a7f5fb63466ab61bb1c1d.jpg
+  train\R-19-_60km-h\68_jpg.rf.3eb891325f2af8cc48aa3673f1ea81be.jpg
     Conjunto: train
     Classe: R-19-_60km-h
   valid\R-19-_60km-h\68_jpg.rf.3eb891325f2af8cc48aa3673f1ea81be.jpg
@@ -1054,65 +859,23 @@ Quantidade de ocorrências: 4
     Classe: R-19-_60km-h
 ------------------------------------------------------------------------------------------
 
-GRUPO 77
-Hash: e4e5b33924e0f81b
-Quantidade de ocorrências: 3
-
-  train\R-19-_60km-h\62_jpg.rf.ca32e6e4c6b23426da4eff8dc467c122.jpg
-    Conjunto: train
-    Classe: R-19-_60km-h
-  train\R-19-_60km-h\63_jpg.rf.d245221582a399467e4ec9894a96f830.jpg
-    Conjunto: train
-    Classe: R-19-_60km-h
-  train\R-19-_60km-h\64_jpg.rf.795aa930804e7d7ebdc7b103b78ac1e3.jpg
-    Conjunto: train
-    Classe: R-19-_60km-h
-------------------------------------------------------------------------------------------
-
-GRUPO 78
-Hash: a4ac9a5b01e5e47e
+GRUPO 66
+Hash: e5e5b33306e47819
 Quantidade de ocorrências: 2
 
-  train\R-19-_60km-h\907_jpg.rf.74f28f6715a410142e2bd3def7762f4f.jpg
+  train\R-19-_60km-h\71_jpg.rf.fc3b983eb94c6b3ee88b1d294a4a4872.jpg
     Conjunto: train
     Classe: R-19-_60km-h
-  train\R-19-_60km-h\908_jpg.rf.2a0eea82a9a86035ff6011267408e80f.jpg
-    Conjunto: train
-    Classe: R-19-_60km-h
-------------------------------------------------------------------------------------------
-
-GRUPO 79
-Hash: e8e8969713c2ce4e
-Quantidade de ocorrências: 2
-
-  train\R-19-_60km-h\910_jpg.rf.9807948f96431e4f84328b254da6dbe7.jpg
-    Conjunto: train
-    Classe: R-19-_60km-h
-  train\R-19-_60km-h\911_jpg.rf.269a5557e3dc8d3c42cdc51a186a9797.jpg
-    Conjunto: train
+  valid\R-19-_60km-h\71_jpg.rf.fc3b983eb94c6b3ee88b1d294a4a4872.jpg
+    Conjunto: valid
     Classe: R-19-_60km-h
 ------------------------------------------------------------------------------------------
 
-GRUPO 80
-Hash: ae8ab9917646e84b
-Quantidade de ocorrências: 3
-
-  train\R-19-_60km-h\942_jpg.rf.4ae66aa8592f869abda138fabe1ea25b.jpg
-    Conjunto: train
-    Classe: R-19-_60km-h
-  train\R-19-_60km-h\943_jpg.rf.af7a7e13892079ce1752dc60d9ecb250.jpg
-    Conjunto: train
-    Classe: R-19-_60km-h
-  train\R-19-_60km-h\944_jpg.rf.e4b0ce6e817ee612edd5036a107abb41.jpg
-    Conjunto: train
-    Classe: R-19-_60km-h
-------------------------------------------------------------------------------------------
-
-GRUPO 81
+GRUPO 67
 Hash: ebaad4d48b0b1636
 Quantidade de ocorrências: 2
 
-  train\R-19-_60km-h\placa-sinalizacao-obras-01_jpg.rf.a717d8690521676e51d9c3589391d1ea.jpg
+  train\R-19-_60km-h\placa-sinalizacao-obras-01_jpg.rf.62df7d2321cc443a887d0f8c5713497d.jpg
     Conjunto: train
     Classe: R-19-_60km-h
   valid\R-19-_60km-h\placa-sinalizacao-obras-01_jpg.rf.62df7d2321cc443a887d0f8c5713497d.jpg
@@ -1120,7 +883,79 @@ Quantidade de ocorrências: 2
     Classe: R-19-_60km-h
 ------------------------------------------------------------------------------------------
 
-GRUPO 82
+GRUPO 68
+Hash: bccd3279863e4887
+Quantidade de ocorrências: 2
+
+  train\R-19-_60km-h\Screenshot_117_jpg.rf.2702c1b35e1d5363464bb4472794ea93.jpg
+    Conjunto: train
+    Classe: R-19-_60km-h
+  valid\R-19-_60km-h\Screenshot_117_jpg.rf.2702c1b35e1d5363464bb4472794ea93.jpg
+    Conjunto: valid
+    Classe: R-19-_60km-h
+------------------------------------------------------------------------------------------
+
+GRUPO 69
+Hash: a69ed9e19658e0a3
+Quantidade de ocorrências: 2
+
+  train\R-19-_60km-h\Screenshot_125_jpg.rf.bb277a00da4c48eb4b720db8843894e1.jpg
+    Conjunto: train
+    Classe: R-19-_60km-h
+  valid\R-19-_60km-h\Screenshot_125_jpg.rf.bb277a00da4c48eb4b720db8843894e1.jpg
+    Conjunto: valid
+    Classe: R-19-_60km-h
+------------------------------------------------------------------------------------------
+
+GRUPO 70
+Hash: 97d6f0b460e4f8e0
+Quantidade de ocorrências: 2
+
+  train\R-19-_60km-h\Screenshot_152_jpg.rf.0d3eead8cb1ad39e0b6928d6d04b58d5.jpg
+    Conjunto: train
+    Classe: R-19-_60km-h
+  valid\R-19-_60km-h\Screenshot_152_jpg.rf.0d3eead8cb1ad39e0b6928d6d04b58d5.jpg
+    Conjunto: valid
+    Classe: R-19-_60km-h
+------------------------------------------------------------------------------------------
+
+GRUPO 71
+Hash: ffe03db3c057a042
+Quantidade de ocorrências: 2
+
+  train\R-19-_60km-h\Screenshot_87_jpg.rf.2da16ad155ae8d261d5b89afe67e4b86.jpg
+    Conjunto: train
+    Classe: R-19-_60km-h
+  valid\R-19-_60km-h\Screenshot_87_jpg.rf.2da16ad155ae8d261d5b89afe67e4b86.jpg
+    Conjunto: valid
+    Classe: R-19-_60km-h
+------------------------------------------------------------------------------------------
+
+GRUPO 72
+Hash: c8b77d4a6489315e
+Quantidade de ocorrências: 2
+
+  train\R-19-_60km-h\Screenshot_95_jpg.rf.34747842fd0f1193a407d4962d9508dd.jpg
+    Conjunto: train
+    Classe: R-19-_60km-h
+  valid\R-19-_60km-h\Screenshot_95_jpg.rf.34747842fd0f1193a407d4962d9508dd.jpg
+    Conjunto: valid
+    Classe: R-19-_60km-h
+------------------------------------------------------------------------------------------
+
+GRUPO 73
+Hash: 8ca65fb83fa14c83
+Quantidade de ocorrências: 2
+
+  train\R-19-_60km-h\Screenshot_99_jpg.rf.97c7bfebf09dab2910119b5bf357deb3.jpg
+    Conjunto: train
+    Classe: R-19-_60km-h
+  valid\R-19-_60km-h\Screenshot_99_jpg.rf.97c7bfebf09dab2910119b5bf357deb3.jpg
+    Conjunto: valid
+    Classe: R-19-_60km-h
+------------------------------------------------------------------------------------------
+
+GRUPO 74
 Hash: b2fa6d12d0ec2e51
 Quantidade de ocorrências: 4
 
@@ -1138,7 +973,7 @@ Quantidade de ocorrências: 4
     Classe: R-2-_De_a_preferencia
 ------------------------------------------------------------------------------------------
 
-GRUPO 83
+GRUPO 75
 Hash: b0a96f12d0ee2f51
 Quantidade de ocorrências: 2
 
@@ -1150,7 +985,7 @@ Quantidade de ocorrências: 2
     Classe: R-2-_De_a_preferencia
 ------------------------------------------------------------------------------------------
 
-GRUPO 84
+GRUPO 76
 Hash: b0ba6f11c0ee2f51
 Quantidade de ocorrências: 3
 
@@ -1165,7 +1000,7 @@ Quantidade de ocorrências: 3
     Classe: R-2-_De_a_preferencia
 ------------------------------------------------------------------------------------------
 
-GRUPO 85
+GRUPO 77
 Hash: edec9e1b1180e51e
 Quantidade de ocorrências: 2
 
@@ -1177,7 +1012,7 @@ Quantidade de ocorrências: 2
     Classe: R-2-_De_a_preferencia
 ------------------------------------------------------------------------------------------
 
-GRUPO 86
+GRUPO 78
 Hash: edcc9e1b1190d51b
 Quantidade de ocorrências: 3
 
@@ -1192,7 +1027,7 @@ Quantidade de ocorrências: 3
     Classe: R-2-_De_a_preferencia
 ------------------------------------------------------------------------------------------
 
-GRUPO 87
+GRUPO 79
 Hash: edec9e1b2181d516
 Quantidade de ocorrências: 2
 
@@ -1204,7 +1039,7 @@ Quantidade de ocorrências: 2
     Classe: R-2-_De_a_preferencia
 ------------------------------------------------------------------------------------------
 
-GRUPO 88
+GRUPO 80
 Hash: 97ca70b84747d8b8
 Quantidade de ocorrências: 2
 
@@ -1216,7 +1051,7 @@ Quantidade de ocorrências: 2
     Classe: R-2-_De_a_preferencia
 ------------------------------------------------------------------------------------------
 
-GRUPO 89
+GRUPO 81
 Hash: 95e46a3a45d35a1d
 Quantidade de ocorrências: 2
 
@@ -1228,7 +1063,7 @@ Quantidade de ocorrências: 2
     Classe: R-2-_De_a_preferencia
 ------------------------------------------------------------------------------------------
 
-GRUPO 90
+GRUPO 82
 Hash: e9dd3219c9f1302d
 Quantidade de ocorrências: 5
 
@@ -1249,7 +1084,7 @@ Quantidade de ocorrências: 5
     Classe: R-2-_De_a_preferencia
 ------------------------------------------------------------------------------------------
 
-GRUPO 91
+GRUPO 83
 Hash: fadd2911caf5304c
 Quantidade de ocorrências: 2
 
@@ -1261,7 +1096,7 @@ Quantidade de ocorrências: 2
     Classe: R-2-_De_a_preferencia
 ------------------------------------------------------------------------------------------
 
-GRUPO 92
+GRUPO 84
 Hash: d1998a2b63599d2b
 Quantidade de ocorrências: 2
 
@@ -1273,7 +1108,7 @@ Quantidade de ocorrências: 2
     Classe: R-2-_De_a_preferencia
 ------------------------------------------------------------------------------------------
 
-GRUPO 93
+GRUPO 85
 Hash: d0fd6b001edde0b1
 Quantidade de ocorrências: 2
 
@@ -1285,7 +1120,7 @@ Quantidade de ocorrências: 2
     Classe: R-2-_De_a_preferencia
 ------------------------------------------------------------------------------------------
 
-GRUPO 94
+GRUPO 86
 Hash: ff7ab62051e8c01e
 Quantidade de ocorrências: 2
 
@@ -1297,19 +1132,7 @@ Quantidade de ocorrências: 2
     Classe: R-24a-_Sentido_unico
 ------------------------------------------------------------------------------------------
 
-GRUPO 95
-Hash: 98d8ba1a4a5dbd1c
-Quantidade de ocorrências: 2
-
-  train\R-4a-_Proibido_virar_a_esquerda\1605_jpg.rf.ad5bf6edb9501b7ad840561ac5a1bd42.jpg
-    Conjunto: train
-    Classe: R-4a-_Proibido_virar_a_esquerda
-  train\R-4a-_Proibido_virar_a_esquerda\1606_jpg.rf.41505890ebf0b88a351892d79da4980f.jpg
-    Conjunto: train
-    Classe: R-4a-_Proibido_virar_a_esquerda
-------------------------------------------------------------------------------------------
-
-GRUPO 96
+GRUPO 87
 Hash: c3972c3853cf8d64
 Quantidade de ocorrências: 2
 
@@ -1321,7 +1144,7 @@ Quantidade de ocorrências: 2
     Classe: R-5a-_Proibido_retornar_a_esquerda
 ------------------------------------------------------------------------------------------
 
-GRUPO 97
+GRUPO 88
 Hash: c9eb365448ba3b94
 Quantidade de ocorrências: 2
 
@@ -1333,7 +1156,7 @@ Quantidade de ocorrências: 2
     Classe: R-5a-_Proibido_retornar_a_esquerda
 ------------------------------------------------------------------------------------------
 
-GRUPO 98
+GRUPO 89
 Hash: d1d5a529eafa02e1
 Quantidade de ocorrências: 2
 
@@ -1345,31 +1168,7 @@ Quantidade de ocorrências: 2
     Classe: R-6c-_Proibido_parar_e_estacionar
 ------------------------------------------------------------------------------------------
 
-GRUPO 99
-Hash: b1b6362651d1bd0e
-Quantidade de ocorrências: 2
-
-  test\R-19-_60km-h\264_jpg.rf.df37656ca114473562aa0fbbe6f7e5a3.jpg
-    Conjunto: test
-    Classe: R-19-_60km-h
-  valid\R-19-_60km-h\263_jpg.rf.8e468812940379d8beac1b57541cb59c.jpg
-    Conjunto: valid
-    Classe: R-19-_60km-h
-------------------------------------------------------------------------------------------
-
-GRUPO 100
-Hash: f3b71c0c41f1b70c
-Quantidade de ocorrências: 2
-
-  valid\R-19-_60km-h\266_jpg.rf.b13df3b1cbbc8be9eb1e820738341ac9.jpg
-    Conjunto: valid
-    Classe: R-19-_60km-h
-  valid\R-19-_60km-h\267_jpg.rf.2a42bce70b3388a6784c5bb8cc5dee32.jpg
-    Conjunto: valid
-    Classe: R-19-_60km-h
-------------------------------------------------------------------------------------------
-
 ==========================================================================================
-Total de grupos duplicados: 100
-Total de ocorrências duplicadas: 254
+Total de grupos duplicados: 89
+Total de ocorrências duplicadas: 209
 ==========================================================================================
