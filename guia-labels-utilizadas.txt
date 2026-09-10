@@ -9,7 +9,7 @@ R-1-_Pare: 55 arquivos 7 (em andamento)
 R-2-_De_a_preferencia: 87 arquivos 8 
 A-32a-_Transito_de_pedestres: 85 arquivos 9 
 A-2a-_Curva_a_esquerda: 116 arquivos 10
-R-4a-_Proibido_virar_a_esquerda: 39 arquivos 11 V
+R-4a-_Proibido_virar_a_esquerda: 35 arquivos 11 V
 R-5a-_Proibido_retornar_a_esquerda: 30 arquivos 12
 R-15-_Altura_maxima: 17 arquivos 13
 
