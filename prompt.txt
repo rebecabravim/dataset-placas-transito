@@ -59,3 +59,7 @@ R-15-_Altura_maxima
 Dentro da pasta imagens_duplicadas_train_somente_das_labels_escolhidas você deve manter somente 1 imagem de cada, não todas as repetidas. 
 ===========================================================================================
 Agora, tenho 3 pastas com alguns txts. O nome do txt é igual o nome da imagem. Quero um outro script que verifique o nome do txt e se tem alguma imagem dentro das pasta das imagens duplicadas que coinicida. Se ele achar, quero que ele me retorne a qtde de txts encontrados, o nome do txt e em qual pasta o txt foi encontrado. O nome das 3 pastas vou setar em variaveis dentro do script.
+============================================================================================
+Agora, quero um script que compare o nome do txt com o nome da imagem e remova as imagens que nao tem txt associado. o txt estara numa pasta que eu vou setar numa variavel a imagem em outra pasta.
+===========================================================================================
+Agora, faça um script que remova os txts apartir do nome das imagens
