@@ -7,12 +7,12 @@ from pathlib import Path
 
 # Pasta onde estão os arquivos TXT
 PASTA_TXT = Path(
-    "placas_organizadas/imagens_ja_feitas_train/a2b-curva-direita"
+    "placas_organizadas/imagens_ja_feitas_train/r-4a-proibido-virar-esquerda"
 )
 
 # Pasta onde estão as imagens
 PASTA_IMAGENS = Path(
-    "placas_organizadas/train/A-2b-_Curva_a_direita"
+    "placas_organizadas/train/R-4a-_Proibido_virar_a_esquerda"
 )
 
 # Extensões consideradas como imagens
