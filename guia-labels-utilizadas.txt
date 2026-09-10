@@ -1,6 +1,6 @@
-R-19-_60km-h: ?? arquivos 0 V
+R-19-_60km-h: 94 arquivos 0 V
 A-32b-_Passagem_sinalizada_de_pedestres: 104 arquivos 1 V
-R-24a-_Sentido_unico: 93 arquivos 2
+R-24a-_Sentido_unico: 100 arquivos 2 V
 R-6a-_Proibido_estacionar: 129 arquivos 3 V
 R-6c-_Proibido_parar_e_estacionar: 127 arquivos 4 V
 A-18-_Lombada: 91 arquivos 5 subir fotos
@@ -9,6 +9,6 @@ R-1-_Pare: 55 arquivos 7 (em andamento)
 R-2-_De_a_preferencia: 87 arquivos 8 
 A-32a-_Transito_de_pedestres: 85 arquivos 9 
 A-2a-_Curva_a_esquerda: 116 arquivos 10
-R-4a-_Proibido_virar_a_esquerda: 39 arquivos 11 (em andamento)
+R-4a-_Proibido_virar_a_esquerda: 39 arquivos 11 V
 R-5a-_Proibido_retornar_a_esquerda: 30 arquivos 12
 R-15-_Altura_maxima: 17 arquivos 13
