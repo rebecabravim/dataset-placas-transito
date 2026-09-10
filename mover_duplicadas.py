@@ -8,16 +8,21 @@ import shutil
 
 # Pasta principal do conjunto de treinamento
 # PASTA_ENTRADA = Path("placas_organizadas/train")
-PASTA_ENTRADA = Path("placas_organizadas/valid")
+# PASTA_ENTRADA = Path("placas_organizadas/valid")
+PASTA_ENTRADA = Path("placas_organizadas/test")
 
 # Pasta onde serão armazenadas as imagens duplicadas
 # PASTA_SAIDA = Path(
 #     "placas_organizadas/"
 #     "imagens_duplicadas_train_somente_das_labels_escolhidas"
 # )
+# PASTA_SAIDA = Path(
+#     "placas_organizadas/"
+#     "imagens_duplicadas_valid_somente_das_labels_escolhidas"
+# )
 PASTA_SAIDA = Path(
     "placas_organizadas/"
-    "imagens_duplicadas_valid_somente_das_labels_escolhidas"
+    "imagens_duplicadas_test_somente_das_labels_escolhidas"
 )
 
 # ------------------------------------------------------------

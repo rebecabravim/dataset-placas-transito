@@ -5,8 +5,12 @@ from pathlib import Path
 # CONFIGURAÇÕES
 # ============================================================
 
-PASTA_VALID = Path("placas_organizadas/valid")
+# PASTA_ENTRADA = Path("placas_organizadas/train")
+PASTA_ENTRADA = Path("placas_organizadas/valid")
 
+# ARQUIVO_RELATORIO = Path(
+#     "relatorio_imagens_repetidas_train.txt"
+# )
 ARQUIVO_RELATORIO = Path(
     "relatorio_imagens_repetidas_valid.txt"
 )
@@ -43,15 +47,15 @@ EXTENSOES_IMAGENS = {
 
 def obter_imagens():
     """
-    Percorre todas as classes dentro de valid e retorna
+    Percorre todas as classes dentro de train e retorna
     todas as imagens encontradas.
     """
     imagens = []
 
-    if not PASTA_VALID.exists():
+    if not PASTA_ENTRADA.exists():
         return imagens
 
-    for pasta_classe in PASTA_VALID.iterdir():
+    for pasta_classe in PASTA_ENTRADA.iterdir():
 
         if not pasta_classe.is_dir():
             continue
@@ -91,13 +95,13 @@ def obter_classe(imagem):
 
     Exemplo:
 
-        placas_organizadas/valid/R-1-_Pare/imagem.jpg
+        placas_organizadas/train/R-1-_Pare/imagem.jpg
 
     Retorna:
 
         R-1-_Pare
     """
-    caminho_relativo = imagem.relative_to(PASTA_VALID)
+    caminho_relativo = imagem.relative_to(PASTA_ENTRADA)
 
     partes = caminho_relativo.parts
 
@@ -119,12 +123,12 @@ def classe_selecionada(imagem):
 def gerar_relatorio(indice):
     """
     Gera o relatório somente com imagens repetidas
-    dentro de valid.
+    dentro de train.
     """
     linhas = []
 
     linhas.append("=" * 80)
-    linhas.append("IMAGENS REPETIDAS DENTRO DE VALID")
+    linhas.append("IMAGENS REPETIDAS")
     linhas.append("=" * 80)
 
     imagens_repetidas = 0
@@ -142,7 +146,7 @@ def gerar_relatorio(indice):
 
         for local in sorted(locais):
 
-            caminho_relativo = local.relative_to(PASTA_VALID)
+            caminho_relativo = local.relative_to(PASTA_ENTRADA)
 
             if classe_selecionada(local):
                 linhas.append(f"  * {caminho_relativo}")
@@ -167,7 +171,7 @@ def gerar_relatorio(indice):
 
 def main():
 
-    print("Procurando imagens em valid...")
+    print("Procurando imagens em train...")
 
     imagens = obter_imagens()
 
