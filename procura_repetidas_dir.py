@@ -6,13 +6,18 @@ from pathlib import Path
 # ============================================================
 
 # PASTA_ENTRADA = Path("placas_organizadas/train")
-PASTA_ENTRADA = Path("placas_organizadas/valid")
+# PASTA_ENTRADA = Path("placas_organizadas/valid")
+PASTA_ENTRADA = Path("placas_organizadas/test")
+
 
 # ARQUIVO_RELATORIO = Path(
 #     "relatorio_imagens_repetidas_train.txt"
 # )
+# ARQUIVO_RELATORIO = Path(
+#     "relatorio_imagens_repetidas_valid.txt"
+# )
 ARQUIVO_RELATORIO = Path(
-    "relatorio_imagens_repetidas_valid.txt"
+    "relatorio_imagens_repetidas_test.txt"
 )
 
 CLASSES_SELECIONADAS = {

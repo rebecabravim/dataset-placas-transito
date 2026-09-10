@@ -1,5 +1,5 @@
 ================================================================================
-IMAGENS REPETIDAS DENTRO DE TRAIN
+IMAGENS REPETIDAS
 ================================================================================
 
 Imagem: 000000000042_jpg.rf.c85bd4a4f5d096217405dddc187cd0b7.jpg
@@ -161,18 +161,6 @@ Imagem: 1757_jpg.rf.b7f7b2ad19a8d5782ac5465802a408f7.jpg
     R-19-_80km-h\1757_jpg.rf.b7f7b2ad19a8d5782ac5465802a408f7.jpg
 --------------------------------------------------------------------------------
 
-Imagem: 1887_jpg.rf.82d2207763dddce2a4ea684d1d48cace.jpg
-
-  * R-1-_Pare\1887_jpg.rf.82d2207763dddce2a4ea684d1d48cace.jpg
-    R-19-_80km-h\1887_jpg.rf.82d2207763dddce2a4ea684d1d48cace.jpg
---------------------------------------------------------------------------------
-
-Imagem: 1888_jpg.rf.5d80ba8e58c1aab79fe018c6a1c6635a.jpg
-
-  * R-1-_Pare\1888_jpg.rf.5d80ba8e58c1aab79fe018c6a1c6635a.jpg
-    R-19-_80km-h\1888_jpg.rf.5d80ba8e58c1aab79fe018c6a1c6635a.jpg
---------------------------------------------------------------------------------
-
 Imagem: 1890_jpg.rf.317653938aacdba13acf281340fd7492.jpg
 
   * R-1-_Pare\1890_jpg.rf.317653938aacdba13acf281340fd7492.jpg
@@ -258,28 +246,10 @@ Imagem: 2337_jpg.rf.83da541059185bf90ad98faff9b0538a.jpg
     R-33-_Sentido_de_circulacao_na_rotatoria\2337_jpg.rf.83da541059185bf90ad98faff9b0538a.jpg
 --------------------------------------------------------------------------------
 
-Imagem: 2349_jpg.rf.fe6721fc208f8639eab0652d465629e1.jpg
-
-  * R-2-_De_a_preferencia\2349_jpg.rf.fe6721fc208f8639eab0652d465629e1.jpg
-    R-33-_Sentido_de_circulacao_na_rotatoria\2349_jpg.rf.fe6721fc208f8639eab0652d465629e1.jpg
---------------------------------------------------------------------------------
-
 Imagem: 2350_jpg.rf.6601296b7bc7ce83ac0c778c61143d70.jpg
 
   * R-2-_De_a_preferencia\2350_jpg.rf.6601296b7bc7ce83ac0c778c61143d70.jpg
     R-33-_Sentido_de_circulacao_na_rotatoria\2350_jpg.rf.6601296b7bc7ce83ac0c778c61143d70.jpg
---------------------------------------------------------------------------------
-
-Imagem: 2356_jpg.rf.1f2e137a0ece8f13844aa3f4019f9a6e.jpg
-
-    A-21e-_Alargamento_de_pista_a_direita\2356_jpg.rf.1f2e137a0ece8f13844aa3f4019f9a6e.jpg
-  * R-6a-_Proibido_estacionar\2356_jpg.rf.1f2e137a0ece8f13844aa3f4019f9a6e.jpg
---------------------------------------------------------------------------------
-
-Imagem: 2357_jpg.rf.385633bfd1660f6055df8ca9da4d93c4.jpg
-
-    A-21e-_Alargamento_de_pista_a_direita\2357_jpg.rf.385633bfd1660f6055df8ca9da4d93c4.jpg
-  * R-6a-_Proibido_estacionar\2357_jpg.rf.385633bfd1660f6055df8ca9da4d93c4.jpg
 --------------------------------------------------------------------------------
 
 Imagem: 2360_jpg.rf.02bea601c8c10f7a199aa2578d4c23f2.jpg
@@ -304,12 +274,6 @@ Imagem: 2448_jpg.rf.ac974efbbadffcc7bb8bb4683323ffc1.jpg
 
     A-25-_Mao_dupla_adiante\2448_jpg.rf.ac974efbbadffcc7bb8bb4683323ffc1.jpg
     MP-3-_Passagem_dupla\2448_jpg.rf.ac974efbbadffcc7bb8bb4683323ffc1.jpg
---------------------------------------------------------------------------------
-
-Imagem: 2464_jpg.rf.54970f95a53a506298dccde293f657fe.jpg
-
-    R-19-_40km-h\2464_jpg.rf.54970f95a53a506298dccde293f657fe.jpg
-  * R-19-_60km-h\2464_jpg.rf.54970f95a53a506298dccde293f657fe.jpg
 --------------------------------------------------------------------------------
 
 Imagem: 2477_jpg.rf.30b9533179ab2c30069e165c2e45ef3b.jpg
@@ -386,48 +350,6 @@ Imagem: 3162_jpg.rf.2906c3079f927a1186803623b1dd4513.jpg
     R-19-_30km-h\3162_jpg.rf.2906c3079f927a1186803623b1dd4513.jpg
 --------------------------------------------------------------------------------
 
-Imagem: 3213_jpg.rf.d475ad0ec31a70cc408f51c671827d2e.jpg
-
-    MA-_Marcador_de_alinhamento\3213_jpg.rf.d475ad0ec31a70cc408f51c671827d2e.jpg
-  * R-1-_Pare\3213_jpg.rf.d475ad0ec31a70cc408f51c671827d2e.jpg
---------------------------------------------------------------------------------
-
-Imagem: 3214_jpg.rf.369582c568e4c085c6d7196346d1594c.jpg
-
-    MA-_Marcador_de_alinhamento\3214_jpg.rf.369582c568e4c085c6d7196346d1594c.jpg
-  * R-1-_Pare\3214_jpg.rf.369582c568e4c085c6d7196346d1594c.jpg
---------------------------------------------------------------------------------
-
-Imagem: 3220_jpg.rf.8a78347daa4e1c11f03f1d5654753f19.jpg
-
-    MA-_Marcador_de_alinhamento\3220_jpg.rf.8a78347daa4e1c11f03f1d5654753f19.jpg
-  * R-1-_Pare\3220_jpg.rf.8a78347daa4e1c11f03f1d5654753f19.jpg
---------------------------------------------------------------------------------
-
-Imagem: 3223_jpg.rf.4d3a025fb234b560ce498ed46ba61b63.jpg
-
-    MA-_Marcador_de_alinhamento\3223_jpg.rf.4d3a025fb234b560ce498ed46ba61b63.jpg
-  * R-1-_Pare\3223_jpg.rf.4d3a025fb234b560ce498ed46ba61b63.jpg
---------------------------------------------------------------------------------
-
-Imagem: 3227_jpg.rf.44c92c5c072708626f92c1c8c6873dbc.jpg
-
-    MA-_Marcador_de_alinhamento\3227_jpg.rf.44c92c5c072708626f92c1c8c6873dbc.jpg
-  * R-1-_Pare\3227_jpg.rf.44c92c5c072708626f92c1c8c6873dbc.jpg
---------------------------------------------------------------------------------
-
-Imagem: 3230_jpg.rf.383bab7126322fd6cda85a01b7583f3e.jpg
-
-    MA-_Marcador_de_alinhamento\3230_jpg.rf.383bab7126322fd6cda85a01b7583f3e.jpg
-  * R-1-_Pare\3230_jpg.rf.383bab7126322fd6cda85a01b7583f3e.jpg
---------------------------------------------------------------------------------
-
-Imagem: 3241_jpg.rf.9f90a8748eb879e7c597ef8dc4b4848e.jpg
-
-    MA-_Marcador_de_alinhamento\3241_jpg.rf.9f90a8748eb879e7c597ef8dc4b4848e.jpg
-  * R-1-_Pare\3241_jpg.rf.9f90a8748eb879e7c597ef8dc4b4848e.jpg
---------------------------------------------------------------------------------
-
 Imagem: 3384_jpg.rf.5a7c4e32f1199d66deb03de52578411c.jpg
 
     A-4b-_Curva_acentuada_em_-S-_a_direita\3384_jpg.rf.5a7c4e32f1199d66deb03de52578411c.jpg
@@ -438,32 +360,6 @@ Imagem: 3386_jpg.rf.827fc07b4c92dec08b15867e8b058234.jpg
 
     MA-_Marcador_de_alinhamento\3386_jpg.rf.827fc07b4c92dec08b15867e8b058234.jpg
     MP-1-_Passagem_pela_direita\3386_jpg.rf.827fc07b4c92dec08b15867e8b058234.jpg
---------------------------------------------------------------------------------
-
-Imagem: 3400_jpg.rf.1fea59ac86979fbf4891d8ee0b66697b.jpg
-
-    A-5a-_Curva_em_-S-_a_esquerda\3400_jpg.rf.1fea59ac86979fbf4891d8ee0b66697b.jpg
-  * R-19-_60km-h\3400_jpg.rf.1fea59ac86979fbf4891d8ee0b66697b.jpg
---------------------------------------------------------------------------------
-
-Imagem: 3430_jpg.rf.6c6d5794efc39afa0cd79f8e227196a6.jpg
-
-    MA-_Marcador_de_alinhamento\3430_jpg.rf.6c6d5794efc39afa0cd79f8e227196a6.jpg
-  * R-19-_60km-h\3430_jpg.rf.6c6d5794efc39afa0cd79f8e227196a6.jpg
---------------------------------------------------------------------------------
-
-Imagem: 3447_jpg.rf.62caaa739a141fe5f56f9a48d201972d.jpg
-
-    A-3a-_Pista_sinuosa_a_esquerda\3447_jpg.rf.62caaa739a141fe5f56f9a48d201972d.jpg
-  * R-19-_60km-h\3447_jpg.rf.62caaa739a141fe5f56f9a48d201972d.jpg
-    R-19-_80km-h\3447_jpg.rf.62caaa739a141fe5f56f9a48d201972d.jpg
---------------------------------------------------------------------------------
-
-Imagem: 3453_jpg.rf.21d702613f1db43b8d72e23e6bb32729.jpg
-
-    A-21c-_Estreitamento_de_pista_a_direita\3453_jpg.rf.21d702613f1db43b8d72e23e6bb32729.jpg
-    MA-_Marcador_de_alinhamento\3453_jpg.rf.21d702613f1db43b8d72e23e6bb32729.jpg
-  * R-19-_60km-h\3453_jpg.rf.21d702613f1db43b8d72e23e6bb32729.jpg
 --------------------------------------------------------------------------------
 
 Imagem: 3508_jpg.rf.a546afd742f9f0a9874f84a77adb5008.jpg
@@ -521,18 +417,6 @@ Imagem: 3598_jpg.rf.1cafb5ef210f7ba559cc00625b8e33fe.jpg
     R-19-_80km-h\3598_jpg.rf.1cafb5ef210f7ba559cc00625b8e33fe.jpg
 --------------------------------------------------------------------------------
 
-Imagem: 486_jpg.rf.00d3831ea3c4ff62e78e2a74a8e87843.jpg
-
-  * R-19-_60km-h\486_jpg.rf.00d3831ea3c4ff62e78e2a74a8e87843.jpg
-    R-7-_Proibido_ultrapassar\486_jpg.rf.00d3831ea3c4ff62e78e2a74a8e87843.jpg
---------------------------------------------------------------------------------
-
-Imagem: 507_jpg.rf.e89de97151593871bad967e1c17917d5.jpg
-
-    R-19-_40km-h\507_jpg.rf.e89de97151593871bad967e1c17917d5.jpg
-  * R-6c-_Proibido_parar_e_estacionar\507_jpg.rf.e89de97151593871bad967e1c17917d5.jpg
---------------------------------------------------------------------------------
-
 Imagem: 529_jpg.rf.c846f3342090525a7d3bae1facf2e434.jpg
 
     A-21c-_Estreitamento_de_pista_a_direita\529_jpg.rf.c846f3342090525a7d3bae1facf2e434.jpg
@@ -570,46 +454,10 @@ Imagem: 676_jpg.rf.3f9cfcf93529f84b1dc55cf1615a51fc.jpg
     MA-_Marcador_de_alinhamento\676_jpg.rf.3f9cfcf93529f84b1dc55cf1615a51fc.jpg
 --------------------------------------------------------------------------------
 
-Imagem: 681_jpg.rf.02ed3d90204a9725c3472b6aa2aaff6c.jpg
-
-    MA-_Marcador_de_alinhamento\681_jpg.rf.02ed3d90204a9725c3472b6aa2aaff6c.jpg
-  * R-19-_60km-h\681_jpg.rf.02ed3d90204a9725c3472b6aa2aaff6c.jpg
---------------------------------------------------------------------------------
-
 Imagem: 686_jpg.rf.204ebaeed6bcdf2899edd897957e794b.jpg
 
     A-37-_Altura_Limitada\686_jpg.rf.204ebaeed6bcdf2899edd897957e794b.jpg
     MP-3-_Passagem_dupla\686_jpg.rf.204ebaeed6bcdf2899edd897957e794b.jpg
---------------------------------------------------------------------------------
-
-Imagem: 68_jpg.rf.3eb891325f2af8cc48aa3673f1ea81be.jpg
-
-    MA-_Marcador_de_alinhamento\68_jpg.rf.3eb891325f2af8cc48aa3673f1ea81be.jpg
-  * R-19-_60km-h\68_jpg.rf.3eb891325f2af8cc48aa3673f1ea81be.jpg
---------------------------------------------------------------------------------
-
-Imagem: 71_jpg.rf.fc3b983eb94c6b3ee88b1d294a4a4872.jpg
-
-    MA-_Marcador_de_alinhamento\71_jpg.rf.fc3b983eb94c6b3ee88b1d294a4a4872.jpg
-  * R-19-_60km-h\71_jpg.rf.fc3b983eb94c6b3ee88b1d294a4a4872.jpg
---------------------------------------------------------------------------------
-
-Imagem: 768_jpg.rf.daca791d41f85e82b5f30bdc7e4c1515.jpg
-
-  * A-32b-_Passagem_sinalizada_de_pedestres\768_jpg.rf.daca791d41f85e82b5f30bdc7e4c1515.jpg
-    R-19-_40km-h\768_jpg.rf.daca791d41f85e82b5f30bdc7e4c1515.jpg
---------------------------------------------------------------------------------
-
-Imagem: 772_jpg.rf.4b75d33b22300fb53f7cb0fd6b03bbea.jpg
-
-  * A-32b-_Passagem_sinalizada_de_pedestres\772_jpg.rf.4b75d33b22300fb53f7cb0fd6b03bbea.jpg
-    R-19-_40km-h\772_jpg.rf.4b75d33b22300fb53f7cb0fd6b03bbea.jpg
---------------------------------------------------------------------------------
-
-Imagem: 773_jpg.rf.5d5bc45e278078005466762dc2754212.jpg
-
-  * A-32b-_Passagem_sinalizada_de_pedestres\773_jpg.rf.5d5bc45e278078005466762dc2754212.jpg
-    R-19-_40km-h\773_jpg.rf.5d5bc45e278078005466762dc2754212.jpg
 --------------------------------------------------------------------------------
 
 Imagem: 775_jpg.rf.27ef21a78e693ca694608f3dc401cba7.jpg
@@ -700,65 +548,10 @@ Imagem: Captura-de-tela-2023-11-02-164350_png.rf.e34e936b9f7663257cae2df21e69afa
   * R-4a-_Proibido_virar_a_esquerda\Captura-de-tela-2023-11-02-164350_png.rf.e34e936b9f7663257cae2df21e69afad.jpg
 --------------------------------------------------------------------------------
 
-Imagem: Captura-de-tela-2023-11-02-165008_png.rf.0e5f2ce52d15fc7721215fc912cf8a45.jpg
-
-  * R-19-_60km-h\Captura-de-tela-2023-11-02-165008_png.rf.0e5f2ce52d15fc7721215fc912cf8a45.jpg
-    R-19-_90km-h\Captura-de-tela-2023-11-02-165008_png.rf.0e5f2ce52d15fc7721215fc912cf8a45.jpg
---------------------------------------------------------------------------------
-
-Imagem: Captura-de-tela-2023-11-02-165136_png.rf.daa32e59f0ceaf8066e655b2e8a9b655.jpg
-
-  * R-19-_60km-h\Captura-de-tela-2023-11-02-165136_png.rf.daa32e59f0ceaf8066e655b2e8a9b655.jpg
-    R-19-_70km-h\Captura-de-tela-2023-11-02-165136_png.rf.daa32e59f0ceaf8066e655b2e8a9b655.jpg
---------------------------------------------------------------------------------
-
-Imagem: Captura-de-tela-2023-11-02-165308_png.rf.51178f138f97b8d3ec1edc02cc81c8c5.jpg
-
-  * R-19-_60km-h\Captura-de-tela-2023-11-02-165308_png.rf.51178f138f97b8d3ec1edc02cc81c8c5.jpg
-    R-19-_70km-h\Captura-de-tela-2023-11-02-165308_png.rf.51178f138f97b8d3ec1edc02cc81c8c5.jpg
---------------------------------------------------------------------------------
-
 Imagem: Captura-de-tela-2023-11-02-165516_png.rf.c62b78f6232b6910716b2ff2ae729bc7.jpg
 
-  * R-19-_60km-h\Captura-de-tela-2023-11-02-165516_png.rf.c62b78f6232b6910716b2ff2ae729bc7.jpg
     R-19-_70km-h\Captura-de-tela-2023-11-02-165516_png.rf.c62b78f6232b6910716b2ff2ae729bc7.jpg
     R-27-_Veiculos_lentos_usem_faixa_da_direita\Captura-de-tela-2023-11-02-165516_png.rf.c62b78f6232b6910716b2ff2ae729bc7.jpg
---------------------------------------------------------------------------------
-
-Imagem: Captura-de-tela-2023-11-02-165711_png.rf.d162c2008ed8e5d2d6bfdb8acd94ba27.jpg
-
-  * R-19-_60km-h\Captura-de-tela-2023-11-02-165711_png.rf.d162c2008ed8e5d2d6bfdb8acd94ba27.jpg
-    R-19-_90km-h\Captura-de-tela-2023-11-02-165711_png.rf.d162c2008ed8e5d2d6bfdb8acd94ba27.jpg
---------------------------------------------------------------------------------
-
-Imagem: Captura-de-tela-2023-11-02-165814_png.rf.6b592cbd4e5cd92fa2124d6cb40b1424.jpg
-
-  * R-19-_60km-h\Captura-de-tela-2023-11-02-165814_png.rf.6b592cbd4e5cd92fa2124d6cb40b1424.jpg
-    R-19-_90km-h\Captura-de-tela-2023-11-02-165814_png.rf.6b592cbd4e5cd92fa2124d6cb40b1424.jpg
---------------------------------------------------------------------------------
-
-Imagem: Captura-de-tela-2023-11-02-170257_png.rf.aba197378a63835a76bae08812eb2f4f.jpg
-
-  * R-19-_60km-h\Captura-de-tela-2023-11-02-170257_png.rf.aba197378a63835a76bae08812eb2f4f.jpg
-    R-19-_90km-h\Captura-de-tela-2023-11-02-170257_png.rf.aba197378a63835a76bae08812eb2f4f.jpg
---------------------------------------------------------------------------------
-
-Imagem: Captura-de-tela-2023-11-02-170359_png.rf.d7bf35e671855eed84a2cb3ddf40245c.jpg
-
-  * R-19-_60km-h\Captura-de-tela-2023-11-02-170359_png.rf.d7bf35e671855eed84a2cb3ddf40245c.jpg
-    R-19-_90km-h\Captura-de-tela-2023-11-02-170359_png.rf.d7bf35e671855eed84a2cb3ddf40245c.jpg
---------------------------------------------------------------------------------
-
-Imagem: Captura-de-tela-2023-11-02-171413_png.rf.6db3ccc0394fd63efba1ac806221aedf.jpg
-
-  * R-19-_60km-h\Captura-de-tela-2023-11-02-171413_png.rf.6db3ccc0394fd63efba1ac806221aedf.jpg
-    R-19-_90km-h\Captura-de-tela-2023-11-02-171413_png.rf.6db3ccc0394fd63efba1ac806221aedf.jpg
---------------------------------------------------------------------------------
-
-Imagem: Captura-de-tela-2023-11-02-171557_png.rf.4babcaf00480becf52a48aaafaf67455.jpg
-
-  * R-19-_60km-h\Captura-de-tela-2023-11-02-171557_png.rf.4babcaf00480becf52a48aaafaf67455.jpg
-    R-19-_90km-h\Captura-de-tela-2023-11-02-171557_png.rf.4babcaf00480becf52a48aaafaf67455.jpg
 --------------------------------------------------------------------------------
 
 Imagem: Captura-de-tela-2023-11-03-132328_png.rf.521c55cbcb39958219c38a4884f8e8b2.jpg
@@ -1093,15 +886,8 @@ Imagem: Rodovia_BR_135_Km_408_Bocaiva_MG_Radar_jpg.rf.b9e8a517b558d8e5536d8842e5
     R-19-_80km-h\Rodovia_BR_135_Km_408_Bocaiva_MG_Radar_jpg.rf.b9e8a517b558d8e5536d8842e5bcaa6f.jpg
 --------------------------------------------------------------------------------
 
-Imagem: Screenshot_104_jpg.rf.574f7fd14888cb1461243fed69bd7ca7.jpg
-
-  * R-19-_60km-h\Screenshot_104_jpg.rf.574f7fd14888cb1461243fed69bd7ca7.jpg
-    R-19-_70km-h\Screenshot_104_jpg.rf.574f7fd14888cb1461243fed69bd7ca7.jpg
---------------------------------------------------------------------------------
-
 Imagem: Screenshot_104_jpg.rf.d5198efa22bb0cfd046f8391c40ff755.jpg
 
-  * R-19-_60km-h\Screenshot_104_jpg.rf.d5198efa22bb0cfd046f8391c40ff755.jpg
     R-19-_90km-h\Screenshot_104_jpg.rf.d5198efa22bb0cfd046f8391c40ff755.jpg
     R-27-_Veiculos_lentos_usem_faixa_da_direita\Screenshot_104_jpg.rf.d5198efa22bb0cfd046f8391c40ff755.jpg
 --------------------------------------------------------------------------------
@@ -1113,34 +899,10 @@ Imagem: Screenshot_104_jpg.rf.fa7c8a788368488993fc006ee1901492.jpg
   * R-4a-_Proibido_virar_a_esquerda\Screenshot_104_jpg.rf.fa7c8a788368488993fc006ee1901492.jpg
 --------------------------------------------------------------------------------
 
-Imagem: Screenshot_106_jpg.rf.758db1ce5d0f3aaed4ec650cd30392e7.jpg
-
-  * R-19-_60km-h\Screenshot_106_jpg.rf.758db1ce5d0f3aaed4ec650cd30392e7.jpg
-    R-19-_90km-h\Screenshot_106_jpg.rf.758db1ce5d0f3aaed4ec650cd30392e7.jpg
---------------------------------------------------------------------------------
-
-Imagem: Screenshot_107_jpg.rf.ff288ea7e687ee809bd28f36f9af3226.jpg
-
-  * R-19-_60km-h\Screenshot_107_jpg.rf.ff288ea7e687ee809bd28f36f9af3226.jpg
-    R-19-_70km-h\Screenshot_107_jpg.rf.ff288ea7e687ee809bd28f36f9af3226.jpg
---------------------------------------------------------------------------------
-
-Imagem: Screenshot_110_jpg.rf.7c5ca418975c96c41669317800916798.jpg
-
-  * R-19-_60km-h\Screenshot_110_jpg.rf.7c5ca418975c96c41669317800916798.jpg
-    R-19-_70km-h\Screenshot_110_jpg.rf.7c5ca418975c96c41669317800916798.jpg
---------------------------------------------------------------------------------
-
 Imagem: Screenshot_111_jpg.rf.44aeb5ec1a656a1dd8828284caeebefb.jpg
 
   * R-15-_Altura_maxima\Screenshot_111_jpg.rf.44aeb5ec1a656a1dd8828284caeebefb.jpg
     R-27-_Veiculos_lentos_usem_faixa_da_direita\Screenshot_111_jpg.rf.44aeb5ec1a656a1dd8828284caeebefb.jpg
---------------------------------------------------------------------------------
-
-Imagem: Screenshot_112_jpg.rf.dbee674392c3f0827ab95c4a471cfb9d.jpg
-
-  * R-19-_60km-h\Screenshot_112_jpg.rf.dbee674392c3f0827ab95c4a471cfb9d.jpg
-    R-19-_90km-h\Screenshot_112_jpg.rf.dbee674392c3f0827ab95c4a471cfb9d.jpg
 --------------------------------------------------------------------------------
 
 Imagem: Screenshot_114_jpg.rf.45c438e989c733638b3ee95822e9df97.jpg
@@ -1149,29 +911,10 @@ Imagem: Screenshot_114_jpg.rf.45c438e989c733638b3ee95822e9df97.jpg
     R-3-_Sentido_proibido\Screenshot_114_jpg.rf.45c438e989c733638b3ee95822e9df97.jpg
 --------------------------------------------------------------------------------
 
-Imagem: Screenshot_117_jpg.rf.2702c1b35e1d5363464bb4472794ea93.jpg
-
-    R-19-_50km-h\Screenshot_117_jpg.rf.2702c1b35e1d5363464bb4472794ea93.jpg
-  * R-19-_60km-h\Screenshot_117_jpg.rf.2702c1b35e1d5363464bb4472794ea93.jpg
---------------------------------------------------------------------------------
-
-Imagem: Screenshot_120_jpg.rf.12597c218f2a1c8c61b51aa475ceb910.jpg
-
-  * R-19-_60km-h\Screenshot_120_jpg.rf.12597c218f2a1c8c61b51aa475ceb910.jpg
-    R-19-_70km-h\Screenshot_120_jpg.rf.12597c218f2a1c8c61b51aa475ceb910.jpg
---------------------------------------------------------------------------------
-
 Imagem: Screenshot_121_jpg.rf.6e7330f68e1a8d2ef1844050d103d7db.jpg
 
-  * R-19-_60km-h\Screenshot_121_jpg.rf.6e7330f68e1a8d2ef1844050d103d7db.jpg
     R-19-_90km-h\Screenshot_121_jpg.rf.6e7330f68e1a8d2ef1844050d103d7db.jpg
     R-27-_Veiculos_lentos_usem_faixa_da_direita\Screenshot_121_jpg.rf.6e7330f68e1a8d2ef1844050d103d7db.jpg
---------------------------------------------------------------------------------
-
-Imagem: Screenshot_125_jpg.rf.bb277a00da4c48eb4b720db8843894e1.jpg
-
-    R-19-_50km-h\Screenshot_125_jpg.rf.bb277a00da4c48eb4b720db8843894e1.jpg
-  * R-19-_60km-h\Screenshot_125_jpg.rf.bb277a00da4c48eb4b720db8843894e1.jpg
 --------------------------------------------------------------------------------
 
 Imagem: Screenshot_126_jpg.rf.3f6339153601c173f6a0b408d7beab99.jpg
@@ -1180,29 +923,10 @@ Imagem: Screenshot_126_jpg.rf.3f6339153601c173f6a0b408d7beab99.jpg
     R-34-_Circulacao_de_bicicleta\Screenshot_126_jpg.rf.3f6339153601c173f6a0b408d7beab99.jpg
 --------------------------------------------------------------------------------
 
-Imagem: Screenshot_131_jpg.rf.aec03c9464b93471a24dfa8a1a9d7fdc.jpg
-
-  * R-19-_60km-h\Screenshot_131_jpg.rf.aec03c9464b93471a24dfa8a1a9d7fdc.jpg
-    R-19-_70km-h\Screenshot_131_jpg.rf.aec03c9464b93471a24dfa8a1a9d7fdc.jpg
---------------------------------------------------------------------------------
-
 Imagem: Screenshot_134_jpg.rf.ee1f8f8208043548c42dad237a26e7ef.jpg
 
-  * R-19-_60km-h\Screenshot_134_jpg.rf.ee1f8f8208043548c42dad237a26e7ef.jpg
     R-19-_70km-h\Screenshot_134_jpg.rf.ee1f8f8208043548c42dad237a26e7ef.jpg
     R-19-_90km-h\Screenshot_134_jpg.rf.ee1f8f8208043548c42dad237a26e7ef.jpg
---------------------------------------------------------------------------------
-
-Imagem: Screenshot_135_jpg.rf.e3c175c660401cbfca9eaff121f301b7.jpg
-
-    MP-3-_Passagem_dupla\Screenshot_135_jpg.rf.e3c175c660401cbfca9eaff121f301b7.jpg
-  * R-24a-_Sentido_unico\Screenshot_135_jpg.rf.e3c175c660401cbfca9eaff121f301b7.jpg
---------------------------------------------------------------------------------
-
-Imagem: Screenshot_138_jpg.rf.a97d13a8112c76350ee58bab7b1628a8.jpg
-
-  * R-19-_60km-h\Screenshot_138_jpg.rf.a97d13a8112c76350ee58bab7b1628a8.jpg
-    R-19-_70km-h\Screenshot_138_jpg.rf.a97d13a8112c76350ee58bab7b1628a8.jpg
 --------------------------------------------------------------------------------
 
 Imagem: Screenshot_147_jpg.rf.7b36d8b7e1c02b8a5c80f7b9c68d5156.jpg
@@ -1210,18 +934,6 @@ Imagem: Screenshot_147_jpg.rf.7b36d8b7e1c02b8a5c80f7b9c68d5156.jpg
     A-1b-_Curva_acentuada_a_direita\Screenshot_147_jpg.rf.7b36d8b7e1c02b8a5c80f7b9c68d5156.jpg
     MA-_Marcador_de_alinhamento\Screenshot_147_jpg.rf.7b36d8b7e1c02b8a5c80f7b9c68d5156.jpg
   * R-6a-_Proibido_estacionar\Screenshot_147_jpg.rf.7b36d8b7e1c02b8a5c80f7b9c68d5156.jpg
---------------------------------------------------------------------------------
-
-Imagem: Screenshot_151_jpg.rf.f1cc499b5ca76bfbc512390bd59537ae.jpg
-
-  * R-19-_60km-h\Screenshot_151_jpg.rf.f1cc499b5ca76bfbc512390bd59537ae.jpg
-    R-19-_90km-h\Screenshot_151_jpg.rf.f1cc499b5ca76bfbc512390bd59537ae.jpg
---------------------------------------------------------------------------------
-
-Imagem: Screenshot_152_jpg.rf.0d3eead8cb1ad39e0b6928d6d04b58d5.jpg
-
-    R-19-_50km-h\Screenshot_152_jpg.rf.0d3eead8cb1ad39e0b6928d6d04b58d5.jpg
-  * R-19-_60km-h\Screenshot_152_jpg.rf.0d3eead8cb1ad39e0b6928d6d04b58d5.jpg
 --------------------------------------------------------------------------------
 
 Imagem: Screenshot_158_jpg.rf.0bc0bfa530b57d8e63f221e92d6639ec.jpg
@@ -1386,12 +1098,6 @@ Imagem: Screenshot_514_jpg.rf.c52c029806b024e8c7c685edbfdb3316.jpg
     R-19-_30km-h\Screenshot_514_jpg.rf.c52c029806b024e8c7c685edbfdb3316.jpg
 --------------------------------------------------------------------------------
 
-Imagem: Screenshot_56_jpg.rf.43ef62ee460c08cb6ee7b977693af919.jpg
-
-  * R-19-_60km-h\Screenshot_56_jpg.rf.43ef62ee460c08cb6ee7b977693af919.jpg
-    R-19-_70km-h\Screenshot_56_jpg.rf.43ef62ee460c08cb6ee7b977693af919.jpg
---------------------------------------------------------------------------------
-
 Imagem: Screenshot_577_jpg.rf.28e7994ab8ec540d843866ef7cc8f8f4.jpg
 
   * A-32b-_Passagem_sinalizada_de_pedestres\Screenshot_577_jpg.rf.28e7994ab8ec540d843866ef7cc8f8f4.jpg
@@ -1412,30 +1118,16 @@ Imagem: Screenshot_634_jpg.rf.c312411c972a506c7ad01b263e66a456.jpg
     R-19-_30km-h\Screenshot_634_jpg.rf.c312411c972a506c7ad01b263e66a456.jpg
 --------------------------------------------------------------------------------
 
-Imagem: Screenshot_63_jpg.rf.03c5ef7e286c94adbe252549e67616d6.jpg
-
-  * R-19-_60km-h\Screenshot_63_jpg.rf.03c5ef7e286c94adbe252549e67616d6.jpg
-    R-19-_70km-h\Screenshot_63_jpg.rf.03c5ef7e286c94adbe252549e67616d6.jpg
---------------------------------------------------------------------------------
-
 Imagem: Screenshot_65_jpg.rf.cae55bdf6b7bbe347bed7459ffcdb6fd.jpg
 
-  * R-19-_60km-h\Screenshot_65_jpg.rf.cae55bdf6b7bbe347bed7459ffcdb6fd.jpg
     R-19-_70km-h\Screenshot_65_jpg.rf.cae55bdf6b7bbe347bed7459ffcdb6fd.jpg
     R-19-_90km-h\Screenshot_65_jpg.rf.cae55bdf6b7bbe347bed7459ffcdb6fd.jpg
 --------------------------------------------------------------------------------
 
 Imagem: Screenshot_66_jpg.rf.0847d2f082b536b3f7e13d887b65fe4c.jpg
 
-  * R-19-_60km-h\Screenshot_66_jpg.rf.0847d2f082b536b3f7e13d887b65fe4c.jpg
     R-19-_70km-h\Screenshot_66_jpg.rf.0847d2f082b536b3f7e13d887b65fe4c.jpg
     R-19-_90km-h\Screenshot_66_jpg.rf.0847d2f082b536b3f7e13d887b65fe4c.jpg
---------------------------------------------------------------------------------
-
-Imagem: Screenshot_67_jpg.rf.f893bc02a905c06585f2d81cc8671702.jpg
-
-  * R-19-_60km-h\Screenshot_67_jpg.rf.f893bc02a905c06585f2d81cc8671702.jpg
-    R-19-_90km-h\Screenshot_67_jpg.rf.f893bc02a905c06585f2d81cc8671702.jpg
 --------------------------------------------------------------------------------
 
 Imagem: Screenshot_69_jpg.rf.069cd6a5af819250a1a18b6682e4a152.jpg
@@ -1458,47 +1150,14 @@ Imagem: Screenshot_75_jpg.rf.23f3cd3d995aa399e7de5f331fb609b4.jpg
   * R-6a-_Proibido_estacionar\Screenshot_75_jpg.rf.23f3cd3d995aa399e7de5f331fb609b4.jpg
 --------------------------------------------------------------------------------
 
-Imagem: Screenshot_75_jpg.rf.63ebe25b87ddfc0598d5f7d67df83476.jpg
-
-  * R-19-_60km-h\Screenshot_75_jpg.rf.63ebe25b87ddfc0598d5f7d67df83476.jpg
-    R-19-_90km-h\Screenshot_75_jpg.rf.63ebe25b87ddfc0598d5f7d67df83476.jpg
---------------------------------------------------------------------------------
-
-Imagem: Screenshot_84_jpg.rf.7cee7df448cb5c98fb3452eb90de375f.jpg
-
-  * R-19-_60km-h\Screenshot_84_jpg.rf.7cee7df448cb5c98fb3452eb90de375f.jpg
-    R-19-_90km-h\Screenshot_84_jpg.rf.7cee7df448cb5c98fb3452eb90de375f.jpg
---------------------------------------------------------------------------------
-
-Imagem: Screenshot_87_jpg.rf.2da16ad155ae8d261d5b89afe67e4b86.jpg
-
-    R-19-_50km-h\Screenshot_87_jpg.rf.2da16ad155ae8d261d5b89afe67e4b86.jpg
-  * R-19-_60km-h\Screenshot_87_jpg.rf.2da16ad155ae8d261d5b89afe67e4b86.jpg
---------------------------------------------------------------------------------
-
-Imagem: Screenshot_95_jpg.rf.34747842fd0f1193a407d4962d9508dd.jpg
-
-    R-19-_50km-h\Screenshot_95_jpg.rf.34747842fd0f1193a407d4962d9508dd.jpg
-  * R-19-_60km-h\Screenshot_95_jpg.rf.34747842fd0f1193a407d4962d9508dd.jpg
-    R-19-_70km-h\Screenshot_95_jpg.rf.34747842fd0f1193a407d4962d9508dd.jpg
---------------------------------------------------------------------------------
-
 Imagem: Screenshot_95_jpg.rf.408dfe43dd5a0f80ea9037d903dc5a92.jpg
 
     R-19-_110km-h\Screenshot_95_jpg.rf.408dfe43dd5a0f80ea9037d903dc5a92.jpg
     R-19-_90km-h\Screenshot_95_jpg.rf.408dfe43dd5a0f80ea9037d903dc5a92.jpg
 --------------------------------------------------------------------------------
 
-Imagem: Screenshot_98_jpg.rf.805c59eea3441a29b618ae08d3769bd9.jpg
-
-  * R-19-_60km-h\Screenshot_98_jpg.rf.805c59eea3441a29b618ae08d3769bd9.jpg
-    R-19-_70km-h\Screenshot_98_jpg.rf.805c59eea3441a29b618ae08d3769bd9.jpg
---------------------------------------------------------------------------------
-
 Imagem: Screenshot_99_jpg.rf.97c7bfebf09dab2910119b5bf357deb3.jpg
 
-    R-19-_50km-h\Screenshot_99_jpg.rf.97c7bfebf09dab2910119b5bf357deb3.jpg
-  * R-19-_60km-h\Screenshot_99_jpg.rf.97c7bfebf09dab2910119b5bf357deb3.jpg
     R-19-_90km-h\Screenshot_99_jpg.rf.97c7bfebf09dab2910119b5bf357deb3.jpg
     R-27-_Veiculos_lentos_usem_faixa_da_direita\Screenshot_99_jpg.rf.97c7bfebf09dab2910119b5bf357deb3.jpg
 --------------------------------------------------------------------------------
@@ -1608,12 +1267,10 @@ Imagem: nova_mini_rotatoria_-_fernando_gonzaga_4_jpeg.rf.16d22df91a11a7f5e95e670
 
 Imagem: placa-sinalizacao-obras-01_jpg.rf.62df7d2321cc443a887d0f8c5713497d.jpg
 
-    A-21c-_Estreitamento_de_pista_a_direita\placa-sinalizacao-obras-01_jpg.rf.62df7d2321cc443a887d0f8c5713497d.jpg
     A-24-_Obras\placa-sinalizacao-obras-01_jpg.rf.62df7d2321cc443a887d0f8c5713497d.jpg
-  * R-19-_60km-h\placa-sinalizacao-obras-01_jpg.rf.62df7d2321cc443a887d0f8c5713497d.jpg
     R-19-_80km-h\placa-sinalizacao-obras-01_jpg.rf.62df7d2321cc443a887d0f8c5713497d.jpg
 --------------------------------------------------------------------------------
 
 ================================================================================
-Total de imagens repetidas: 260
+Total de imagens repetidas: 205
 ================================================================================

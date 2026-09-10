@@ -1,5 +1,5 @@
 ================================================================================
-IMAGENS REPETIDAS DENTRO DE TRAIN
+IMAGENS REPETIDAS
 ================================================================================
 
 Imagem: 000000000034_jpg.rf.b9b4cf49fb3cefc0633cb0d009aff5b3.jpg
@@ -283,7 +283,7 @@ Imagem: 133_jpg.rf.84f5e66a7b5048a51028fd105f7785ce.jpg
 Imagem: 14130214323781-1160x653_jpg.rf.38ab954b42637d661b04d115c2bdb597.jpg
 
     R-19-_40km-h\14130214323781-1160x653_jpg.rf.38ab954b42637d661b04d115c2bdb597.jpg
-  * R-19-_60km-h\14130214323781-1160x653_jpg.rf.38ab954b42637d661b04d115c2bdb597.jpg
+    R-19-_60km-h-ANTIGO\14130214323781-1160x653_jpg.rf.38ab954b42637d661b04d115c2bdb597.jpg
 --------------------------------------------------------------------------------
 
 Imagem: 141_jpg.rf.79136b46bc076450d672164ccdf36028.jpg
@@ -478,7 +478,7 @@ Imagem: 16503698_jpg.rf.56f64d7fbc49ead8f317b28d76c9471e.jpg
 Imagem: 1672_jpg.rf.b7235ae6f32db3a255e361eabeb34dcb.jpg
 
     A-37-_Altura_Limitada\1672_jpg.rf.b7235ae6f32db3a255e361eabeb34dcb.jpg
-  * R-19-_60km-h\1672_jpg.rf.b7235ae6f32db3a255e361eabeb34dcb.jpg
+    R-19-_60km-h-ANTIGO\1672_jpg.rf.b7235ae6f32db3a255e361eabeb34dcb.jpg
 --------------------------------------------------------------------------------
 
 Imagem: 174992e9bdd545a4bd97a2803ad3d1a3_jpg.rf.e0e3a2c6d1a23ae7f508b7e44c272ff8.jpg
@@ -563,12 +563,14 @@ Imagem: 1866_jpg.rf.052c2c5ac7c225848f11e03c89f6691d.jpg
 
 Imagem: 1881_jpg.rf.12aa5628fe4a70f429d991b2e1313066.jpg
 
+  * A-32a-_Transito_de_pedestres\1881_jpg.rf.12aa5628fe4a70f429d991b2e1313066.jpg
     MP-1-_Passagem_pela_direita\1881_jpg.rf.12aa5628fe4a70f429d991b2e1313066.jpg
     R-19-_80km-h\1881_jpg.rf.12aa5628fe4a70f429d991b2e1313066.jpg
 --------------------------------------------------------------------------------
 
 Imagem: 1882_jpg.rf.dc912a2ee623ade2a1d563d64b7c9783.jpg
 
+  * A-32a-_Transito_de_pedestres\1882_jpg.rf.dc912a2ee623ade2a1d563d64b7c9783.jpg
     MP-1-_Passagem_pela_direita\1882_jpg.rf.dc912a2ee623ade2a1d563d64b7c9783.jpg
     R-19-_80km-h\1882_jpg.rf.dc912a2ee623ade2a1d563d64b7c9783.jpg
 --------------------------------------------------------------------------------
@@ -600,14 +602,14 @@ Imagem: 19191088_jpg.rf.2b072d6260326b0313b159ce00daef00.jpg
 
 Imagem: 19h8txlsgp_4bgkdjjwcz_file_jpg.rf.877b503c1a7cc7f5df13bdd70fd12c1d.jpg
 
-  * R-19-_60km-h\19h8txlsgp_4bgkdjjwcz_file_jpg.rf.877b503c1a7cc7f5df13bdd70fd12c1d.jpg
+    R-19-_60km-h-ANTIGO\19h8txlsgp_4bgkdjjwcz_file_jpg.rf.877b503c1a7cc7f5df13bdd70fd12c1d.jpg
     R-19-_70km-h\19h8txlsgp_4bgkdjjwcz_file_jpg.rf.877b503c1a7cc7f5df13bdd70fd12c1d.jpg
     R-27-_Veiculos_lentos_usem_faixa_da_direita\19h8txlsgp_4bgkdjjwcz_file_jpg.rf.877b503c1a7cc7f5df13bdd70fd12c1d.jpg
 --------------------------------------------------------------------------------
 
 Imagem: 1_jpg.rf.f2893abad910bf23eaa560036144aa89.jpg
 
-  * R-19-_60km-h\1_jpg.rf.f2893abad910bf23eaa560036144aa89.jpg
+    R-19-_60km-h-ANTIGO\1_jpg.rf.f2893abad910bf23eaa560036144aa89.jpg
     R-19-_80km-h\1_jpg.rf.f2893abad910bf23eaa560036144aa89.jpg
 --------------------------------------------------------------------------------
 
@@ -628,6 +630,12 @@ Imagem: 20230920_101235_jpg.rf.48ee48531eb11a7ecb5119bc50ccd0b2.jpg
 
     A-12-_Intersecao_em_circulo\20230920_101235_jpg.rf.48ee48531eb11a7ecb5119bc50ccd0b2.jpg
   * R-1-_Pare\20230920_101235_jpg.rf.48ee48531eb11a7ecb5119bc50ccd0b2.jpg
+--------------------------------------------------------------------------------
+
+Imagem: 2081_jpg.rf.ff22710f27e6546d90059239ec0e119c.jpg
+
+  * A-32a-_Transito_de_pedestres\2081_jpg.rf.ff22710f27e6546d90059239ec0e119c.jpg
+    R-19-_80km-h\2081_jpg.rf.ff22710f27e6546d90059239ec0e119c.jpg
 --------------------------------------------------------------------------------
 
 Imagem: 2236_jpg.rf.af2a223c7f51a6680d72799663872089.jpg
@@ -1026,13 +1034,13 @@ Imagem: 2449_jpg.rf.a755f322c1a32d0137f7aaf35b7467a6.jpg
 Imagem: 2460_jpg.rf.6dfbe09869953d1bb5d46435b03ca0db.jpg
 
     R-19-_40km-h\2460_jpg.rf.6dfbe09869953d1bb5d46435b03ca0db.jpg
-  * R-19-_60km-h\2460_jpg.rf.6dfbe09869953d1bb5d46435b03ca0db.jpg
+    R-19-_60km-h-ANTIGO\2460_jpg.rf.6dfbe09869953d1bb5d46435b03ca0db.jpg
 --------------------------------------------------------------------------------
 
 Imagem: 2463_jpg.rf.e505a48fda733cc82bb2c1f317527d3d.jpg
 
     R-19-_40km-h\2463_jpg.rf.e505a48fda733cc82bb2c1f317527d3d.jpg
-  * R-19-_60km-h\2463_jpg.rf.e505a48fda733cc82bb2c1f317527d3d.jpg
+    R-19-_60km-h-ANTIGO\2463_jpg.rf.e505a48fda733cc82bb2c1f317527d3d.jpg
 --------------------------------------------------------------------------------
 
 Imagem: 2467_jpg.rf.45c80532ba973d4be34cbeda9ee740d3.jpg
@@ -1447,13 +1455,13 @@ Imagem: 3397_jpg.rf.ad964eefe9729b2a3ee4916b47899611.jpg
 
     A-5a-_Curva_em_-S-_a_esquerda\3397_jpg.rf.ad964eefe9729b2a3ee4916b47899611.jpg
     MA-_Marcador_de_alinhamento\3397_jpg.rf.ad964eefe9729b2a3ee4916b47899611.jpg
-  * R-19-_60km-h\3397_jpg.rf.ad964eefe9729b2a3ee4916b47899611.jpg
+    R-19-_60km-h-ANTIGO\3397_jpg.rf.ad964eefe9729b2a3ee4916b47899611.jpg
 --------------------------------------------------------------------------------
 
 Imagem: 3399_jpg.rf.965038fb6e682c1fbdf4bc9a43684da9.jpg
 
     A-5a-_Curva_em_-S-_a_esquerda\3399_jpg.rf.965038fb6e682c1fbdf4bc9a43684da9.jpg
-  * R-19-_60km-h\3399_jpg.rf.965038fb6e682c1fbdf4bc9a43684da9.jpg
+    R-19-_60km-h-ANTIGO\3399_jpg.rf.965038fb6e682c1fbdf4bc9a43684da9.jpg
 --------------------------------------------------------------------------------
 
 Imagem: 3407_jpg.rf.e54aca88aa9dcc8681e31cf6e7e0048b.jpg
@@ -1503,14 +1511,14 @@ Imagem: 3424_jpg.rf.814f77b88b62cee6e212e75472ca8985.jpg
 
     MA-_Marcador_de_alinhamento\3424_jpg.rf.814f77b88b62cee6e212e75472ca8985.jpg
     MP-2-_Passagem_pela_esquerda\3424_jpg.rf.814f77b88b62cee6e212e75472ca8985.jpg
-  * R-19-_60km-h\3424_jpg.rf.814f77b88b62cee6e212e75472ca8985.jpg
+    R-19-_60km-h-ANTIGO\3424_jpg.rf.814f77b88b62cee6e212e75472ca8985.jpg
 --------------------------------------------------------------------------------
 
 Imagem: 3431_jpg.rf.ed1795b9b44dab9b9a8ada7d461d9aba.jpg
 
     MA-_Marcador_de_alinhamento\3431_jpg.rf.ed1795b9b44dab9b9a8ada7d461d9aba.jpg
     MP-2-_Passagem_pela_esquerda\3431_jpg.rf.ed1795b9b44dab9b9a8ada7d461d9aba.jpg
-  * R-19-_60km-h\3431_jpg.rf.ed1795b9b44dab9b9a8ada7d461d9aba.jpg
+    R-19-_60km-h-ANTIGO\3431_jpg.rf.ed1795b9b44dab9b9a8ada7d461d9aba.jpg
 --------------------------------------------------------------------------------
 
 Imagem: 3434_jpg.rf.93380b008b762b12a1d4f03665c4d0eb.jpg
@@ -1543,7 +1551,7 @@ Imagem: 3445_jpg.rf.d87b3d0a4981382053370e49458fc466.jpg
 Imagem: 3446_jpg.rf.ecf9bc7261d39baac90a6aa39221a971.jpg
 
     A-3a-_Pista_sinuosa_a_esquerda\3446_jpg.rf.ecf9bc7261d39baac90a6aa39221a971.jpg
-  * R-19-_60km-h\3446_jpg.rf.ecf9bc7261d39baac90a6aa39221a971.jpg
+    R-19-_60km-h-ANTIGO\3446_jpg.rf.ecf9bc7261d39baac90a6aa39221a971.jpg
     R-19-_80km-h\3446_jpg.rf.ecf9bc7261d39baac90a6aa39221a971.jpg
 --------------------------------------------------------------------------------
 
@@ -1562,7 +1570,7 @@ Imagem: 3449_jpg.rf.6ef731d3b2c32435c181c9efd8af3b28.jpg
 Imagem: 3452_jpg.rf.c898de16e6231a23165bfd7408ecdc4f.jpg
 
     A-21c-_Estreitamento_de_pista_a_direita\3452_jpg.rf.c898de16e6231a23165bfd7408ecdc4f.jpg
-  * R-19-_60km-h\3452_jpg.rf.c898de16e6231a23165bfd7408ecdc4f.jpg
+    R-19-_60km-h-ANTIGO\3452_jpg.rf.c898de16e6231a23165bfd7408ecdc4f.jpg
 --------------------------------------------------------------------------------
 
 Imagem: 3459_jpg.rf.a9a6ddcbf3e9f430963fc97cbfb250e2.jpg
@@ -1597,7 +1605,7 @@ Imagem: 3493_jpg.rf.2bb9fbefc6852d7c96125d1185ea2e04.jpg
 
 Imagem: 3495_jpg.rf.df84a06e057374d1af901ee427b855cc.jpg
 
-  * R-19-_60km-h\3495_jpg.rf.df84a06e057374d1af901ee427b855cc.jpg
+    R-19-_60km-h-ANTIGO\3495_jpg.rf.df84a06e057374d1af901ee427b855cc.jpg
     R-19-_80km-h\3495_jpg.rf.df84a06e057374d1af901ee427b855cc.jpg
 --------------------------------------------------------------------------------
 
@@ -1752,7 +1760,7 @@ Imagem: 3619_jpg.rf.7eac6873e1f439e648a5f784ea8c717a.jpg
 Imagem: 490_jpg.rf.6dc8a82ec97b8bba68d6b605b0a2be2c.jpg
 
     A-33a-_Area_escolar\490_jpg.rf.6dc8a82ec97b8bba68d6b605b0a2be2c.jpg
-  * R-19-_60km-h\490_jpg.rf.6dc8a82ec97b8bba68d6b605b0a2be2c.jpg
+    R-19-_60km-h-ANTIGO\490_jpg.rf.6dc8a82ec97b8bba68d6b605b0a2be2c.jpg
 --------------------------------------------------------------------------------
 
 Imagem: 493_jpg.rf.283f9a3b9a755ddb6ff31fd5b728fe1b.jpg
@@ -1777,13 +1785,13 @@ Imagem: 506_jpg.rf.97ebca7f8d00fa7af1700f1586cbd056.jpg
 Imagem: 535_jpg.rf.231795c3fe7c27d349813892f82756fe.jpg
 
     A-21c-_Estreitamento_de_pista_a_direita\535_jpg.rf.231795c3fe7c27d349813892f82756fe.jpg
-  * R-19-_60km-h\535_jpg.rf.231795c3fe7c27d349813892f82756fe.jpg
+    R-19-_60km-h-ANTIGO\535_jpg.rf.231795c3fe7c27d349813892f82756fe.jpg
 --------------------------------------------------------------------------------
 
 Imagem: 536_jpg.rf.ceac9abebd778c05cb528c5b4c3a5580.jpg
 
     A-21c-_Estreitamento_de_pista_a_direita\536_jpg.rf.ceac9abebd778c05cb528c5b4c3a5580.jpg
-  * R-19-_60km-h\536_jpg.rf.ceac9abebd778c05cb528c5b4c3a5580.jpg
+    R-19-_60km-h-ANTIGO\536_jpg.rf.ceac9abebd778c05cb528c5b4c3a5580.jpg
 --------------------------------------------------------------------------------
 
 Imagem: 542_jpg.rf.0c70650d950f58b631f4c68166789dce.jpg
@@ -1821,13 +1829,13 @@ Imagem: 554_jpg.rf.e3cf10858631f2653ba3021af5559a1d.jpg
 Imagem: 609_jpg.rf.100e1ed21767ec97a8427ad059f23853.jpg
 
     A-21c-_Estreitamento_de_pista_a_direita\609_jpg.rf.100e1ed21767ec97a8427ad059f23853.jpg
-  * R-19-_60km-h\609_jpg.rf.100e1ed21767ec97a8427ad059f23853.jpg
+    R-19-_60km-h-ANTIGO\609_jpg.rf.100e1ed21767ec97a8427ad059f23853.jpg
 --------------------------------------------------------------------------------
 
 Imagem: 61_jpg.rf.5f0446f25c6b373c73d9805de39b9f52.jpg
 
     MA-_Marcador_de_alinhamento\61_jpg.rf.5f0446f25c6b373c73d9805de39b9f52.jpg
-  * R-19-_60km-h\61_jpg.rf.5f0446f25c6b373c73d9805de39b9f52.jpg
+    R-19-_60km-h-ANTIGO\61_jpg.rf.5f0446f25c6b373c73d9805de39b9f52.jpg
 --------------------------------------------------------------------------------
 
 Imagem: 620_jpg.rf.71cf9f6ae92940632d4b764c2e524e43.jpg
@@ -1839,19 +1847,19 @@ Imagem: 620_jpg.rf.71cf9f6ae92940632d4b764c2e524e43.jpg
 Imagem: 62_jpg.rf.ca32e6e4c6b23426da4eff8dc467c122.jpg
 
     MA-_Marcador_de_alinhamento\62_jpg.rf.ca32e6e4c6b23426da4eff8dc467c122.jpg
-  * R-19-_60km-h\62_jpg.rf.ca32e6e4c6b23426da4eff8dc467c122.jpg
+    R-19-_60km-h-ANTIGO\62_jpg.rf.ca32e6e4c6b23426da4eff8dc467c122.jpg
 --------------------------------------------------------------------------------
 
 Imagem: 63_jpg.rf.d245221582a399467e4ec9894a96f830.jpg
 
     MA-_Marcador_de_alinhamento\63_jpg.rf.d245221582a399467e4ec9894a96f830.jpg
-  * R-19-_60km-h\63_jpg.rf.d245221582a399467e4ec9894a96f830.jpg
+    R-19-_60km-h-ANTIGO\63_jpg.rf.d245221582a399467e4ec9894a96f830.jpg
 --------------------------------------------------------------------------------
 
 Imagem: 64_jpg.rf.795aa930804e7d7ebdc7b103b78ac1e3.jpg
 
     MA-_Marcador_de_alinhamento\64_jpg.rf.795aa930804e7d7ebdc7b103b78ac1e3.jpg
-  * R-19-_60km-h\64_jpg.rf.795aa930804e7d7ebdc7b103b78ac1e3.jpg
+    R-19-_60km-h-ANTIGO\64_jpg.rf.795aa930804e7d7ebdc7b103b78ac1e3.jpg
 --------------------------------------------------------------------------------
 
 Imagem: 656_jpg.rf.333650716d20332d2c8147edcceab071.jpg
@@ -1870,12 +1878,12 @@ Imagem: 659_jpg.rf.6171f6d630144dce163a33f150a25e29.jpg
 Imagem: 65_jpg.rf.c39f3d3604b8a2f259d1dfbd1b7adcf2.jpg
 
     MA-_Marcador_de_alinhamento\65_jpg.rf.c39f3d3604b8a2f259d1dfbd1b7adcf2.jpg
-  * R-19-_60km-h\65_jpg.rf.c39f3d3604b8a2f259d1dfbd1b7adcf2.jpg
+    R-19-_60km-h-ANTIGO\65_jpg.rf.c39f3d3604b8a2f259d1dfbd1b7adcf2.jpg
 --------------------------------------------------------------------------------
 
 Imagem: 665049-970x600-1_jpeg.rf.18cd038f0cf9096b856765df853c5946.jpg
 
-  * R-19-_60km-h\665049-970x600-1_jpeg.rf.18cd038f0cf9096b856765df853c5946.jpg
+    R-19-_60km-h-ANTIGO\665049-970x600-1_jpeg.rf.18cd038f0cf9096b856765df853c5946.jpg
     R-19-_90km-h\665049-970x600-1_jpeg.rf.18cd038f0cf9096b856765df853c5946.jpg
 --------------------------------------------------------------------------------
 
@@ -1888,7 +1896,7 @@ Imagem: 6686b09fbf8193ec99136dd80d1d7767_jpg.rf.810bcd3e22e4c13493b6be8280da69ef
 Imagem: 66_jpg.rf.6b028087c15a7f5fb63466ab61bb1c1d.jpg
 
     MA-_Marcador_de_alinhamento\66_jpg.rf.6b028087c15a7f5fb63466ab61bb1c1d.jpg
-  * R-19-_60km-h\66_jpg.rf.6b028087c15a7f5fb63466ab61bb1c1d.jpg
+    R-19-_60km-h-ANTIGO\66_jpg.rf.6b028087c15a7f5fb63466ab61bb1c1d.jpg
 --------------------------------------------------------------------------------
 
 Imagem: 678_jpg.rf.b1dde623f6a7180b349b359f219bb828.jpg
@@ -1906,14 +1914,14 @@ Imagem: 679_jpg.rf.6b11efa3209c581a7f647e72e1684a08.jpg
 Imagem: 67_jpg.rf.915431cfd6fe3ab9c8bb7d6efe7caa3a.jpg
 
     MA-_Marcador_de_alinhamento\67_jpg.rf.915431cfd6fe3ab9c8bb7d6efe7caa3a.jpg
-  * R-19-_60km-h\67_jpg.rf.915431cfd6fe3ab9c8bb7d6efe7caa3a.jpg
+    R-19-_60km-h-ANTIGO\67_jpg.rf.915431cfd6fe3ab9c8bb7d6efe7caa3a.jpg
 --------------------------------------------------------------------------------
 
 Imagem: 684_jpg.rf.dd9e48b709b0a502c0114563ca183557.jpg
 
     A-37-_Altura_Limitada\684_jpg.rf.dd9e48b709b0a502c0114563ca183557.jpg
     MP-3-_Passagem_dupla\684_jpg.rf.dd9e48b709b0a502c0114563ca183557.jpg
-  * R-19-_60km-h\684_jpg.rf.dd9e48b709b0a502c0114563ca183557.jpg
+    R-19-_60km-h-ANTIGO\684_jpg.rf.dd9e48b709b0a502c0114563ca183557.jpg
     R-24b-_Passagem_obrigatoria\684_jpg.rf.dd9e48b709b0a502c0114563ca183557.jpg
 --------------------------------------------------------------------------------
 
@@ -1932,7 +1940,7 @@ Imagem: 6a4df61cbc1874c628198bfe6538ad5e_jpeg.rf.a73c902961caafc1bbbd62694071fa2
 Imagem: 70_jpg.rf.891d418b9b889a64bc616dee10b226bf.jpg
 
     MA-_Marcador_de_alinhamento\70_jpg.rf.891d418b9b889a64bc616dee10b226bf.jpg
-  * R-19-_60km-h\70_jpg.rf.891d418b9b889a64bc616dee10b226bf.jpg
+    R-19-_60km-h-ANTIGO\70_jpg.rf.891d418b9b889a64bc616dee10b226bf.jpg
 --------------------------------------------------------------------------------
 
 Imagem: 743_jpg.rf.c25ed4668c5d1c07af92716380e6d96b.jpg
@@ -2189,208 +2197,208 @@ Imagem: Captura-de-tela-2023-11-02-164328_png.rf.edea08be26b8da23900f2be1318915f
 
 Imagem: Captura-de-tela-2023-11-02-164848_png.rf.2ba7e49b3bc054e1d7b825b9db946e65.jpg
 
-  * R-19-_60km-h\Captura-de-tela-2023-11-02-164848_png.rf.2ba7e49b3bc054e1d7b825b9db946e65.jpg
+    R-19-_60km-h-ANTIGO\Captura-de-tela-2023-11-02-164848_png.rf.2ba7e49b3bc054e1d7b825b9db946e65.jpg
     R-19-_90km-h\Captura-de-tela-2023-11-02-164848_png.rf.2ba7e49b3bc054e1d7b825b9db946e65.jpg
 --------------------------------------------------------------------------------
 
 Imagem: Captura-de-tela-2023-11-02-164927_png.rf.34022051cefaf7506576bfce243a56b5.jpg
 
     A-5b-_Curva_em_-S-_a_direita\Captura-de-tela-2023-11-02-164927_png.rf.34022051cefaf7506576bfce243a56b5.jpg
-  * R-19-_60km-h\Captura-de-tela-2023-11-02-164927_png.rf.34022051cefaf7506576bfce243a56b5.jpg
+    R-19-_60km-h-ANTIGO\Captura-de-tela-2023-11-02-164927_png.rf.34022051cefaf7506576bfce243a56b5.jpg
     R-19-_90km-h\Captura-de-tela-2023-11-02-164927_png.rf.34022051cefaf7506576bfce243a56b5.jpg
 --------------------------------------------------------------------------------
 
 Imagem: Captura-de-tela-2023-11-02-165151_png.rf.09312a10000cdc0462f091ec249c99d1.jpg
 
-  * R-19-_60km-h\Captura-de-tela-2023-11-02-165151_png.rf.09312a10000cdc0462f091ec249c99d1.jpg
+    R-19-_60km-h-ANTIGO\Captura-de-tela-2023-11-02-165151_png.rf.09312a10000cdc0462f091ec249c99d1.jpg
     R-19-_70km-h\Captura-de-tela-2023-11-02-165151_png.rf.09312a10000cdc0462f091ec249c99d1.jpg
 --------------------------------------------------------------------------------
 
 Imagem: Captura-de-tela-2023-11-02-165236_png.rf.9357b6987930dc3c6f4d282e19eef80a.jpg
 
-  * R-19-_60km-h\Captura-de-tela-2023-11-02-165236_png.rf.9357b6987930dc3c6f4d282e19eef80a.jpg
+    R-19-_60km-h-ANTIGO\Captura-de-tela-2023-11-02-165236_png.rf.9357b6987930dc3c6f4d282e19eef80a.jpg
     R-19-_70km-h\Captura-de-tela-2023-11-02-165236_png.rf.9357b6987930dc3c6f4d282e19eef80a.jpg
 --------------------------------------------------------------------------------
 
 Imagem: Captura-de-tela-2023-11-02-165254_png.rf.dc0e6429038b0721409330924241923f.jpg
 
-  * R-19-_60km-h\Captura-de-tela-2023-11-02-165254_png.rf.dc0e6429038b0721409330924241923f.jpg
+    R-19-_60km-h-ANTIGO\Captura-de-tela-2023-11-02-165254_png.rf.dc0e6429038b0721409330924241923f.jpg
     R-19-_70km-h\Captura-de-tela-2023-11-02-165254_png.rf.dc0e6429038b0721409330924241923f.jpg
 --------------------------------------------------------------------------------
 
 Imagem: Captura-de-tela-2023-11-02-165322_png.rf.c707449383db16a5bb519a05090f851b.jpg
 
-  * R-19-_60km-h\Captura-de-tela-2023-11-02-165322_png.rf.c707449383db16a5bb519a05090f851b.jpg
+    R-19-_60km-h-ANTIGO\Captura-de-tela-2023-11-02-165322_png.rf.c707449383db16a5bb519a05090f851b.jpg
     R-19-_70km-h\Captura-de-tela-2023-11-02-165322_png.rf.c707449383db16a5bb519a05090f851b.jpg
 --------------------------------------------------------------------------------
 
 Imagem: Captura-de-tela-2023-11-02-165419_png.rf.256f8d5c1a2de103037c304fc2560b96.jpg
 
-  * R-19-_60km-h\Captura-de-tela-2023-11-02-165419_png.rf.256f8d5c1a2de103037c304fc2560b96.jpg
+    R-19-_60km-h-ANTIGO\Captura-de-tela-2023-11-02-165419_png.rf.256f8d5c1a2de103037c304fc2560b96.jpg
     R-19-_70km-h\Captura-de-tela-2023-11-02-165419_png.rf.256f8d5c1a2de103037c304fc2560b96.jpg
 --------------------------------------------------------------------------------
 
 Imagem: Captura-de-tela-2023-11-02-165433_png.rf.7a5c237ba9fa1c62aab03d8b4f09dd15.jpg
 
-  * R-19-_60km-h\Captura-de-tela-2023-11-02-165433_png.rf.7a5c237ba9fa1c62aab03d8b4f09dd15.jpg
+    R-19-_60km-h-ANTIGO\Captura-de-tela-2023-11-02-165433_png.rf.7a5c237ba9fa1c62aab03d8b4f09dd15.jpg
     R-19-_70km-h\Captura-de-tela-2023-11-02-165433_png.rf.7a5c237ba9fa1c62aab03d8b4f09dd15.jpg
 --------------------------------------------------------------------------------
 
 Imagem: Captura-de-tela-2023-11-02-165540_png.rf.643e4df61508ba1904809bf3dbd481e6.jpg
 
-  * R-19-_60km-h\Captura-de-tela-2023-11-02-165540_png.rf.643e4df61508ba1904809bf3dbd481e6.jpg
+    R-19-_60km-h-ANTIGO\Captura-de-tela-2023-11-02-165540_png.rf.643e4df61508ba1904809bf3dbd481e6.jpg
     R-19-_70km-h\Captura-de-tela-2023-11-02-165540_png.rf.643e4df61508ba1904809bf3dbd481e6.jpg
     R-27-_Veiculos_lentos_usem_faixa_da_direita\Captura-de-tela-2023-11-02-165540_png.rf.643e4df61508ba1904809bf3dbd481e6.jpg
 --------------------------------------------------------------------------------
 
 Imagem: Captura-de-tela-2023-11-02-165643_png.rf.d2f80fc2c0ece8b61e7704c560e77249.jpg
 
-  * R-19-_60km-h\Captura-de-tela-2023-11-02-165643_png.rf.d2f80fc2c0ece8b61e7704c560e77249.jpg
+    R-19-_60km-h-ANTIGO\Captura-de-tela-2023-11-02-165643_png.rf.d2f80fc2c0ece8b61e7704c560e77249.jpg
     R-19-_90km-h\Captura-de-tela-2023-11-02-165643_png.rf.d2f80fc2c0ece8b61e7704c560e77249.jpg
 --------------------------------------------------------------------------------
 
 Imagem: Captura-de-tela-2023-11-02-165700_png.rf.645073c092b2afa88c18c843372f3a78.jpg
 
-  * R-19-_60km-h\Captura-de-tela-2023-11-02-165700_png.rf.645073c092b2afa88c18c843372f3a78.jpg
+    R-19-_60km-h-ANTIGO\Captura-de-tela-2023-11-02-165700_png.rf.645073c092b2afa88c18c843372f3a78.jpg
     R-19-_90km-h\Captura-de-tela-2023-11-02-165700_png.rf.645073c092b2afa88c18c843372f3a78.jpg
 --------------------------------------------------------------------------------
 
 Imagem: Captura-de-tela-2023-11-02-165841_png.rf.b41d9783d6819500c460524b4957d2a1.jpg
 
-  * R-19-_60km-h\Captura-de-tela-2023-11-02-165841_png.rf.b41d9783d6819500c460524b4957d2a1.jpg
+    R-19-_60km-h-ANTIGO\Captura-de-tela-2023-11-02-165841_png.rf.b41d9783d6819500c460524b4957d2a1.jpg
     R-19-_90km-h\Captura-de-tela-2023-11-02-165841_png.rf.b41d9783d6819500c460524b4957d2a1.jpg
 --------------------------------------------------------------------------------
 
 Imagem: Captura-de-tela-2023-11-02-165851_png.rf.125252f052cc954bbe02710764761217.jpg
 
-  * R-19-_60km-h\Captura-de-tela-2023-11-02-165851_png.rf.125252f052cc954bbe02710764761217.jpg
+    R-19-_60km-h-ANTIGO\Captura-de-tela-2023-11-02-165851_png.rf.125252f052cc954bbe02710764761217.jpg
     R-19-_90km-h\Captura-de-tela-2023-11-02-165851_png.rf.125252f052cc954bbe02710764761217.jpg
 --------------------------------------------------------------------------------
 
 Imagem: Captura-de-tela-2023-11-02-165906_png.rf.de83c332125f6b179b00f867436110ba.jpg
 
-  * R-19-_60km-h\Captura-de-tela-2023-11-02-165906_png.rf.de83c332125f6b179b00f867436110ba.jpg
+    R-19-_60km-h-ANTIGO\Captura-de-tela-2023-11-02-165906_png.rf.de83c332125f6b179b00f867436110ba.jpg
     R-19-_90km-h\Captura-de-tela-2023-11-02-165906_png.rf.de83c332125f6b179b00f867436110ba.jpg
 --------------------------------------------------------------------------------
 
 Imagem: Captura-de-tela-2023-11-02-165933_png.rf.91ecc95db0c2c03e2067350a0ed1cba3.jpg
 
-  * R-19-_60km-h\Captura-de-tela-2023-11-02-165933_png.rf.91ecc95db0c2c03e2067350a0ed1cba3.jpg
+    R-19-_60km-h-ANTIGO\Captura-de-tela-2023-11-02-165933_png.rf.91ecc95db0c2c03e2067350a0ed1cba3.jpg
     R-19-_90km-h\Captura-de-tela-2023-11-02-165933_png.rf.91ecc95db0c2c03e2067350a0ed1cba3.jpg
 --------------------------------------------------------------------------------
 
 Imagem: Captura-de-tela-2023-11-02-165947_png.rf.54286c2e38e71595a186ad5257ea647a.jpg
 
-  * R-19-_60km-h\Captura-de-tela-2023-11-02-165947_png.rf.54286c2e38e71595a186ad5257ea647a.jpg
+    R-19-_60km-h-ANTIGO\Captura-de-tela-2023-11-02-165947_png.rf.54286c2e38e71595a186ad5257ea647a.jpg
     R-19-_90km-h\Captura-de-tela-2023-11-02-165947_png.rf.54286c2e38e71595a186ad5257ea647a.jpg
 --------------------------------------------------------------------------------
 
 Imagem: Captura-de-tela-2023-11-02-170157_png.rf.f04362852b5a0fb4e7116fb55f951544.jpg
 
-  * R-19-_60km-h\Captura-de-tela-2023-11-02-170157_png.rf.f04362852b5a0fb4e7116fb55f951544.jpg
+    R-19-_60km-h-ANTIGO\Captura-de-tela-2023-11-02-170157_png.rf.f04362852b5a0fb4e7116fb55f951544.jpg
     R-19-_90km-h\Captura-de-tela-2023-11-02-170157_png.rf.f04362852b5a0fb4e7116fb55f951544.jpg
 --------------------------------------------------------------------------------
 
 Imagem: Captura-de-tela-2023-11-02-170211_png.rf.729c2fa902a38bd2a48b632700804c95.jpg
 
-  * R-19-_60km-h\Captura-de-tela-2023-11-02-170211_png.rf.729c2fa902a38bd2a48b632700804c95.jpg
+    R-19-_60km-h-ANTIGO\Captura-de-tela-2023-11-02-170211_png.rf.729c2fa902a38bd2a48b632700804c95.jpg
     R-19-_90km-h\Captura-de-tela-2023-11-02-170211_png.rf.729c2fa902a38bd2a48b632700804c95.jpg
 --------------------------------------------------------------------------------
 
 Imagem: Captura-de-tela-2023-11-02-170243_png.rf.96793cd9cfa5ba2f4d6910afb7be1d31.jpg
 
-  * R-19-_60km-h\Captura-de-tela-2023-11-02-170243_png.rf.96793cd9cfa5ba2f4d6910afb7be1d31.jpg
+    R-19-_60km-h-ANTIGO\Captura-de-tela-2023-11-02-170243_png.rf.96793cd9cfa5ba2f4d6910afb7be1d31.jpg
     R-19-_90km-h\Captura-de-tela-2023-11-02-170243_png.rf.96793cd9cfa5ba2f4d6910afb7be1d31.jpg
 --------------------------------------------------------------------------------
 
 Imagem: Captura-de-tela-2023-11-02-170429_png.rf.23c3b7c76cab4fefa16ef092c93307d3.jpg
 
-  * R-19-_60km-h\Captura-de-tela-2023-11-02-170429_png.rf.23c3b7c76cab4fefa16ef092c93307d3.jpg
+    R-19-_60km-h-ANTIGO\Captura-de-tela-2023-11-02-170429_png.rf.23c3b7c76cab4fefa16ef092c93307d3.jpg
     R-19-_90km-h\Captura-de-tela-2023-11-02-170429_png.rf.23c3b7c76cab4fefa16ef092c93307d3.jpg
 --------------------------------------------------------------------------------
 
 Imagem: Captura-de-tela-2023-11-02-170441_png.rf.1b9def64287c12a0f5f9c0423dff0bd8.jpg
 
-  * R-19-_60km-h\Captura-de-tela-2023-11-02-170441_png.rf.1b9def64287c12a0f5f9c0423dff0bd8.jpg
+    R-19-_60km-h-ANTIGO\Captura-de-tela-2023-11-02-170441_png.rf.1b9def64287c12a0f5f9c0423dff0bd8.jpg
     R-19-_90km-h\Captura-de-tela-2023-11-02-170441_png.rf.1b9def64287c12a0f5f9c0423dff0bd8.jpg
 --------------------------------------------------------------------------------
 
 Imagem: Captura-de-tela-2023-11-02-170452_png.rf.d0e8db830aeec8f7c9d672283b00710a.jpg
 
-  * R-19-_60km-h\Captura-de-tela-2023-11-02-170452_png.rf.d0e8db830aeec8f7c9d672283b00710a.jpg
+    R-19-_60km-h-ANTIGO\Captura-de-tela-2023-11-02-170452_png.rf.d0e8db830aeec8f7c9d672283b00710a.jpg
     R-19-_90km-h\Captura-de-tela-2023-11-02-170452_png.rf.d0e8db830aeec8f7c9d672283b00710a.jpg
 --------------------------------------------------------------------------------
 
 Imagem: Captura-de-tela-2023-11-02-170534_png.rf.1bdf9b427c86fdc1236b4f08ffcc9837.jpg
 
-  * R-19-_60km-h\Captura-de-tela-2023-11-02-170534_png.rf.1bdf9b427c86fdc1236b4f08ffcc9837.jpg
+    R-19-_60km-h-ANTIGO\Captura-de-tela-2023-11-02-170534_png.rf.1bdf9b427c86fdc1236b4f08ffcc9837.jpg
     R-19-_90km-h\Captura-de-tela-2023-11-02-170534_png.rf.1bdf9b427c86fdc1236b4f08ffcc9837.jpg
 --------------------------------------------------------------------------------
 
 Imagem: Captura-de-tela-2023-11-02-170817_png.rf.f9693e3f11aa8f3c1b7a15fe436b3d3e.jpg
 
-  * R-19-_60km-h\Captura-de-tela-2023-11-02-170817_png.rf.f9693e3f11aa8f3c1b7a15fe436b3d3e.jpg
+    R-19-_60km-h-ANTIGO\Captura-de-tela-2023-11-02-170817_png.rf.f9693e3f11aa8f3c1b7a15fe436b3d3e.jpg
     R-19-_90km-h\Captura-de-tela-2023-11-02-170817_png.rf.f9693e3f11aa8f3c1b7a15fe436b3d3e.jpg
 --------------------------------------------------------------------------------
 
 Imagem: Captura-de-tela-2023-11-02-170918_png.rf.046a8f6dfffb9df087866b9cf0faa171.jpg
 
-  * R-19-_60km-h\Captura-de-tela-2023-11-02-170918_png.rf.046a8f6dfffb9df087866b9cf0faa171.jpg
+    R-19-_60km-h-ANTIGO\Captura-de-tela-2023-11-02-170918_png.rf.046a8f6dfffb9df087866b9cf0faa171.jpg
     R-19-_70km-h\Captura-de-tela-2023-11-02-170918_png.rf.046a8f6dfffb9df087866b9cf0faa171.jpg
 --------------------------------------------------------------------------------
 
 Imagem: Captura-de-tela-2023-11-02-170934_png.rf.49d9459c0d7ad45282ed159d10674f9c.jpg
 
-  * R-19-_60km-h\Captura-de-tela-2023-11-02-170934_png.rf.49d9459c0d7ad45282ed159d10674f9c.jpg
+    R-19-_60km-h-ANTIGO\Captura-de-tela-2023-11-02-170934_png.rf.49d9459c0d7ad45282ed159d10674f9c.jpg
     R-19-_70km-h\Captura-de-tela-2023-11-02-170934_png.rf.49d9459c0d7ad45282ed159d10674f9c.jpg
 --------------------------------------------------------------------------------
 
 Imagem: Captura-de-tela-2023-11-02-171150_png.rf.d9899e64aedc05dd7125faeff99d8f36.jpg
 
-  * R-19-_60km-h\Captura-de-tela-2023-11-02-171150_png.rf.d9899e64aedc05dd7125faeff99d8f36.jpg
+    R-19-_60km-h-ANTIGO\Captura-de-tela-2023-11-02-171150_png.rf.d9899e64aedc05dd7125faeff99d8f36.jpg
     R-19-_90km-h\Captura-de-tela-2023-11-02-171150_png.rf.d9899e64aedc05dd7125faeff99d8f36.jpg
 --------------------------------------------------------------------------------
 
 Imagem: Captura-de-tela-2023-11-02-171344_png.rf.2ab1e9b1ce1249b37e66d064fecbf182.jpg
 
-  * R-19-_60km-h\Captura-de-tela-2023-11-02-171344_png.rf.2ab1e9b1ce1249b37e66d064fecbf182.jpg
+    R-19-_60km-h-ANTIGO\Captura-de-tela-2023-11-02-171344_png.rf.2ab1e9b1ce1249b37e66d064fecbf182.jpg
     R-19-_90km-h\Captura-de-tela-2023-11-02-171344_png.rf.2ab1e9b1ce1249b37e66d064fecbf182.jpg
 --------------------------------------------------------------------------------
 
 Imagem: Captura-de-tela-2023-11-02-171429_png.rf.5723af56127f486be4ab8d617518f44b.jpg
 
-  * R-19-_60km-h\Captura-de-tela-2023-11-02-171429_png.rf.5723af56127f486be4ab8d617518f44b.jpg
+    R-19-_60km-h-ANTIGO\Captura-de-tela-2023-11-02-171429_png.rf.5723af56127f486be4ab8d617518f44b.jpg
     R-19-_90km-h\Captura-de-tela-2023-11-02-171429_png.rf.5723af56127f486be4ab8d617518f44b.jpg
 --------------------------------------------------------------------------------
 
 Imagem: Captura-de-tela-2023-11-02-171519_png.rf.0e5aca81981171d6cf7a8be88007a0d6.jpg
 
-  * R-19-_60km-h\Captura-de-tela-2023-11-02-171519_png.rf.0e5aca81981171d6cf7a8be88007a0d6.jpg
+    R-19-_60km-h-ANTIGO\Captura-de-tela-2023-11-02-171519_png.rf.0e5aca81981171d6cf7a8be88007a0d6.jpg
     R-19-_90km-h\Captura-de-tela-2023-11-02-171519_png.rf.0e5aca81981171d6cf7a8be88007a0d6.jpg
 --------------------------------------------------------------------------------
 
 Imagem: Captura-de-tela-2023-11-02-171545_png.rf.e4a85519e801645ae58879fa25772fa5.jpg
 
-  * R-19-_60km-h\Captura-de-tela-2023-11-02-171545_png.rf.e4a85519e801645ae58879fa25772fa5.jpg
+    R-19-_60km-h-ANTIGO\Captura-de-tela-2023-11-02-171545_png.rf.e4a85519e801645ae58879fa25772fa5.jpg
     R-19-_90km-h\Captura-de-tela-2023-11-02-171545_png.rf.e4a85519e801645ae58879fa25772fa5.jpg
 --------------------------------------------------------------------------------
 
 Imagem: Captura-de-tela-2023-11-02-171649_png.rf.f3854991094c091909873d8a9d1bb2c6.jpg
 
-  * R-19-_60km-h\Captura-de-tela-2023-11-02-171649_png.rf.f3854991094c091909873d8a9d1bb2c6.jpg
+    R-19-_60km-h-ANTIGO\Captura-de-tela-2023-11-02-171649_png.rf.f3854991094c091909873d8a9d1bb2c6.jpg
     R-19-_90km-h\Captura-de-tela-2023-11-02-171649_png.rf.f3854991094c091909873d8a9d1bb2c6.jpg
     R-27-_Veiculos_lentos_usem_faixa_da_direita\Captura-de-tela-2023-11-02-171649_png.rf.f3854991094c091909873d8a9d1bb2c6.jpg
 --------------------------------------------------------------------------------
 
 Imagem: Captura-de-tela-2023-11-02-171735_png.rf.505164c0f21bb33e9b6cd291bfc27e9a.jpg
 
-  * R-19-_60km-h\Captura-de-tela-2023-11-02-171735_png.rf.505164c0f21bb33e9b6cd291bfc27e9a.jpg
+    R-19-_60km-h-ANTIGO\Captura-de-tela-2023-11-02-171735_png.rf.505164c0f21bb33e9b6cd291bfc27e9a.jpg
     R-19-_90km-h\Captura-de-tela-2023-11-02-171735_png.rf.505164c0f21bb33e9b6cd291bfc27e9a.jpg
 --------------------------------------------------------------------------------
 
 Imagem: Captura-de-tela-2023-11-02-171752_png.rf.0812026724efb2c064cd597d8a3042e3.jpg
 
-  * R-19-_60km-h\Captura-de-tela-2023-11-02-171752_png.rf.0812026724efb2c064cd597d8a3042e3.jpg
+    R-19-_60km-h-ANTIGO\Captura-de-tela-2023-11-02-171752_png.rf.0812026724efb2c064cd597d8a3042e3.jpg
     R-19-_90km-h\Captura-de-tela-2023-11-02-171752_png.rf.0812026724efb2c064cd597d8a3042e3.jpg
 --------------------------------------------------------------------------------
 
@@ -2428,14 +2436,14 @@ Imagem: Captura-de-tela-2023-11-03-135003_png.rf.645cb3d65f9768dd90178104ace9298
 
 Imagem: Captura-de-tela-2023-11-03-135052_png.rf.a88e4cdd5a42b3f83d42594ec7ffc286.jpg
 
-  * R-19-_60km-h\Captura-de-tela-2023-11-03-135052_png.rf.a88e4cdd5a42b3f83d42594ec7ffc286.jpg
+    R-19-_60km-h-ANTIGO\Captura-de-tela-2023-11-03-135052_png.rf.a88e4cdd5a42b3f83d42594ec7ffc286.jpg
     R-27-_Veiculos_lentos_usem_faixa_da_direita\Captura-de-tela-2023-11-03-135052_png.rf.a88e4cdd5a42b3f83d42594ec7ffc286.jpg
     R-8a-_Proibido_mudar_de_faixa_da_esquerda_para_a_direita\Captura-de-tela-2023-11-03-135052_png.rf.a88e4cdd5a42b3f83d42594ec7ffc286.jpg
 --------------------------------------------------------------------------------
 
 Imagem: Captura-de-tela-2023-11-03-135106_png.rf.efe7cfafe624aac2fad909d751505252.jpg
 
-  * R-19-_60km-h\Captura-de-tela-2023-11-03-135106_png.rf.efe7cfafe624aac2fad909d751505252.jpg
+    R-19-_60km-h-ANTIGO\Captura-de-tela-2023-11-03-135106_png.rf.efe7cfafe624aac2fad909d751505252.jpg
     R-27-_Veiculos_lentos_usem_faixa_da_direita\Captura-de-tela-2023-11-03-135106_png.rf.efe7cfafe624aac2fad909d751505252.jpg
     R-8a-_Proibido_mudar_de_faixa_da_esquerda_para_a_direita\Captura-de-tela-2023-11-03-135106_png.rf.efe7cfafe624aac2fad909d751505252.jpg
 --------------------------------------------------------------------------------
@@ -2524,7 +2532,7 @@ Imagem: Captura-de-tela-2023-11-03-141906_png.rf.230a309ee7d88c695b5d090d7884fb8
 Imagem: Captura-de-tela-2023-11-03-142020_png.rf.578323f8b80913a534c3588b05233ba2.jpg
 
     MP-1-_Passagem_pela_direita\Captura-de-tela-2023-11-03-142020_png.rf.578323f8b80913a534c3588b05233ba2.jpg
-  * R-19-_60km-h\Captura-de-tela-2023-11-03-142020_png.rf.578323f8b80913a534c3588b05233ba2.jpg
+    R-19-_60km-h-ANTIGO\Captura-de-tela-2023-11-03-142020_png.rf.578323f8b80913a534c3588b05233ba2.jpg
 --------------------------------------------------------------------------------
 
 Imagem: Captura-de-tela-2023-11-03-142145_png.rf.b0674355515e007b69979e627c300b80.jpg
@@ -2604,7 +2612,7 @@ Imagem: Captura-de-tela-2023-11-03-143656_png.rf.602ae144bfb8241460ae55fd72062d5
 
     MA-_Marcador_de_alinhamento\Captura-de-tela-2023-11-03-143656_png.rf.602ae144bfb8241460ae55fd72062d55.jpg
     MP-3-_Passagem_dupla\Captura-de-tela-2023-11-03-143656_png.rf.602ae144bfb8241460ae55fd72062d55.jpg
-  * R-19-_60km-h\Captura-de-tela-2023-11-03-143656_png.rf.602ae144bfb8241460ae55fd72062d55.jpg
+    R-19-_60km-h-ANTIGO\Captura-de-tela-2023-11-03-143656_png.rf.602ae144bfb8241460ae55fd72062d55.jpg
 --------------------------------------------------------------------------------
 
 Imagem: Captura-de-tela-2023-11-03-143806_png.rf.954d46e3e5c6858ca203542f0c0108fb.jpg
@@ -2629,7 +2637,7 @@ Imagem: Captura-de-tela-2023-11-03-144020_png.rf.835384026e5f73701874211fb53bbfb
 Imagem: Captura-de-tela-2023-11-04-102224_png.rf.bd6806cc33f7521de2457e6fe41f5512.jpg
 
     MA-_Marcador_de_alinhamento\Captura-de-tela-2023-11-04-102224_png.rf.bd6806cc33f7521de2457e6fe41f5512.jpg
-  * R-19-_60km-h\Captura-de-tela-2023-11-04-102224_png.rf.bd6806cc33f7521de2457e6fe41f5512.jpg
+    R-19-_60km-h-ANTIGO\Captura-de-tela-2023-11-04-102224_png.rf.bd6806cc33f7521de2457e6fe41f5512.jpg
 --------------------------------------------------------------------------------
 
 Imagem: Captura-de-tela-2023-11-04-102252_png.rf.0eddc54730512279493c63efc1d397a1.jpg
@@ -2654,7 +2662,7 @@ Imagem: Captura-de-tela-2023-11-04-103947_png.rf.6c764312ac3689f43780cdc133e2079
 
 Imagem: Captura-de-tela-2023-11-04-104323_png.rf.92357adecaa789f1f8a1071167105cbf.jpg
 
-  * R-19-_60km-h\Captura-de-tela-2023-11-04-104323_png.rf.92357adecaa789f1f8a1071167105cbf.jpg
+    R-19-_60km-h-ANTIGO\Captura-de-tela-2023-11-04-104323_png.rf.92357adecaa789f1f8a1071167105cbf.jpg
     R-19-_80km-h\Captura-de-tela-2023-11-04-104323_png.rf.92357adecaa789f1f8a1071167105cbf.jpg
 --------------------------------------------------------------------------------
 
@@ -2692,7 +2700,7 @@ Imagem: Captura-de-tela-2023-11-04-110253_png.rf.e70d73bee8552b9eb32929f33452bba
 
 Imagem: Captura-de-tela-2023-11-04-110632_png.rf.ee57ec1271a042a8872423ee74d52f46.jpg
 
-  * R-19-_60km-h\Captura-de-tela-2023-11-04-110632_png.rf.ee57ec1271a042a8872423ee74d52f46.jpg
+    R-19-_60km-h-ANTIGO\Captura-de-tela-2023-11-04-110632_png.rf.ee57ec1271a042a8872423ee74d52f46.jpg
     R-25d-_Siga_em_frente_ou_a_direita\Captura-de-tela-2023-11-04-110632_png.rf.ee57ec1271a042a8872423ee74d52f46.jpg
 --------------------------------------------------------------------------------
 
@@ -3359,7 +3367,7 @@ Imagem: Limite-120_jpg.rf.bd2febd1ca8bf0b36a5f14a844b70830.jpg
 
 Imagem: Marginal-90-kmh_jpg.rf.15400aaa697108bce368d2353b4c276b.jpg
 
-  * R-19-_60km-h\Marginal-90-kmh_jpg.rf.15400aaa697108bce368d2353b4c276b.jpg
+    R-19-_60km-h-ANTIGO\Marginal-90-kmh_jpg.rf.15400aaa697108bce368d2353b4c276b.jpg
     R-19-_90km-h\Marginal-90-kmh_jpg.rf.15400aaa697108bce368d2353b4c276b.jpg
 --------------------------------------------------------------------------------
 
@@ -3378,25 +3386,25 @@ Imagem: Rotatoria-em-Coqueiral-de-Itaparica-Vila-Velha-Foto-Reproducao-PMVV-scal
 Imagem: Screenshot_101_jpg.rf.c93f26c83a3b1689092e6f759034c2d6.jpg
 
     R-19-_50km-h\Screenshot_101_jpg.rf.c93f26c83a3b1689092e6f759034c2d6.jpg
-  * R-19-_60km-h\Screenshot_101_jpg.rf.c93f26c83a3b1689092e6f759034c2d6.jpg
+    R-19-_60km-h-ANTIGO\Screenshot_101_jpg.rf.c93f26c83a3b1689092e6f759034c2d6.jpg
 --------------------------------------------------------------------------------
 
 Imagem: Screenshot_102_jpg.rf.e40005329c8c4c28080fb989b0ec0713.jpg
 
-  * R-19-_60km-h\Screenshot_102_jpg.rf.e40005329c8c4c28080fb989b0ec0713.jpg
+    R-19-_60km-h-ANTIGO\Screenshot_102_jpg.rf.e40005329c8c4c28080fb989b0ec0713.jpg
     R-19-_90km-h\Screenshot_102_jpg.rf.e40005329c8c4c28080fb989b0ec0713.jpg
 --------------------------------------------------------------------------------
 
 Imagem: Screenshot_103_jpg.rf.5bbdde9e3232109fd9475d0440a78fe3.jpg
 
-  * R-19-_60km-h\Screenshot_103_jpg.rf.5bbdde9e3232109fd9475d0440a78fe3.jpg
+    R-19-_60km-h-ANTIGO\Screenshot_103_jpg.rf.5bbdde9e3232109fd9475d0440a78fe3.jpg
     R-19-_90km-h\Screenshot_103_jpg.rf.5bbdde9e3232109fd9475d0440a78fe3.jpg
     R-27-_Veiculos_lentos_usem_faixa_da_direita\Screenshot_103_jpg.rf.5bbdde9e3232109fd9475d0440a78fe3.jpg
 --------------------------------------------------------------------------------
 
 Imagem: Screenshot_105_jpg.rf.5d55aab9209985c89f9b6f1a2314313b.jpg
 
-  * R-19-_60km-h\Screenshot_105_jpg.rf.5d55aab9209985c89f9b6f1a2314313b.jpg
+    R-19-_60km-h-ANTIGO\Screenshot_105_jpg.rf.5d55aab9209985c89f9b6f1a2314313b.jpg
     R-19-_70km-h\Screenshot_105_jpg.rf.5d55aab9209985c89f9b6f1a2314313b.jpg
     R-19-_90km-h\Screenshot_105_jpg.rf.5d55aab9209985c89f9b6f1a2314313b.jpg
 --------------------------------------------------------------------------------
@@ -3409,38 +3417,38 @@ Imagem: Screenshot_105_jpg.rf.ce1861425e20da4c3c00428cf761f5e4.jpg
 
 Imagem: Screenshot_105_jpg.rf.f366e2c1b2b25d2e3d5416bb565a3a24.jpg
 
-  * R-19-_60km-h\Screenshot_105_jpg.rf.f366e2c1b2b25d2e3d5416bb565a3a24.jpg
+    R-19-_60km-h-ANTIGO\Screenshot_105_jpg.rf.f366e2c1b2b25d2e3d5416bb565a3a24.jpg
     R-19-_90km-h\Screenshot_105_jpg.rf.f366e2c1b2b25d2e3d5416bb565a3a24.jpg
     R-27-_Veiculos_lentos_usem_faixa_da_direita\Screenshot_105_jpg.rf.f366e2c1b2b25d2e3d5416bb565a3a24.jpg
 --------------------------------------------------------------------------------
 
 Imagem: Screenshot_108_jpg.rf.26474ca8f65aca1e240024154df8bdce.jpg
 
-  * R-19-_60km-h\Screenshot_108_jpg.rf.26474ca8f65aca1e240024154df8bdce.jpg
+    R-19-_60km-h-ANTIGO\Screenshot_108_jpg.rf.26474ca8f65aca1e240024154df8bdce.jpg
     R-19-_70km-h\Screenshot_108_jpg.rf.26474ca8f65aca1e240024154df8bdce.jpg
 --------------------------------------------------------------------------------
 
 Imagem: Screenshot_108_jpg.rf.3ff0f45c7ef48660cec496d81bdb6ee7.jpg
 
     R-19-_50km-h\Screenshot_108_jpg.rf.3ff0f45c7ef48660cec496d81bdb6ee7.jpg
-  * R-19-_60km-h\Screenshot_108_jpg.rf.3ff0f45c7ef48660cec496d81bdb6ee7.jpg
+    R-19-_60km-h-ANTIGO\Screenshot_108_jpg.rf.3ff0f45c7ef48660cec496d81bdb6ee7.jpg
 --------------------------------------------------------------------------------
 
 Imagem: Screenshot_109_jpg.rf.c8d1f56296c6ec81765a3cf4f62edd5d.jpg
 
-  * R-19-_60km-h\Screenshot_109_jpg.rf.c8d1f56296c6ec81765a3cf4f62edd5d.jpg
+    R-19-_60km-h-ANTIGO\Screenshot_109_jpg.rf.c8d1f56296c6ec81765a3cf4f62edd5d.jpg
     R-19-_70km-h\Screenshot_109_jpg.rf.c8d1f56296c6ec81765a3cf4f62edd5d.jpg
 --------------------------------------------------------------------------------
 
 Imagem: Screenshot_109_jpg.rf.ffc2fb75e2b5153a2616f0b097c42dfa.jpg
 
     R-19-_50km-h\Screenshot_109_jpg.rf.ffc2fb75e2b5153a2616f0b097c42dfa.jpg
-  * R-19-_60km-h\Screenshot_109_jpg.rf.ffc2fb75e2b5153a2616f0b097c42dfa.jpg
+    R-19-_60km-h-ANTIGO\Screenshot_109_jpg.rf.ffc2fb75e2b5153a2616f0b097c42dfa.jpg
 --------------------------------------------------------------------------------
 
 Imagem: Screenshot_111_jpg.rf.264a4b6173267de4b80ea3c5a6ca5d36.jpg
 
-  * R-19-_60km-h\Screenshot_111_jpg.rf.264a4b6173267de4b80ea3c5a6ca5d36.jpg
+    R-19-_60km-h-ANTIGO\Screenshot_111_jpg.rf.264a4b6173267de4b80ea3c5a6ca5d36.jpg
     R-19-_70km-h\Screenshot_111_jpg.rf.264a4b6173267de4b80ea3c5a6ca5d36.jpg
 --------------------------------------------------------------------------------
 
@@ -3452,7 +3460,7 @@ Imagem: Screenshot_115_jpg.rf.b836c883aa5cf7762884d76aa6e225fb.jpg
 
 Imagem: Screenshot_116_jpg.rf.5f658e6c27163a2b3c8caf81717c935b.jpg
 
-  * R-19-_60km-h\Screenshot_116_jpg.rf.5f658e6c27163a2b3c8caf81717c935b.jpg
+    R-19-_60km-h-ANTIGO\Screenshot_116_jpg.rf.5f658e6c27163a2b3c8caf81717c935b.jpg
     R-19-_90km-h\Screenshot_116_jpg.rf.5f658e6c27163a2b3c8caf81717c935b.jpg
 --------------------------------------------------------------------------------
 
@@ -3465,19 +3473,19 @@ Imagem: Screenshot_118_jpg.rf.ba4ffba3ccfd119c8ba36d3f884504ce.jpg
 Imagem: Screenshot_123_jpg.rf.1ec9e7f4ec55a2004d937a0502c259ff.jpg
 
     R-19-_50km-h\Screenshot_123_jpg.rf.1ec9e7f4ec55a2004d937a0502c259ff.jpg
-  * R-19-_60km-h\Screenshot_123_jpg.rf.1ec9e7f4ec55a2004d937a0502c259ff.jpg
+    R-19-_60km-h-ANTIGO\Screenshot_123_jpg.rf.1ec9e7f4ec55a2004d937a0502c259ff.jpg
 --------------------------------------------------------------------------------
 
 Imagem: Screenshot_123_jpg.rf.4bb7bed37924cc02dc48809184b041a1.jpg
 
-  * R-19-_60km-h\Screenshot_123_jpg.rf.4bb7bed37924cc02dc48809184b041a1.jpg
+    R-19-_60km-h-ANTIGO\Screenshot_123_jpg.rf.4bb7bed37924cc02dc48809184b041a1.jpg
     R-19-_90km-h\Screenshot_123_jpg.rf.4bb7bed37924cc02dc48809184b041a1.jpg
 --------------------------------------------------------------------------------
 
 Imagem: Screenshot_124_jpg.rf.f7bdfae0aee9c4e7e537b938044d0297.jpg
 
     R-19-_50km-h\Screenshot_124_jpg.rf.f7bdfae0aee9c4e7e537b938044d0297.jpg
-  * R-19-_60km-h\Screenshot_124_jpg.rf.f7bdfae0aee9c4e7e537b938044d0297.jpg
+    R-19-_60km-h-ANTIGO\Screenshot_124_jpg.rf.f7bdfae0aee9c4e7e537b938044d0297.jpg
 --------------------------------------------------------------------------------
 
 Imagem: Screenshot_125_jpg.rf.4b49269a214db86b595e6b7039b2e958.jpg
@@ -3500,13 +3508,13 @@ Imagem: Screenshot_128_jpg.rf.a5ccb63a841705c6ef631d4bff8db47f.jpg
 
 Imagem: Screenshot_128_jpg.rf.ef7f343511ad514a246553759f706957.jpg
 
-  * R-19-_60km-h\Screenshot_128_jpg.rf.ef7f343511ad514a246553759f706957.jpg
+    R-19-_60km-h-ANTIGO\Screenshot_128_jpg.rf.ef7f343511ad514a246553759f706957.jpg
     R-19-_70km-h\Screenshot_128_jpg.rf.ef7f343511ad514a246553759f706957.jpg
 --------------------------------------------------------------------------------
 
 Imagem: Screenshot_129_jpg.rf.08bf652823c93513accc86c5abf65f07.jpg
 
-  * R-19-_60km-h\Screenshot_129_jpg.rf.08bf652823c93513accc86c5abf65f07.jpg
+    R-19-_60km-h-ANTIGO\Screenshot_129_jpg.rf.08bf652823c93513accc86c5abf65f07.jpg
     R-19-_70km-h\Screenshot_129_jpg.rf.08bf652823c93513accc86c5abf65f07.jpg
 --------------------------------------------------------------------------------
 
@@ -3518,7 +3526,7 @@ Imagem: Screenshot_12_jpg.rf.b2d2d97b6b87901a235e90cf6a88a116.jpg
 
 Imagem: Screenshot_130_jpg.rf.c93c6b68ef14da02af586a6f65a213bc.jpg
 
-  * R-19-_60km-h\Screenshot_130_jpg.rf.c93c6b68ef14da02af586a6f65a213bc.jpg
+    R-19-_60km-h-ANTIGO\Screenshot_130_jpg.rf.c93c6b68ef14da02af586a6f65a213bc.jpg
     R-19-_70km-h\Screenshot_130_jpg.rf.c93c6b68ef14da02af586a6f65a213bc.jpg
 --------------------------------------------------------------------------------
 
@@ -3530,7 +3538,7 @@ Imagem: Screenshot_133_jpg.rf.2c1ae5aaac8a1a21278bb3f9286abb61.jpg
 
 Imagem: Screenshot_133_jpg.rf.41455397f038cff08e04a2c5c01fbd50.jpg
 
-  * R-19-_60km-h\Screenshot_133_jpg.rf.41455397f038cff08e04a2c5c01fbd50.jpg
+    R-19-_60km-h-ANTIGO\Screenshot_133_jpg.rf.41455397f038cff08e04a2c5c01fbd50.jpg
     R-19-_90km-h\Screenshot_133_jpg.rf.41455397f038cff08e04a2c5c01fbd50.jpg
 --------------------------------------------------------------------------------
 
@@ -3580,13 +3588,13 @@ Imagem: Screenshot_138_jpg.rf.e3716120be9405f529aae2b4b6adbfd5.jpg
 
 Imagem: Screenshot_139_jpg.rf.2fe0575d89f661d3944ea1fa8ed1f555.jpg
 
-  * R-19-_60km-h\Screenshot_139_jpg.rf.2fe0575d89f661d3944ea1fa8ed1f555.jpg
+    R-19-_60km-h-ANTIGO\Screenshot_139_jpg.rf.2fe0575d89f661d3944ea1fa8ed1f555.jpg
     R-19-_70km-h\Screenshot_139_jpg.rf.2fe0575d89f661d3944ea1fa8ed1f555.jpg
 --------------------------------------------------------------------------------
 
 Imagem: Screenshot_141_jpg.rf.64a6e40ea7766219fee605bc5dab59e1.jpg
 
-  * R-19-_60km-h\Screenshot_141_jpg.rf.64a6e40ea7766219fee605bc5dab59e1.jpg
+    R-19-_60km-h-ANTIGO\Screenshot_141_jpg.rf.64a6e40ea7766219fee605bc5dab59e1.jpg
     R-19-_70km-h\Screenshot_141_jpg.rf.64a6e40ea7766219fee605bc5dab59e1.jpg
 --------------------------------------------------------------------------------
 
@@ -3616,7 +3624,7 @@ Imagem: Screenshot_145_jpg.rf.8ab4ac85859cc564cd92b353997bfb16.jpg
 
 Imagem: Screenshot_145_jpg.rf.d5c8e5534123ebd72c3c0cda01908692.jpg
 
-  * R-19-_60km-h\Screenshot_145_jpg.rf.d5c8e5534123ebd72c3c0cda01908692.jpg
+    R-19-_60km-h-ANTIGO\Screenshot_145_jpg.rf.d5c8e5534123ebd72c3c0cda01908692.jpg
     R-19-_90km-h\Screenshot_145_jpg.rf.d5c8e5534123ebd72c3c0cda01908692.jpg
 --------------------------------------------------------------------------------
 
@@ -3629,19 +3637,19 @@ Imagem: Screenshot_146_jpg.rf.64fa4a9b36fb3867f1ebb575d08869d5.jpg
 Imagem: Screenshot_146_jpg.rf.b6c46b3a92434f6afa616a81c2f82350.jpg
 
     R-19-_50km-h\Screenshot_146_jpg.rf.b6c46b3a92434f6afa616a81c2f82350.jpg
-  * R-19-_60km-h\Screenshot_146_jpg.rf.b6c46b3a92434f6afa616a81c2f82350.jpg
+    R-19-_60km-h-ANTIGO\Screenshot_146_jpg.rf.b6c46b3a92434f6afa616a81c2f82350.jpg
 --------------------------------------------------------------------------------
 
 Imagem: Screenshot_148_jpg.rf.082a7a2081086d0f0e73e268f486596b.jpg
 
     R-19-_50km-h\Screenshot_148_jpg.rf.082a7a2081086d0f0e73e268f486596b.jpg
-  * R-19-_60km-h\Screenshot_148_jpg.rf.082a7a2081086d0f0e73e268f486596b.jpg
+    R-19-_60km-h-ANTIGO\Screenshot_148_jpg.rf.082a7a2081086d0f0e73e268f486596b.jpg
 --------------------------------------------------------------------------------
 
 Imagem: Screenshot_149_jpg.rf.5fd2e17a82462631a18b931c95f6fcf2.jpg
 
     R-19-_50km-h\Screenshot_149_jpg.rf.5fd2e17a82462631a18b931c95f6fcf2.jpg
-  * R-19-_60km-h\Screenshot_149_jpg.rf.5fd2e17a82462631a18b931c95f6fcf2.jpg
+    R-19-_60km-h-ANTIGO\Screenshot_149_jpg.rf.5fd2e17a82462631a18b931c95f6fcf2.jpg
 --------------------------------------------------------------------------------
 
 Imagem: Screenshot_149_jpg.rf.b2d7ee3e8594034be4a9cf0d9e49eefb.jpg
@@ -3741,7 +3749,7 @@ Imagem: Screenshot_180_jpg.rf.9da98a316140778401ddc6a593090b66.jpg
 Imagem: Screenshot_181_jpg.rf.396dd89765f48093655b96a2870109cf.jpg
 
     MP-3-_Passagem_dupla\Screenshot_181_jpg.rf.396dd89765f48093655b96a2870109cf.jpg
-  * R-19-_60km-h\Screenshot_181_jpg.rf.396dd89765f48093655b96a2870109cf.jpg
+    R-19-_60km-h-ANTIGO\Screenshot_181_jpg.rf.396dd89765f48093655b96a2870109cf.jpg
 --------------------------------------------------------------------------------
 
 Imagem: Screenshot_182_jpg.rf.63a8e083d5d8f8ec07b0dec29fcc8651.jpg
@@ -3753,7 +3761,7 @@ Imagem: Screenshot_182_jpg.rf.63a8e083d5d8f8ec07b0dec29fcc8651.jpg
 Imagem: Screenshot_184_jpg.rf.f495b3dc985fce324353e146c62bbe6f.jpg
 
     MP-3-_Passagem_dupla\Screenshot_184_jpg.rf.f495b3dc985fce324353e146c62bbe6f.jpg
-  * R-19-_60km-h\Screenshot_184_jpg.rf.f495b3dc985fce324353e146c62bbe6f.jpg
+    R-19-_60km-h-ANTIGO\Screenshot_184_jpg.rf.f495b3dc985fce324353e146c62bbe6f.jpg
 --------------------------------------------------------------------------------
 
 Imagem: Screenshot_186_jpg.rf.bf23661ade5dc1fb1e49759ee40b1569.jpg
@@ -4201,7 +4209,7 @@ Imagem: Screenshot_585_jpg.rf.976711032ff1a830554cb756a2b15668.jpg
 
 Imagem: Screenshot_58_jpg.rf.cce92a882dfa73a64b1f564dc4218853.jpg
 
-  * R-19-_60km-h\Screenshot_58_jpg.rf.cce92a882dfa73a64b1f564dc4218853.jpg
+    R-19-_60km-h-ANTIGO\Screenshot_58_jpg.rf.cce92a882dfa73a64b1f564dc4218853.jpg
     R-19-_70km-h\Screenshot_58_jpg.rf.cce92a882dfa73a64b1f564dc4218853.jpg
 --------------------------------------------------------------------------------
 
@@ -4213,7 +4221,7 @@ Imagem: Screenshot_596_jpg.rf.ac56074414f405289d95a64fd301ae54.jpg
 
 Imagem: Screenshot_59_jpg.rf.0cc2d1a61b6559baa15f71da9545beb3.jpg
 
-  * R-19-_60km-h\Screenshot_59_jpg.rf.0cc2d1a61b6559baa15f71da9545beb3.jpg
+    R-19-_60km-h-ANTIGO\Screenshot_59_jpg.rf.0cc2d1a61b6559baa15f71da9545beb3.jpg
     R-19-_70km-h\Screenshot_59_jpg.rf.0cc2d1a61b6559baa15f71da9545beb3.jpg
 --------------------------------------------------------------------------------
 
@@ -4252,7 +4260,7 @@ Imagem: Screenshot_624_jpg.rf.c99fa003c152db8e0f8a133585a40094.jpg
     A-36-_Animais_selvagens\Screenshot_624_jpg.rf.c99fa003c152db8e0f8a133585a40094.jpg
     R-19-_10km-h\Screenshot_624_jpg.rf.c99fa003c152db8e0f8a133585a40094.jpg
     R-19-_30km-h\Screenshot_624_jpg.rf.c99fa003c152db8e0f8a133585a40094.jpg
-  * R-19-_60km-h\Screenshot_624_jpg.rf.c99fa003c152db8e0f8a133585a40094.jpg
+    R-19-_60km-h-ANTIGO\Screenshot_624_jpg.rf.c99fa003c152db8e0f8a133585a40094.jpg
     R-4b-_Proibido_virar_a_direita\Screenshot_624_jpg.rf.c99fa003c152db8e0f8a133585a40094.jpg
     R-9-_Proibido_caminhoes\Screenshot_624_jpg.rf.c99fa003c152db8e0f8a133585a40094.jpg
 --------------------------------------------------------------------------------
@@ -4261,7 +4269,7 @@ Imagem: Screenshot_625_jpg.rf.810c025d090ddd3062b57adaba9eda09.jpg
 
     R-19-_10km-h\Screenshot_625_jpg.rf.810c025d090ddd3062b57adaba9eda09.jpg
     R-19-_30km-h\Screenshot_625_jpg.rf.810c025d090ddd3062b57adaba9eda09.jpg
-  * R-19-_60km-h\Screenshot_625_jpg.rf.810c025d090ddd3062b57adaba9eda09.jpg
+    R-19-_60km-h-ANTIGO\Screenshot_625_jpg.rf.810c025d090ddd3062b57adaba9eda09.jpg
 --------------------------------------------------------------------------------
 
 Imagem: Screenshot_626_jpg.rf.bd8c54bdee5538c8c09ee4c81ba4a2e2.jpg
@@ -4286,13 +4294,13 @@ Imagem: Screenshot_628_jpg.rf.e1d712a7d75f97aace8946657d8a919f.jpg
     R-19-_120km-h\Screenshot_628_jpg.rf.e1d712a7d75f97aace8946657d8a919f.jpg
     R-19-_30km-h\Screenshot_628_jpg.rf.e1d712a7d75f97aace8946657d8a919f.jpg
     R-19-_50km-h\Screenshot_628_jpg.rf.e1d712a7d75f97aace8946657d8a919f.jpg
-  * R-19-_60km-h\Screenshot_628_jpg.rf.e1d712a7d75f97aace8946657d8a919f.jpg
+    R-19-_60km-h-ANTIGO\Screenshot_628_jpg.rf.e1d712a7d75f97aace8946657d8a919f.jpg
     R-19-_80km-h\Screenshot_628_jpg.rf.e1d712a7d75f97aace8946657d8a919f.jpg
 --------------------------------------------------------------------------------
 
 Imagem: Screenshot_62_jpg.rf.0bb5cca3a2307cacfce0e70bb08c24f7.jpg
 
-  * R-19-_60km-h\Screenshot_62_jpg.rf.0bb5cca3a2307cacfce0e70bb08c24f7.jpg
+    R-19-_60km-h-ANTIGO\Screenshot_62_jpg.rf.0bb5cca3a2307cacfce0e70bb08c24f7.jpg
     R-19-_70km-h\Screenshot_62_jpg.rf.0bb5cca3a2307cacfce0e70bb08c24f7.jpg
 --------------------------------------------------------------------------------
 
@@ -4318,13 +4326,13 @@ Imagem: Screenshot_68_jpg.rf.189b3437d038e312b8bace710f2f86b8.jpg
 
 Imagem: Screenshot_68_jpg.rf.74e30e2825a9f0bfb9cbb7895d328d9c.jpg
 
-  * R-19-_60km-h\Screenshot_68_jpg.rf.74e30e2825a9f0bfb9cbb7895d328d9c.jpg
+    R-19-_60km-h-ANTIGO\Screenshot_68_jpg.rf.74e30e2825a9f0bfb9cbb7895d328d9c.jpg
     R-19-_70km-h\Screenshot_68_jpg.rf.74e30e2825a9f0bfb9cbb7895d328d9c.jpg
 --------------------------------------------------------------------------------
 
 Imagem: Screenshot_69_jpg.rf.4f737e9440b116abd1938d171f9d6c02.jpg
 
-  * R-19-_60km-h\Screenshot_69_jpg.rf.4f737e9440b116abd1938d171f9d6c02.jpg
+    R-19-_60km-h-ANTIGO\Screenshot_69_jpg.rf.4f737e9440b116abd1938d171f9d6c02.jpg
     R-19-_70km-h\Screenshot_69_jpg.rf.4f737e9440b116abd1938d171f9d6c02.jpg
 --------------------------------------------------------------------------------
 
@@ -4336,7 +4344,7 @@ Imagem: Screenshot_6_jpg.rf.545890deabc8bbd176498feb33e9f8cb.jpg
 
 Imagem: Screenshot_70_jpg.rf.7b745516245487afdd71c1a972dd3f96.jpg
 
-  * R-19-_60km-h\Screenshot_70_jpg.rf.7b745516245487afdd71c1a972dd3f96.jpg
+    R-19-_60km-h-ANTIGO\Screenshot_70_jpg.rf.7b745516245487afdd71c1a972dd3f96.jpg
     R-19-_70km-h\Screenshot_70_jpg.rf.7b745516245487afdd71c1a972dd3f96.jpg
 --------------------------------------------------------------------------------
 
@@ -4361,7 +4369,7 @@ Imagem: Screenshot_74_jpg.rf.aa2f16e578b33b705ac4392077ce6ea7.jpg
 
 Imagem: Screenshot_76_jpg.rf.94f79624400dbfe5d525b7766456fc88.jpg
 
-  * R-19-_60km-h\Screenshot_76_jpg.rf.94f79624400dbfe5d525b7766456fc88.jpg
+    R-19-_60km-h-ANTIGO\Screenshot_76_jpg.rf.94f79624400dbfe5d525b7766456fc88.jpg
     R-19-_90km-h\Screenshot_76_jpg.rf.94f79624400dbfe5d525b7766456fc88.jpg
 --------------------------------------------------------------------------------
 
@@ -4373,7 +4381,7 @@ Imagem: Screenshot_76_jpg.rf.bd77255600d129ab39562082e6f8fdf6.jpg
 
 Imagem: Screenshot_77_jpg.rf.2f2ccf7f8622ec269a087708255c8096.jpg
 
-  * R-19-_60km-h\Screenshot_77_jpg.rf.2f2ccf7f8622ec269a087708255c8096.jpg
+    R-19-_60km-h-ANTIGO\Screenshot_77_jpg.rf.2f2ccf7f8622ec269a087708255c8096.jpg
     R-19-_90km-h\Screenshot_77_jpg.rf.2f2ccf7f8622ec269a087708255c8096.jpg
 --------------------------------------------------------------------------------
 
@@ -4391,7 +4399,7 @@ Imagem: Screenshot_78_jpg.rf.20ccd158437a0f95d0683473fdce2027.jpg
 
 Imagem: Screenshot_80_jpg.rf.fa90686d900dc7dc796f0f4166070b47.jpg
 
-  * R-19-_60km-h\Screenshot_80_jpg.rf.fa90686d900dc7dc796f0f4166070b47.jpg
+    R-19-_60km-h-ANTIGO\Screenshot_80_jpg.rf.fa90686d900dc7dc796f0f4166070b47.jpg
     R-19-_90km-h\Screenshot_80_jpg.rf.fa90686d900dc7dc796f0f4166070b47.jpg
     R-27-_Veiculos_lentos_usem_faixa_da_direita\Screenshot_80_jpg.rf.fa90686d900dc7dc796f0f4166070b47.jpg
 --------------------------------------------------------------------------------
@@ -4404,14 +4412,14 @@ Imagem: Screenshot_82_jpg.rf.2663b735c33209ecc0e1cbc43f087ab7.jpg
 
 Imagem: Screenshot_82_jpg.rf.4b1aa6afca8ed4aafb8440d8cdae4080.jpg
 
-  * R-19-_60km-h\Screenshot_82_jpg.rf.4b1aa6afca8ed4aafb8440d8cdae4080.jpg
+    R-19-_60km-h-ANTIGO\Screenshot_82_jpg.rf.4b1aa6afca8ed4aafb8440d8cdae4080.jpg
     R-19-_90km-h\Screenshot_82_jpg.rf.4b1aa6afca8ed4aafb8440d8cdae4080.jpg
     R-27-_Veiculos_lentos_usem_faixa_da_direita\Screenshot_82_jpg.rf.4b1aa6afca8ed4aafb8440d8cdae4080.jpg
 --------------------------------------------------------------------------------
 
 Imagem: Screenshot_83_jpg.rf.0c446207e5facdf871a9256a8b0f551a.jpg
 
-  * R-19-_60km-h\Screenshot_83_jpg.rf.0c446207e5facdf871a9256a8b0f551a.jpg
+    R-19-_60km-h-ANTIGO\Screenshot_83_jpg.rf.0c446207e5facdf871a9256a8b0f551a.jpg
     R-19-_90km-h\Screenshot_83_jpg.rf.0c446207e5facdf871a9256a8b0f551a.jpg
     R-27-_Veiculos_lentos_usem_faixa_da_direita\Screenshot_83_jpg.rf.0c446207e5facdf871a9256a8b0f551a.jpg
 --------------------------------------------------------------------------------
@@ -4425,19 +4433,19 @@ Imagem: Screenshot_83_jpg.rf.caaaeeb6bf2ee7c6996492cb37152875.jpg
 Imagem: Screenshot_86_jpg.rf.230147f1e37cfefd760c456c2abceac5.jpg
 
     R-19-_50km-h\Screenshot_86_jpg.rf.230147f1e37cfefd760c456c2abceac5.jpg
-  * R-19-_60km-h\Screenshot_86_jpg.rf.230147f1e37cfefd760c456c2abceac5.jpg
+    R-19-_60km-h-ANTIGO\Screenshot_86_jpg.rf.230147f1e37cfefd760c456c2abceac5.jpg
 --------------------------------------------------------------------------------
 
 Imagem: Screenshot_86_jpg.rf.af169123d78b1fe4e496a4b0d23c387b.jpg
 
-  * R-19-_60km-h\Screenshot_86_jpg.rf.af169123d78b1fe4e496a4b0d23c387b.jpg
+    R-19-_60km-h-ANTIGO\Screenshot_86_jpg.rf.af169123d78b1fe4e496a4b0d23c387b.jpg
     R-19-_90km-h\Screenshot_86_jpg.rf.af169123d78b1fe4e496a4b0d23c387b.jpg
 --------------------------------------------------------------------------------
 
 Imagem: Screenshot_87_jpg.rf.c6cfab7d81b6a5e66513c9a4328230af.jpg
 
     R-19-_50km-h\Screenshot_87_jpg.rf.c6cfab7d81b6a5e66513c9a4328230af.jpg
-  * R-19-_60km-h\Screenshot_87_jpg.rf.c6cfab7d81b6a5e66513c9a4328230af.jpg
+    R-19-_60km-h-ANTIGO\Screenshot_87_jpg.rf.c6cfab7d81b6a5e66513c9a4328230af.jpg
 --------------------------------------------------------------------------------
 
 Imagem: Screenshot_87_jpg.rf.e3354002551dc4ff8bf46e39faf18e9a.jpg
@@ -4449,13 +4457,13 @@ Imagem: Screenshot_87_jpg.rf.e3354002551dc4ff8bf46e39faf18e9a.jpg
 Imagem: Screenshot_88_jpg.rf.1e6a3162fb54ccc0efc9322fea97e60d.jpg
 
     R-19-_50km-h\Screenshot_88_jpg.rf.1e6a3162fb54ccc0efc9322fea97e60d.jpg
-  * R-19-_60km-h\Screenshot_88_jpg.rf.1e6a3162fb54ccc0efc9322fea97e60d.jpg
+    R-19-_60km-h-ANTIGO\Screenshot_88_jpg.rf.1e6a3162fb54ccc0efc9322fea97e60d.jpg
 --------------------------------------------------------------------------------
 
 Imagem: Screenshot_88_jpg.rf.7aba898b8ae60a4ebbe38ac8329e6343.jpg
 
     R-19-_50km-h\Screenshot_88_jpg.rf.7aba898b8ae60a4ebbe38ac8329e6343.jpg
-  * R-19-_60km-h\Screenshot_88_jpg.rf.7aba898b8ae60a4ebbe38ac8329e6343.jpg
+    R-19-_60km-h-ANTIGO\Screenshot_88_jpg.rf.7aba898b8ae60a4ebbe38ac8329e6343.jpg
 --------------------------------------------------------------------------------
 
 Imagem: Screenshot_88_jpg.rf.8c8fc1f838c1761f43b215934539c1c5.jpg
@@ -4491,13 +4499,13 @@ Imagem: Screenshot_8_jpg.rf.a6113a4243db651f118a30f70d9eb1d7.jpg
 Imagem: Screenshot_90_jpg.rf.b89345277f03d684e8e494da00ffe45d.jpg
 
     R-19-_50km-h\Screenshot_90_jpg.rf.b89345277f03d684e8e494da00ffe45d.jpg
-  * R-19-_60km-h\Screenshot_90_jpg.rf.b89345277f03d684e8e494da00ffe45d.jpg
+    R-19-_60km-h-ANTIGO\Screenshot_90_jpg.rf.b89345277f03d684e8e494da00ffe45d.jpg
 --------------------------------------------------------------------------------
 
 Imagem: Screenshot_94_jpg.rf.22532252d19ae851cb9376d4c10a0b01.jpg
 
     R-19-_50km-h\Screenshot_94_jpg.rf.22532252d19ae851cb9376d4c10a0b01.jpg
-  * R-19-_60km-h\Screenshot_94_jpg.rf.22532252d19ae851cb9376d4c10a0b01.jpg
+    R-19-_60km-h-ANTIGO\Screenshot_94_jpg.rf.22532252d19ae851cb9376d4c10a0b01.jpg
 --------------------------------------------------------------------------------
 
 Imagem: Screenshot_94_jpg.rf.7fde5a1eb4f42e4eeea70534729e7170.jpg
@@ -4509,7 +4517,7 @@ Imagem: Screenshot_94_jpg.rf.7fde5a1eb4f42e4eeea70534729e7170.jpg
 Imagem: Screenshot_95_jpg.rf.83cdc4ef0996c4b9110838c9d0cbebec.jpg
 
     R-19-_50km-h\Screenshot_95_jpg.rf.83cdc4ef0996c4b9110838c9d0cbebec.jpg
-  * R-19-_60km-h\Screenshot_95_jpg.rf.83cdc4ef0996c4b9110838c9d0cbebec.jpg
+    R-19-_60km-h-ANTIGO\Screenshot_95_jpg.rf.83cdc4ef0996c4b9110838c9d0cbebec.jpg
 --------------------------------------------------------------------------------
 
 Imagem: Screenshot_96_jpg.rf.62b7418f99b4c801e06c757709bc9840.jpg
@@ -4521,7 +4529,7 @@ Imagem: Screenshot_96_jpg.rf.62b7418f99b4c801e06c757709bc9840.jpg
 Imagem: Screenshot_96_jpg.rf.c881dde4cd2a4aee84a7db1aa8e1f86f.jpg
 
     R-19-_50km-h\Screenshot_96_jpg.rf.c881dde4cd2a4aee84a7db1aa8e1f86f.jpg
-  * R-19-_60km-h\Screenshot_96_jpg.rf.c881dde4cd2a4aee84a7db1aa8e1f86f.jpg
+    R-19-_60km-h-ANTIGO\Screenshot_96_jpg.rf.c881dde4cd2a4aee84a7db1aa8e1f86f.jpg
 --------------------------------------------------------------------------------
 
 Imagem: Screenshot_99_jpg.rf.5b0ee9dc9a37c382f355370aca25fcb7.jpg
@@ -4695,13 +4703,13 @@ Imagem: images-2-_jpg.rf.7d6ed173374da8bb5864fe21787d2018.jpg
 Imagem: images-34-_jpg.rf.daf4eef4864cb6f13d91b0bf050c1738.jpg
 
     R-19-_100km-h\images-34-_jpg.rf.daf4eef4864cb6f13d91b0bf050c1738.jpg
-  * R-19-_60km-h\images-34-_jpg.rf.daf4eef4864cb6f13d91b0bf050c1738.jpg
+    R-19-_60km-h-ANTIGO\images-34-_jpg.rf.daf4eef4864cb6f13d91b0bf050c1738.jpg
     R-19-_80km-h\images-34-_jpg.rf.daf4eef4864cb6f13d91b0bf050c1738.jpg
 --------------------------------------------------------------------------------
 
 Imagem: images-40-_jpg.rf.d26212e4a4a4bd52c131ae92e01f97a9.jpg
 
-  * R-19-_60km-h\images-40-_jpg.rf.d26212e4a4a4bd52c131ae92e01f97a9.jpg
+    R-19-_60km-h-ANTIGO\images-40-_jpg.rf.d26212e4a4a4bd52c131ae92e01f97a9.jpg
     R-19-_70km-h\images-40-_jpg.rf.d26212e4a4a4bd52c131ae92e01f97a9.jpg
 --------------------------------------------------------------------------------
 
@@ -4745,7 +4753,7 @@ Imagem: placa-sinalizacao-obras-01_jpg.rf.a717d8690521676e51d9c3589391d1ea.jpg
 
     A-21c-_Estreitamento_de_pista_a_direita\placa-sinalizacao-obras-01_jpg.rf.a717d8690521676e51d9c3589391d1ea.jpg
     A-24-_Obras\placa-sinalizacao-obras-01_jpg.rf.a717d8690521676e51d9c3589391d1ea.jpg
-  * R-19-_60km-h\placa-sinalizacao-obras-01_jpg.rf.a717d8690521676e51d9c3589391d1ea.jpg
+    R-19-_60km-h-ANTIGO\placa-sinalizacao-obras-01_jpg.rf.a717d8690521676e51d9c3589391d1ea.jpg
     R-19-_80km-h\placa-sinalizacao-obras-01_jpg.rf.a717d8690521676e51d9c3589391d1ea.jpg
 --------------------------------------------------------------------------------
 
@@ -4810,5 +4818,5 @@ Imagem: rotatorialiv_jpg.rf.5429bd297d7618935a251d2e7352d134.jpg
 --------------------------------------------------------------------------------
 
 ================================================================================
-Total de imagens repetidas: 773
+Total de imagens repetidas: 774
 ================================================================================
