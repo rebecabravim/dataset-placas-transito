@@ -6,7 +6,7 @@ R-6c-_Proibido_parar_e_estacionar: 127 arquivos 4 V
 A-18-_Lombada: 100 arquivos 5 V
 A-2b-_Curva_a_direita: 107 arquivos 6 V
 R-1-_Pare: ? arquivos 7 (em andamento)
-R-2-_De_a_preferencia: 87 arquivos 8 
+R-2-_De_a_preferencia: 63 arquivos 8 
 A-32a-_Transito_de_pedestres: 123 arquivos 9 (em andamento)
 A-2a-_Curva_a_esquerda: 115 arquivos 10 V (em andamento)
 R-4a-_Proibido_virar_a_esquerda: 35 arquivos 11 V (mais 66 arquivos novos para rotular)
